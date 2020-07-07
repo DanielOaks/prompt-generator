@@ -1,0 +1,6 @@
+---
+---
+{
+    "setup": {{ site.data.setup | jsonify }},
+    "data_files": {{ site.data.files | jsonify }}
+}

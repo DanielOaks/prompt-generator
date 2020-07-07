@@ -1,0 +1,24 @@
+categories:
+  mlp:
+    name: "MLP:FiM"
+    characters:
+      - mlp/characters/mane-cast
+    locations:
+      - common/locations/village
+      - mlp/locations/ponyville
+    scenes:
+      - common/small-town
+      - mlp/scenes
+
+  su:
+    name: Steven Universe
+    characters:
+      - su/characters
+    locations:
+      - common/locations/earth
+      - common/locations/beach
+      - su/locations
+    scenes:
+      - common/scenes/town
+      - common/scenes/beach
+      - su/scenes
