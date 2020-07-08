@@ -10,6 +10,12 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor
+  - node_modules
+  - .jekyll-cache
+  - package.json
+  - package-lock.json
+  - webpack.config.babel.js
+  - vue.config.js
 
 compress_html:
   clippings: []

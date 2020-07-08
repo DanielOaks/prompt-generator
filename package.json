@@ -6,15 +6,26 @@
   "repository": "git@github.com:DanielOaks/prompt-generator.git",
   "author": "Daniel Oakley <daniel@danieloaks.net>",
   "scripts": {
-    "build": "npm run-script clean && webpack --progress --profile --colors --mode=production",
-    "serve": "npm run-script clean && webpack --progress --profile --colors --mode=development",
-    "clean": "rimraf ./_site ./assets"
+    "build": "npm run-script clean && webpack --progress --profile --colors --mode=production && bundle exec jekyll build",
+    "serve": "npm run-script clean && webpack --progress --profile --colors --mode=development && bundle exec jekyll serve -w",
+    "clean": "rimraf ./_site ./assets ./main.js"
   },
   "keywords": [],
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.6.0",
+    "node-sass": "^4.14.1",
     "rimraf": "^3.0.2",
+    "sass-loader": "^9.0.2",
+    "vue-loader": "^15.9.3",
+    "vue-template-compiler": "^2.6.11",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "vue": "^2.6.11"
   }
 }
