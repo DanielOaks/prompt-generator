@@ -1,23 +1,24 @@
 <template><div class="page">
-  <h1>Home Page</h1>
+  <h1>Results</h1>
 
-  <button class="button" v-on:click="moveToCategoriesPage()">Goto Categories</button>
-  
+  <button class="button" v-on:click="moveToCategoriesPage()">Go Back</button>
+
 </div></template>
 
 <script>
 export default {
-  name: 'HomePage',
+  name: 'CategoriesPage',
   methods: {
     show: function(e) {
       for (const p of document.getElementsByClassName('page')) {
-        p.classList.remove('passed');
-        p.classList.add('todo');
+        p.classList.remove('todo');
+        p.classList.add('passed');
       }
+
       this.$el.classList.remove('todo', 'passed');
     },
     moveToCategoriesPage: function() {
-      this.$parent.$refs.categoriesPage.show();
+      this.$parent.$refs.categoryPage.show();
     },
   },
 }
@@ -27,6 +28,6 @@ export default {
 $gray: darkslategrey;
 h1 {
   color: $gray;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 </style>

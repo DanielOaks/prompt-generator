@@ -1,14 +1,14 @@
 <template><div class="page">
-  <h1>Categories Page</h1>
+  <h1>Category Page</h1>
 
-  <button class="button" v-on:click="moveToHomePage()">Go Home</button>
-  <button class="button" v-on:click="moveToCategoryPage()">MLP</button>
+  <button class="button" v-on:click="moveToCategoriesPage()">Go Back</button>
+  <button class="button" v-on:click="moveToResultsPage()">Generate</button>
 
 </div></template>
 
 <script>
 export default {
-  name: 'CategoriesPage',
+  name: 'CategoryPage',
   methods: {
     show: function(e) {
       for (const p of document.getElementsByClassName('page')) {
@@ -18,14 +18,17 @@ export default {
       const hp = this.$parent.$refs.homePage.$el;
       hp.classList.remove('todo');
       hp.classList.add('passed');
+      const cp = this.$parent.$refs.categoriesPage.$el;
+      cp.classList.remove('todo');
+      cp.classList.add('passed');
 
       this.$el.classList.remove('todo', 'passed');
     },
-    moveToHomePage: function() {
-      this.$parent.$refs.homePage.show();
+    moveToCategoriesPage: function() {
+      this.$parent.$refs.categoriesPage.show();
     },
-    moveToCategoryPage: function() {
-      this.$parent.$refs.categoryPage.show();
+    moveToResultsPage: function() {
+      this.$parent.$refs.resultsPage.show();
     },
   },
 }
