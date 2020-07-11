@@ -26,6 +26,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
+    "json-pointer": "^0.6.0",
     "vue": "^2.6.11"
   }
 }

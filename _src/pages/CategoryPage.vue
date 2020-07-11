@@ -1,5 +1,6 @@
 <template><div class="page">
   <h1>Category Page</h1>
+  <h2>{{$root.current_category}}</h2>
 
   <button class="button" v-on:click="moveToCategoriesPage()">Go Back</button>
   <button class="button" v-on:click="moveToResultsPage()">Generate</button>

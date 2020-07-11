@@ -2,7 +2,8 @@
   <h1>Categories Page</h1>
 
   <button class="button" v-on:click="moveToHomePage()">Go Home</button>
-  <button class="button" v-on:click="moveToCategoryPage()">MLP</button>
+
+  <button class="button" v-on:click="moveToCategoryPage(id)" v-for="(info, id) in $root.setup.categories" v-bind:key="id">{{ info.name }}</button>
 
 </div></template>
 
@@ -24,7 +25,9 @@ export default {
     moveToHomePage: function() {
       this.$parent.$refs.homePage.show();
     },
-    moveToCategoryPage: function() {
+    moveToCategoryPage: function(id) {
+      this.$root.$data.current_category = id;
+
       this.$parent.$refs.categoryPage.show();
     },
   },
