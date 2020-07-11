@@ -3,6 +3,7 @@ categories:
     name: "MLP:FiM"
     characters:
       - mlp/characters/mane-cast
+      - mlp/characters/big-list
     locations:
       - common/locations/village
       - mlp/locations/ponyville
