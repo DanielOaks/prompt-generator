@@ -13,7 +13,7 @@ categories:
   su:
     name: Steven Universe
     characters:
-      - su/characters
+      - su/characters/main-cast
     locations:
       - common/locations/earth
       - common/locations/beach
