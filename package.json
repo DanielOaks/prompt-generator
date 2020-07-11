@@ -28,5 +28,12 @@
   "dependencies": {
     "json-pointer": "^0.6.0",
     "vue": "^2.6.11"
+  },
+  "nodemonConfig": {
+    "watch": [
+      "_src"
+    ],
+    "ext": "js,vue",
+    "exec": "npm run serve"
   }
 }
