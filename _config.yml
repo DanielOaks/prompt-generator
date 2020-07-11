@@ -1,5 +1,5 @@
 # baseurl is the root
-baseurl: '/'
+baseurl: ''
 
 # Files/Folders to exclude from the final output
 exclude:
