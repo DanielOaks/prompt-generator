@@ -17,7 +17,6 @@ export default {
       this.$el.classList.remove('todo', 'passed');
     },
     moveToCategoryPage: function(id) {
-      console.log('move func');
       this.$root.$data.current_category = id;
 
       this.$parent.$refs.categoryPage.show();

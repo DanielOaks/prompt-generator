@@ -12,6 +12,8 @@ Vue.component('categoriesPage', CategoriesPage)
 Vue.component('categoryPage', CategoryPage)
 Vue.component('resultsPage', ResultsPage)
 
+Vue.prototype.$jsonPointer = jsonPointer;
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
@@ -19,11 +21,13 @@ new Vue({
     setup: {
       'categories': {},
     },
-    categories: {},
-    generate_characters: 0,
+    generate_characters: 1,
     generate_location: false,
     generate_scenes: 0,
     current_category: '',
+    characterCache: {},
+    locationCache: {},
+    charsToDisplay: [],
   },
   mounted: function() {
     this.$refs.categoriesPage.show();

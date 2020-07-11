@@ -42,7 +42,8 @@ export default {
       this.$parent.$refs.categoriesPage.show();
     },
     moveToResultsPage: function() {
-      //this.$parent.$refs.resultsPage.generate();
+      this.$parent.$refs.resultsPage.generateCaches();
+      this.$parent.$refs.resultsPage.generateResults();
       this.$parent.$refs.resultsPage.show();
     },
   },
