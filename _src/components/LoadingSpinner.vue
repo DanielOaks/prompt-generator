@@ -16,7 +16,7 @@ export default {
 
 <style lang="scss" scoped>
 .whole-page-covering {
-  position: absolute;
+  position: fixed;
   z-index: 99;
   left: 0;
   top: 0;
