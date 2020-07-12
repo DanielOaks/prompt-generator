@@ -15,7 +15,7 @@
     </div>
   </div>
 
-<p class="footer" v-if="$root.setup.categories[$root.current_category].disclaimer" v-html="$root.setup.categories[$root.current_category].disclaimer"></p>
+<div v-if="$root.setup.categories[$root.current_category]"><p class="footer" v-if="$root.setup.categories[$root.current_category].disclaimer" v-html="$root.setup.categories[$root.current_category].disclaimer"></p></div>
 
 </div></div></template>
 
