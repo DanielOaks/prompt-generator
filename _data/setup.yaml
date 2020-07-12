@@ -2,8 +2,15 @@ categories:
   mlp:
     name: "MLP:FiM"
     characters:
-      - mlp/characters/mane-cast
-      - mlp/characters/big-list
+      # - mlp/characters/mane-cast
+      - mlp/characters/mlp-fandom-wiki/Alicorn_ponies
+      - mlp/characters/mlp-fandom-wiki/Crystal_ponies
+      - mlp/characters/mlp-fandom-wiki/Earth_ponies
+      - mlp/characters/mlp-fandom-wiki/Elders
+      - mlp/characters/mlp-fandom-wiki/Foals
+      - mlp/characters/mlp-fandom-wiki/Kirin
+      - mlp/characters/mlp-fandom-wiki/Pegasus_ponies
+      - mlp/characters/mlp-fandom-wiki/Unicorn_ponies
     locations:
       - common/locations/village
       - mlp/locations/ponyville

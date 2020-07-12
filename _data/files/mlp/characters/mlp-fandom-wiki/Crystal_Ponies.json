@@ -1,0 +1,545 @@
+{
+    "name": "Crystal ponies (fandom wiki)",
+    "characters": [
+        {
+            "name": "Earth Crystal Pony royal guards",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Royal_guards\" title=\"Royal guards\">royal guards</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/earth-crystal-pony-royal-guards.png"
+        },
+        {
+            "name": "Lavender Crystal Pony\nAmber Laurel",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Has speaking roles in The Crystalling - Part 1 and <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>, voiced by <a href=\"https://mlp.fandom.com/wiki/Andrea_Libman\" title=\"Andrea Libman\">Andrea Libman</a> in both. Also appears in <a href=\"https://mlp.fandom.com/wiki/A_Royal_Problem\" title=\"A Royal Problem\">A Royal Problem</a>, <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>, <a href=\"https://mlp.fandom.com/wiki/The_Parent_Map\" title=\"The Parent Map\">The Parent Map</a>, and <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>. Her cutie mark is an ornamental flowerpot. She is a character called \"Lavender Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/lavender-crystal-pony-amber-laurel.png"
+        },
+        {
+            "name": "Amberlocks",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in the <a href=\"https://mlp.fandom.com/wiki/Crystal_Empire\" title=\"Crystal Empire\">Crystal Empire</a> in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a> and <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a> and in <a href=\"https://mlp.fandom.com/wiki/Canterlot\" title=\"Canterlot\">Canterlot</a> in <a href=\"https://mlp.fandom.com/wiki/Magical_Mystery_Cure\" title=\"Magical Mystery Cure\">Magical Mystery Cure</a>. Her cutie mark is a grain of wheat.",
+            "img": "mlp/wiki/Crystal_Ponies/amberlocks.png"
+        },
+        {
+            "name": "Plum Crystal Pony\nAmethyst Shard",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>, <a href=\"https://mlp.fandom.com/wiki/It_Isn%27t_the_Mane_Thing_About_You\" title=\"It Isn't the Mane Thing About You\">It Isn't the Mane Thing About You</a>, <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>, and <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>. Her cutie mark is three purple wheel-shaped objects. She is a character called \"Plum Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/plum-crystal-pony-amethyst-shard.png"
+        },
+        {
+            "name": "Arctic Lily",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a>. She also appears in a photograph in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 5. Her cutie mark is a fleur-de-lis.",
+            "img": "mlp/wiki/Crystal_Ponies/arctic-lily.png"
+        },
+        {
+            "name": "Autumn Gem",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Autumn_Gem\" title=\"Autumn Gem\">Autumn Gem</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/autumn-gem.png"
+        },
+        {
+            "name": "Berry Splash",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> athlete who appears in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/berry-splash.png"
+        },
+        {
+            "name": "Bright Smile",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Bright_Smile\" title=\"Bright Smile\">Bright Smile</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/bright-smile.png"
+        },
+        {
+            "name": "Mail Pony\nBrilliant Service",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Parent_Map\" title=\"The Parent Map\">The Parent Map</a> as a Crystal Empire mail carrier. His cutie mark is a red ribbon. He is a character called \"Crystal Mailpony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>; his bio states, \"Neither snow nor sleet nor Sombra can keep him from his appointed rounds! Well, maybe that last one can.\" Voiced by Andrew McNee.",
+            "img": "mlp/wiki/Crystal_Ponies/mail-pony-brilliant-service.png"
+        },
+        {
+            "name": "Check Mate",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a>. He also appears in a photograph in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 5. His cutie mark is a <a href=\"http://en.wikipedia.org/wiki/Battlement\" class=\"extiw\" title=\"wikipedia:Battlement\">crenelated</a> tower.",
+            "img": "mlp/wiki/Crystal_Ponies/check-mate.png"
+        },
+        {
+            "name": "Crystal Beau",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Crystal_Beau\" title=\"Crystal Beau\">Crystal Beau</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/crystal-beau.png"
+        },
+        {
+            "name": "Crystal Hoof",
+            "description": "Disguise used by <a href=\"https://mlp.fandom.com/wiki/Thorax\" title=\"Thorax\">Thorax</a> in <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/crystal-hoof.png"
+        },
+        {
+            "name": "Crystal Varado",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/Equestria_Games\" title=\"Equestria Games\">Equestria Games</a>, fanning <a href=\"https://mlp.fandom.com/wiki/Spike\" title=\"Spike\">Spike</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a>, <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a>, and <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9.",
+            "img": "mlp/wiki/Crystal_Ponies/crystal-varado.png"
+        },
+        {
+            "name": "Dandy Brush",
+            "description": "One of the stylist <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Ponies</a> who appear in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/File:German_Season_3_Poster.jpg\" title=\"File:German Season 3 Poster.jpg\">the season 3 poster</a>. Her cutie mark is a brush.",
+            "img": "mlp/wiki/Crystal_Ponies/dandy-brush.png"
+        },
+        {
+            "name": "Elbow Grease",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Elbow_Grease\" title=\"Elbow Grease\">Elbow Grease</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/elbow-grease.png"
+        },
+        {
+            "name": "Esmeralda",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a>. Her cutie mark is a fleur-de-lis.",
+            "img": "mlp/wiki/Crystal_Ponies/esmeralda.png"
+        },
+        {
+            "name": "Cream Crystal Pony\nFleur De Verre",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Fleur_De_Verre\" title=\"Fleur De Verre\">Fleur De Verre</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/cream-crystal-pony-fleur-de-verre.png"
+        },
+        {
+            "name": "Indigo Crystal Pony\nGallic",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>, <a href=\"https://mlp.fandom.com/wiki/A_Royal_Problem\" title=\"A Royal Problem\">A Royal Problem</a>, <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>, <a href=\"https://mlp.fandom.com/wiki/The_Parent_Map\" title=\"The Parent Map\">The Parent Map</a>, <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>, and <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. His cutie mark is a royal guard helmet. He is a character called \"Indigo Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/indigo-crystal-pony-gallic.png"
+        },
+        {
+            "name": "Golden Glitter",
+            "description": "One of the stylist <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Ponies</a> who appear in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>, <a href=\"https://mlp.fandom.com/wiki/It_Isn%27t_the_Mane_Thing_About_You\" title=\"It Isn't the Mane Thing About You\">It Isn't the Mane Thing About You</a>, and <a href=\"https://mlp.fandom.com/wiki/File:German_Season_3_Poster.jpg\" title=\"File:German Season 3 Poster.jpg\">the season 3 poster</a>. Her cutie mark is a crown. She is named in the twenty-second wave of <a href=\"https://mlp.fandom.com/wiki/Toys#Mystery_packs\" title=\"Toys\">mystery pack toys</a> and <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collector_cards\" title=\"Merchandise\">collector cards</a>. The collector card states about Golden Glitter, \"She throws parties for her friends.\"",
+            "img": "mlp/wiki/Crystal_Ponies/golden-glitter.png"
+        },
+        {
+            "name": "Golden Hooves",
+            "description": "A messenger <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a>, <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a>, <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>, <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9, and <a href=\"https://mlp.fandom.com/wiki/File:German_Season_3_Poster.jpg\" title=\"File:German Season 3 Poster.jpg\">the season 3 poster</a>. She resembles <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Lemon_Hearts\" title=\"List of ponies\">Lemon Hearts</a> in color scheme. She is named \"Golden Hooves\" in the twenty-second wave of <a href=\"https://mlp.fandom.com/wiki/Toys#Mystery_packs\" title=\"Toys\">mystery pack toys</a> and <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collector_cards\" title=\"Merchandise\">collector cards</a>. The collector card states about Golden Hooves, \"She delivers good news to friends.\" Her cutie mark in the show is a grain of wheat and on the toy is a winged lightning bolt. Voiced by Cathy Weseluck. She was first named \"Mercury\" on her Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> The Crystal Games expansion set card <a href=\"https://mlp.fandom.com/wiki/File:Mercury,_Crystal_Messenger_card_MLP_CCG.jpg\" title=\"File:Mercury, Crystal Messenger card MLP CCG.jpg\">#40 U</a>, which gives her the description \"<i>Fast on her hooves and with a detailed memory of every street corner and business around, there is no better messenger pony in the Crystal Empire than Mercury!</i>\" She is a character named \"Mercury\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. The game's description of her states, \"This messenger pony’s speed just can’t be beat. You need a delivery? She’ll see it complete!\"",
+            "img": "mlp/wiki/Crystal_Ponies/golden-hooves.png"
+        },
+        {
+            "name": "Orange Crystal Pony\nGolden Väs",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Has speaking roles in The Crystalling - Part 1 and <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>. Voiced by <a href=\"https://mlp.fandom.com/wiki/Andrew_Francis\" title=\"Andrew Francis\">Andrew Francis</a> in the former, and Ian Hanlin in the latter. Also appears in <a href=\"https://mlp.fandom.com/wiki/It_Isn%27t_the_Mane_Thing_About_You\" title=\"It Isn't the Mane Thing About You\">It Isn't the Mane Thing About You</a>, <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>, <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>, and <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. His cutie mark is an ornamental vase. He is a character called \"Orange Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/orange-crystal-pony-golden-vas.png"
+        },
+        {
+            "name": "Golden Wheat",
+            "description": "One of the cleaning <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Ponies</a> who appear in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a>. Her cutie mark is a grain of wheat. She is named on her Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> The Crystal Games expansion set card <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/File:CrystalGames_084.jpg\" class=\"extiw\" title=\"w:c:mlpccg:File:CrystalGames 084.jpg\">#84 C</a>, which gives her the description \"<i>Golden Wheat put just as much effort into cleaning the city before the Equestria Games as she does caring for her little animal friends throughout the Crystal Empire.</i>\"",
+            "img": "mlp/wiki/Crystal_Ponies/golden-wheat.png"
+        },
+        {
+            "name": "Honeysparkle",
+            "description": "One of the stylist <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Ponies</a> who appear in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Has a speaking role in <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/File:German_Season_3_Poster.jpg\" title=\"File:German Season 3 Poster.jpg\">the season 3 poster</a>. She resembles <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Sweetie_Drops\" title=\"List of ponies\">Sweetie Drops</a> in color scheme. Her cutie mark is a pair of combs. She is named \"Honeysparkle\" in the twenty-third wave of <a href=\"https://mlp.fandom.com/wiki/Toys#Mystery_packs\" title=\"Toys\">mystery pack toys</a> and <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collector_cards\" title=\"Merchandise\">collector cards</a>. She was first named \"Glamour Gleam\" on her Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> The Crystal Games expansion set card <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/File:CrystalGames_064.jpg\" class=\"extiw\" title=\"w:c:mlpccg:File:CrystalGames 064.jpg\">#64 U</a>, which lists the quote \"You'll feel MUCH better after you exfoliate, darling, trust me.\" She is a character named \"Glamour Gleam\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/honeysparkle.png"
+        },
+        {
+            "name": "Ivory Crystal Pony\nIvory Rook",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Ivory_Rook\" title=\"Ivory Rook\">Ivory Rook</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/ivory-crystal-pony-ivory-rook.png"
+        },
+        {
+            "name": "Jade",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a>. Her cutie mark is a fleur-de-lis.",
+            "img": "mlp/wiki/Crystal_Ponies/jade.png"
+        },
+        {
+            "name": "Jaded Jasper",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a>. His cutie mark is a crenelated tower.",
+            "img": "mlp/wiki/Crystal_Ponies/jaded-jasper.png"
+        },
+        {
+            "name": "Lilac Luster",
+            "description": "One of the stylist <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Ponies</a> who appear in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/File:German_Season_3_Poster.jpg\" title=\"File:German Season 3 Poster.jpg\">the season 3 poster</a>. She resembles <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Daisy\" title=\"List of ponies\">Daisy</a> in color scheme. Her cutie mark is two flowers and a bow. She is named in the twenty-second wave of <a href=\"https://mlp.fandom.com/wiki/Toys#Mystery_packs\" title=\"Toys\">mystery pack toys</a> and <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collector_cards\" title=\"Merchandise\">collector cards</a>. The collector card states about Lilac Luster, \"She loves shiny, happy friends.\" She was first named on her Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> The Crystal Games expansion set card <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/File:CrystalGames_066.jpg\" class=\"extiw\" title=\"w:c:mlpccg:File:CrystalGames 066.jpg\">#66 C</a>, which gives her the description \"<i>Lilac Luster's personal motto is that the better you take care of yourself, the better you take care of others.</i>\" She is a character in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/lilac-luster.png"
+        },
+        {
+            "name": "Mustache Crystal Pony\nMustafa Combe",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Also appears in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. Has the same body type as <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Trenderhoof\" title=\"List of ponies\">Trenderhoof</a>, \"<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Free_Throw\" title=\"List of ponies\">Free Throw</a>\", \"<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Natural_Deduction\" title=\"List of ponies\">Natural Deduction</a>\", \"<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Uptown_Clover\" title=\"List of ponies\">Uptown Clover</a>\", and <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S06E17_UES6\" title=\"List of ponies\">S06E17 Unnamed Earth Stallion #6</a> and a similar body type to \"<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Sprig_Hooffield\" title=\"List of ponies\">Sprig Hooffield</a>\", <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S07E10_UES4\" title=\"List of ponies\">S07E10 Unnamed Earth Stallion #4</a>, and <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Chancellor_Neighsay\" title=\"List of ponies\">Chancellor Neighsay</a>. His cutie mark is a mustache and comb. Voiced by Russell Roberts. He is a character called \"Mustache Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/mustache-crystal-pony-mustafa-combe.png"
+        },
+        {
+            "name": "Neighls Bohr",
+            "description": "A freckled <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/Equestria_Games\" title=\"Equestria Games\">Equestria Games</a> with a speaking role. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a>, in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a>, in <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>, in <a href=\"https://mlp.fandom.com/wiki/Fame_and_Misfortune\" title=\"Fame and Misfortune\">Fame and Misfortune</a>, in <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>, in <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>, in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9, and on the <a href=\"https://mlp.fandom.com/wiki/File:Season_4_poster.jpg\" title=\"File:Season 4 poster.jpg\">season 4</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise#Posters\" title=\"Merchandise\">poster</a>. Voiced by Ashleigh Ball.",
+            "img": "mlp/wiki/Crystal_Ponies/neighls-bohr.png"
+        },
+        {
+            "name": "Night Knight",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Night_Knight\" title=\"Night Knight\">Night Knight</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/night-knight.png"
+        },
+        {
+            "name": "Periwinkle Pace",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> athlete who appears in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. <a rel=\"nofollow\" class=\"external text\" href=\"http://ecx.images-amazon.com/images/I/812FTZRdIIL.jpg\">In</a> the <a href=\"https://mlp.fandom.com/wiki/Merchandise#Print\" title=\"Merchandise\">book</a> <i>Winning Style</i>, he appears alongside \"<a href=\"#Rapid_Rush\">Rapid Rush</a>\" and \"<a href=\"#Toastie\">Toastie</a>\" on page 8 and is set to win the race on page 9. He is named on his Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> The Crystal Games expansion set card <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/File:CrystalGames_011.jpg\" class=\"extiw\" title=\"w:c:mlpccg:File:CrystalGames 011.jpg\">#11 C</a>, which lists the quote \"I won the Crystal Empire Jump Rope Championships before most ponies in Equestria were born! So when I tell you that you should stretch before you exercise, you better believe I know what I'm talking about.\"",
+            "img": "mlp/wiki/Crystal_Ponies/periwinkle-pace.png"
+        },
+        {
+            "name": "Purple Polish",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears <a href=\"https://mlp.fandom.com/wiki/File:Crystal_earth_mare_purple_S3E02.png\" title=\"File:Crystal earth mare purple S3E02.png\">in</a> <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a> and cleaning in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/purple-polish.png"
+        },
+        {
+            "name": "Rapid Rush",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> athlete who appears in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. <a rel=\"nofollow\" class=\"external text\" href=\"http://ecx.images-amazon.com/images/I/812FTZRdIIL.jpg\">In</a> the <a href=\"https://mlp.fandom.com/wiki/Merchandise#Print\" title=\"Merchandise\">book</a> <i>Winning Style</i>, she appears alongside \"<a href=\"#Toastie\">Toastie</a>\" and <a href=\"#Periwinkle_Pace\">Periwinkle Pace</a> on page 8 and is set to lose the race on page 9.",
+            "img": "mlp/wiki/Crystal_Ponies/rapid-rush.png"
+        },
+        {
+            "name": "Rooks Rampart",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in the <a href=\"https://mlp.fandom.com/wiki/Crystal_Empire\" title=\"Crystal Empire\">Crystal Empire</a> in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a>, <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>, <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a>, <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a>, and <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>, and in <a href=\"https://mlp.fandom.com/wiki/Canterlot\" title=\"Canterlot\">Canterlot</a> in <a href=\"https://mlp.fandom.com/wiki/Magical_Mystery_Cure\" title=\"Magical Mystery Cure\">Magical Mystery Cure</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. His cutie mark is a <a href=\"http://en.wikipedia.org/wiki/Battlement\" class=\"extiw\" title=\"wikipedia:Battlement\">crenelated</a> tower. He is named \"Rooks Rampart\" in the twenty-second wave of <a href=\"https://mlp.fandom.com/wiki/Toys#Mystery_packs\" title=\"Toys\">mystery pack toys</a> and <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collector_cards\" title=\"Merchandise\">collector cards</a>. The collector card states about Rooks Rampart, \"A friendly game is his favorite thing.\" He was first named \"Rook Ramparts\" on his Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> The Crystal Games expansion set card <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/File:CrystalGames_055.jpg\" class=\"extiw\" title=\"w:c:mlpccg:File:CrystalGames 055.jpg\">#55 C</a>, which attributes to him and <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Pinkie_Pie\" title=\"List of ponies\">Pinkie Pie</a> the respective quotes \"Knight to queen's bishop 3.\" and \"Go fish!\"",
+            "img": "mlp/wiki/Crystal_Ponies/rooks-rampart.png"
+        },
+        {
+            "name": "Rose Quartz",
+            "description": "One of the stylist <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Ponies</a> who appear in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/File:German_Season_3_Poster.jpg\" title=\"File:German Season 3 Poster.jpg\">the season 3 poster</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/rose-quartz.png"
+        },
+        {
+            "name": "Rubinstein",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Rubinstein\" title=\"Rubinstein\">Rubinstein</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/rubinstein.png"
+        },
+        {
+            "name": "Sand Arrow",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_1\" title=\"The Crystal Empire - Part 1\">The Crystal Empire - Part 1</a>. His cutie mark is an archer's bow and arrow.",
+            "img": "mlp/wiki/Crystal_Ponies/sand-arrow.png"
+        },
+        {
+            "name": "Sapphire Joy",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Sapphire_Joy\" title=\"Sapphire Joy\">Sapphire Joy</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/sapphire-joy.png"
+        },
+        {
+            "name": "Sapphire Rose",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a> and <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Her cutie mark appears to be a grain of wheat.",
+            "img": "mlp/wiki/Crystal_Ponies/sapphire-rose.png"
+        },
+        {
+            "name": "Yellow Crystal Pony\nScarlet Heart",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Has speaking roles in The Crystalling - Part 1 and <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>. She is voiced by <a href=\"https://mlp.fandom.com/wiki/Nicole_Oliver\" title=\"Nicole Oliver\">Nicole Oliver</a> in the former and Iris Quinn in the latter. Also appears in <a href=\"https://mlp.fandom.com/wiki/A_Royal_Problem\" title=\"A Royal Problem\">A Royal Problem</a>, <a href=\"https://mlp.fandom.com/wiki/It_Isn%27t_the_Mane_Thing_About_You\" title=\"It Isn't the Mane Thing About You\">It Isn't the Mane Thing About You</a>, <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>, <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>, <a href=\"https://mlp.fandom.com/wiki/The_Ending_of_the_End_-_Part_2\" title=\"The Ending of the End - Part 2\">The Ending of the End - Part 2</a>, and <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. Her cutie mark is three red hearts. She is a character called \"Yellow Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/yellow-crystal-pony-scarlet-heart.png"
+        },
+        {
+            "name": "Pin Pony\nScouts Honor",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Also appears in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. His cutie mark is three safety pins. Voiced by Ian Hanlin. He is a character called \"Pin Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/pin-pony-scouts-honor.png"
+        },
+        {
+            "name": "Green Crystal Pony\nSilver Medal",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Times_They_Are_A_Changeling\" title=\"The Times They Are A Changeling\">The Times They Are A Changeling</a>, <a href=\"https://mlp.fandom.com/wiki/It_Isn%27t_the_Mane_Thing_About_You\" title=\"It Isn't the Mane Thing About You\">It Isn't the Mane Thing About You</a>, <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>, <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>, and <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. His cutie mark is a trophy-like object. He is a character called \"Green Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/green-crystal-pony-silver-medal.png"
+        },
+        {
+            "name": "Sugar Glass",
+            "description": "A food stand <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a>, <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a>, <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>, and <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9, and <a href=\"https://mlp.fandom.com/wiki/File:German_Season_3_Poster.jpg\" title=\"File:German Season 3 Poster.jpg\">the season 3 poster</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/sugar-glass.png"
+        },
+        {
+            "name": "Sunshine Splash",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> athlete who appears in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/sunshine-splash.png"
+        },
+        {
+            "name": "Take Off",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> at the Crystal Empire train station. His cutie mark is a paper airplane.",
+            "img": "mlp/wiki/Crystal_Ponies/take-off.png"
+        },
+        {
+            "name": "Toastie",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> athlete who appears in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> and <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a>. <a rel=\"nofollow\" class=\"external text\" href=\"http://ecx.images-amazon.com/images/I/812FTZRdIIL.jpg\">In</a> the <a href=\"https://mlp.fandom.com/wiki/Merchandise#Print\" title=\"Merchandise\">book</a> <i>Winning Style</i>, she appears alongside \"<a href=\"#Rapid_Rush\">Rapid Rush</a>\" and <a href=\"#Periwinkle_Pace\">Periwinkle Pace</a> on page 8 and is set to lose the race on page 9.",
+            "img": "mlp/wiki/Crystal_Ponies/toastie.png"
+        },
+        {
+            "name": "Verity Lucky",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> when Flurry Heart demonstrates her uncontrollable magic. Has a similar color scheme to <a href=\"https://mlp.fandom.com/wiki/Gloriosa_Daisy\" title=\"Gloriosa Daisy\">Gloriosa Daisy</a> but <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/707064409554817025\">specified</a> by <a href=\"https://mlp.fandom.com/wiki/Jim_Miller\" title=\"Jim Miller\">Jim Miller</a> to be a different character.",
+            "img": "mlp/wiki/Crystal_Ponies/verity-lucky.png"
+        },
+        {
+            "name": "Winnow Wind",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a>. Also appears in a photograph in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 5. Her cutie mark is a grain of wheat.",
+            "img": "mlp/wiki/Crystal_Ponies/winnow-wind.png"
+        },
+        {
+            "name": "Zirconic",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> who appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_2\" title=\"The Crystal Empire - Part 2\">The Crystal Empire - Part 2</a> and <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/zirconic.png"
+        },
+        {
+            "name": "Pegasus Crystal Pony royal guards",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Royal_guards\" title=\"Royal guards\">royal guards</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/pegasus-crystal-pony-royal-guards.png"
+        },
+        {
+            "name": "Librarian\nAmethyst Maresbury",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Amethyst_Maresbury\" title=\"Amethyst Maresbury\">Amethyst Maresbury</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/librarian-amethyst-maresbury.png"
+        },
+        {
+            "name": "Stubborn Crystal Pony\nTough Nut",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Also appears in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. Shares her body type with <a href=\"#Amethyst_Maresbury\">Amethyst Maresbury</a> and \"<a href=\"#Booksmart\">Booksmart</a>\". Her cutie mark is a mule. Voiced by Andrea Libman. She is a character called \"Stubborn Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/stubborn-crystal-pony-tough-nut.png"
+        },
+        {
+            "name": "Violet Crystal Foal\nCherry Quartz",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> as one of Spike's fans. Also appears in <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>. He is a character called \"Violet Crystal Foal\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/violet-crystal-foal-cherry-quartz.png"
+        },
+        {
+            "name": "Pink Crystal Foal\nCloudy Spinel",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> as one of Spike's fans. Also appears in <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a>. She is a character called \"Pink Crystal Foal\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/pink-crystal-foal-cloudy-spinel.png"
+        },
+        {
+            "name": "Chiffon Crystal Foal\nCoral Shores",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> as one of Spike's fans. Also appears in <a href=\"https://mlp.fandom.com/wiki/Uncommon_Bond\" title=\"Uncommon Bond\">Uncommon Bond</a> and <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>. She is a character called \"Chiffon Crystal Foal\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. The game's description of her states, \"A Spike superfan if there ever was one -- she just thinks that dragon is oodles of fun!\"",
+            "img": "mlp/wiki/Crystal_Ponies/chiffon-crystal-foal-coral-shores.png"
+        },
+        {
+            "name": "White Crystal Foal\nFrosty Quartz",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> evacuating the Crystal Empire. Also appears in <a href=\"https://mlp.fandom.com/wiki/It_Isn%27t_the_Mane_Thing_About_You\" title=\"It Isn't the Mane Thing About You\">It Isn't the Mane Thing About You</a> and <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>. He is a character called \"White Crystal Foal\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/white-crystal-foal-frosty-quartz.png"
+        },
+        {
+            "name": "Glass Slipper",
+            "description": "One of two <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> fillies featured in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_1\" title=\"The Crystal Empire - Part 1\">The Crystal Empire - Part 1</a>, only shown in <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Princess_Celestia\" title=\"List of ponies\">Princess Celestia</a>'s projection of the <a href=\"https://mlp.fandom.com/wiki/Crystal_Empire\" title=\"Crystal Empire\">Crystal Empire</a> prior to <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#King_Sombra\" title=\"List of ponies\">King Sombra</a>'s rule. Also appears in <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a>, <a href=\"https://mlp.fandom.com/wiki/Twilight%27s_Kingdom_-_Part_1\" title=\"Twilight's Kingdom - Part 1\">Twilight's Kingdom - Part 1</a>, <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a>, and <a href=\"https://mlp.fandom.com/wiki/File:German_Season_3_Poster.jpg\" title=\"File:German Season 3 Poster.jpg\">the season 3 poster</a> in the present-day Crystal Empire. She has no cutie mark.",
+            "img": "mlp/wiki/Crystal_Ponies/glass-slipper.png"
+        },
+        {
+            "name": "Hope",
+            "description": "One of two <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> fillies featured in both <a href=\"https://mlp.fandom.com/wiki/Games_Ponies_Play\" title=\"Games Ponies Play\">Games Ponies Play</a> and <a href=\"https://mlp.fandom.com/wiki/Twilight%27s_Kingdom_-_Part_1\" title=\"Twilight's Kingdom - Part 1\">Twilight's Kingdom - Part 1</a>, in the present-day <a href=\"https://mlp.fandom.com/wiki/Crystal_Empire\" title=\"Crystal Empire\">Crystal Empire</a>. Has a similar color scheme to \"<a href=\"#Titania\">Titania</a>\". She has no cutie mark.",
+            "img": "mlp/wiki/Crystal_Ponies/hope.png"
+        },
+        {
+            "name": "Opal Bloom",
+            "description": "One of two <a href=\"https://mlp.fandom.com/wiki/Crystal_Ponies\" title=\"Crystal Ponies\">Crystal Pony</a> fillies featured in <a href=\"https://mlp.fandom.com/wiki/The_Crystal_Empire_-_Part_1\" title=\"The Crystal Empire - Part 1\">The Crystal Empire - Part 1</a>, only shown in <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Princess_Celestia\" title=\"List of ponies\">Princess Celestia</a>'s projection of the <a href=\"https://mlp.fandom.com/wiki/Crystal_Empire\" title=\"Crystal Empire\">Crystal Empire</a> prior to <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#King_Sombra\" title=\"List of ponies\">King Sombra</a>'s rule. Shares <a href=\"#Apple_Bloom\">Apple Bloom</a>'s character design and hair bow design. Her cutie mark is a grain of wheat.",
+            "img": "mlp/wiki/Crystal_Ponies/opal-bloom.png"
+        },
+        {
+            "name": "Aqua Crystal Foal\nRock Candy",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> as one of Spike's fans. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Beginning_of_the_End_-_Part_1\" title=\"The Beginning of the End - Part 1\">The Beginning of the End - Part 1</a>. She is a character called \"Aqua Crystal Foal\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. The game's description of her states, \"This foal sure is friendly and quite quick to laugh (and is seriously jonesing for Spike's autograph).\"",
+            "img": "mlp/wiki/Crystal_Ponies/aqua-crystal-foal-rock-candy.png"
+        },
+        {
+            "name": "Blue Crystal Foal\nTiny Topaz",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_1\" title=\"The Crystalling - Part 1\">The Crystalling - Part 1</a> as one of Spike's fans. He is a character called \"Blue Crystal Foal\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/blue-crystal-foal-tiny-topaz.png"
+        },
+        {
+            "name": "Amethyst Star",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Amethyst_Star\" title=\"Amethyst Star\">Amethyst Star</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/amethyst-star.png"
+        },
+        {
+            "name": "Apple Cobbler",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Apple_Cobbler\" title=\"Apple Cobbler\">Apple Cobbler</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/apple-cobbler.png"
+        },
+        {
+            "name": "Applejack",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Applejack\" title=\"Applejack\">Applejack</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/applejack.png"
+        },
+        {
+            "name": "Berryshine",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Berryshine\" title=\"Berryshine\">Berryshine</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/berryshine.png"
+        },
+        {
+            "name": "Caramel",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Caramel\" title=\"Caramel\">Caramel</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/caramel.png"
+        },
+        {
+            "name": "Charm",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Charm\" title=\"Charm\">Charm</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/charm.png"
+        },
+        {
+            "name": "Cherry Berry",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Cherry_Berry\" title=\"Cherry Berry\">Cherry Berry</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/cherry-berry.png"
+        },
+        {
+            "name": "Cloud Kicker",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Cloud_Kicker\" title=\"Cloud Kicker\">Cloud Kicker</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/cloud-kicker.png"
+        },
+        {
+            "name": "Crusoe Palm",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Crusoe_Palm\" title=\"Crusoe Palm\">Crusoe Palm</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/crusoe-palm.png"
+        },
+        {
+            "name": "Dr. Hooves",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Dr._Hooves\" title=\"Dr. Hooves\">Dr. Hooves</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/dr-hooves.png"
+        },
+        {
+            "name": "Eclair Crème",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Eclair_Cr%C3%A8me\" title=\"Eclair Crème\">Eclair Crème</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/eclair-creme.png"
+        },
+        {
+            "name": "Fine Line",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Fine_Line\" title=\"Fine Line\">Fine Line</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/fine-line.png"
+        },
+        {
+            "name": "Flurry Heart",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Flurry_Heart\" title=\"Flurry Heart\">Flurry Heart</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/flurry-heart.png"
+        },
+        {
+            "name": "Fluttershy",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Fluttershy\" title=\"Fluttershy\">Fluttershy</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/fluttershy.png"
+        },
+        {
+            "name": "Gala Appleby",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Gala_Appleby\" title=\"Gala Appleby\">Gala Appleby</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/gala-appleby.png"
+        },
+        {
+            "name": "Golden Harvest",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Golden_Harvest\" title=\"Golden Harvest\">Golden Harvest</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/golden-harvest.png"
+        },
+        {
+            "name": "Goldengrape",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Goldengrape\" title=\"Goldengrape\">Goldengrape</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/goldengrape.png"
+        },
+        {
+            "name": "Lemon Hearts",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Lemon_Hearts\" title=\"Lemon Hearts\">Lemon Hearts</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/lemon-hearts.png"
+        },
+        {
+            "name": "Lucky Clover",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Lucky_Clover\" title=\"Lucky Clover\">Lucky Clover</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/lucky-clover.png"
+        },
+        {
+            "name": "Masquerade",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Masquerade\" title=\"Masquerade\">Masquerade</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/masquerade.png"
+        },
+        {
+            "name": "Minuette",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Minuette\" title=\"Minuette\">Minuette</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/minuette.png"
+        },
+        {
+            "name": "Noteworthy",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Noteworthy\" title=\"Noteworthy\">Noteworthy</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/noteworthy.png"
+        },
+        {
+            "name": "Orange Swirl",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Orange_Swirl\" title=\"Orange Swirl\">Orange Swirl</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/orange-swirl.png"
+        },
+        {
+            "name": "Perfect Pace",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Perfect_Pace\" title=\"Perfect Pace\">Perfect Pace</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/perfect-pace.png"
+        },
+        {
+            "name": "Perfect Pie",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Perfect_Pie\" title=\"Perfect Pie\">Perfect Pie</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/perfect-pie.png"
+        },
+        {
+            "name": "Pinkie Pie",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Pinkie_Pie\" title=\"Pinkie Pie\">Pinkie Pie</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/pinkie-pie.png"
+        },
+        {
+            "name": "Princess Cadance",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Princess_Cadance\" title=\"Princess Cadance\">Princess Cadance</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/princess-cadance.png"
+        },
+        {
+            "name": "Princess Celestia",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Princess_Celestia\" title=\"Princess Celestia\">Princess Celestia</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/princess-celestia.png"
+        },
+        {
+            "name": "Princess Luna",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Princess_Luna\" title=\"Princess Luna\">Princess Luna</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/princess-luna.png"
+        },
+        {
+            "name": "Rainbow Dash",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Rainbow_Dash\" title=\"Rainbow Dash\">Rainbow Dash</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/rainbow-dash.png"
+        },
+        {
+            "name": "Rainbowshine",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Rainbowshine\" title=\"Rainbowshine\">Rainbowshine</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/rainbowshine.png"
+        },
+        {
+            "name": "Rarity",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Rarity\" title=\"Rarity\">Rarity</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/rarity.png"
+        },
+        {
+            "name": "Red Gala",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Red_Gala\" title=\"Red Gala\">Red Gala</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/red-gala.png"
+        },
+        {
+            "name": "Rose",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Rose\" title=\"Rose\">Rose</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/rose.png"
+        },
+        {
+            "name": "Royal Riff",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Royal_Riff\" title=\"Royal Riff\">Royal Riff</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/royal-riff.png"
+        },
+        {
+            "name": "Sassaflash",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Sassaflash\" title=\"Sassaflash\">Sassaflash</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/sassaflash.png"
+        },
+        {
+            "name": "Sea Swirl",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Sea_Swirl\" title=\"Sea Swirl\">Sea Swirl</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/sea-swirl.png"
+        },
+        {
+            "name": "Shining Armor",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Shining_Armor\" title=\"Shining Armor\">Shining Armor</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/shining-armor.png"
+        },
+        {
+            "name": "Shooting Star",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Shooting_Star\" title=\"Shooting Star\">Shooting Star</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/shooting-star.png"
+        },
+        {
+            "name": "Sir Pony Moore",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Sir_Pony_Moore\" title=\"Sir Pony Moore\">Sir Pony Moore</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/sir-pony-moore.png"
+        },
+        {
+            "name": "Sprinkle Medley",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Sprinkle_Medley\" title=\"Sprinkle Medley\">Sprinkle Medley</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/sprinkle-medley.png"
+        },
+        {
+            "name": "Star Bright",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Star_Bright\" title=\"Star Bright\">Star Bright</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/star-bright.png"
+        },
+        {
+            "name": "Starlight Glimmer",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Starlight_Glimmer\" title=\"Starlight Glimmer\">Starlight Glimmer</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/starlight-glimmer.png"
+        },
+        {
+            "name": "Sunburst",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Sunburst\" title=\"Sunburst\">Sunburst</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/sunburst.png"
+        },
+        {
+            "name": "Twilight Sparkle",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Twilight_Sparkle\" title=\"Twilight Sparkle\">Twilight Sparkle</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/twilight-sparkle.png"
+        },
+        {
+            "name": "Twilight Sparkle",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Twilight_Sparkle\" title=\"Twilight Sparkle\">Twilight Sparkle</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/twilight-sparkle.png"
+        },
+        {
+            "name": "Twinkleshine",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Twinkleshine\" title=\"Twinkleshine\">Twinkleshine</a>.",
+            "img": "mlp/wiki/Crystal_Ponies/twinkleshine.png"
+        }
+    ]
+}

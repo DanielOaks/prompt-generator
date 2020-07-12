@@ -1,0 +1,300 @@
+{
+    "name": "Elders (fandom wiki)",
+    "characters": [
+        {
+            "name": "Dusty Pages",
+            "description": "The former head librarian of the Canterlot Library in <a href=\"https://mlp.fandom.com/wiki/The_Point_of_No_Return\" title=\"The Point of No Return\">The Point of No Return</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Last_Problem\" title=\"The Last Problem\">The Last Problem</a>. Shares her body type with \"<a href=\"#Chelsea_Porcelain\">Chelsea Porcelain</a>\", \"<a href=\"#Wilma\">Wilma</a>\", <a href=\"#S04E08_UEM5\">S04E08 Unnamed Earth Mare #5</a>, \"<a href=\"#Soybean_Sorbet\">Soybean Sorbet</a>\", \"<a href=\"#Hearty_Brew\">Hearty Brew</a>\", and <a href=\"#S09E05_UEM3\">S09E05 Unnamed Earth Mare #3</a>. Her cutie mark is a dusty book. Voiced by Ellen Kennedy.",
+            "img": "mlp/wiki/Elders/dusty-pages.png"
+        },
+        {
+            "name": "Goldie Delicious",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Goldie_Delicious\" title=\"Goldie Delicious\">Goldie Delicious</a>.",
+            "img": "mlp/wiki/Elders/goldie-delicious.png"
+        },
+        {
+            "name": "Grand Pear",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Grand_Pear\" title=\"Grand Pear\">Grand Pear</a>.",
+            "img": "mlp/wiki/Elders/grand-pear.png"
+        },
+        {
+            "name": "Granny Smith",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Granny_Smith\" title=\"Granny Smith\">Granny Smith</a>.",
+            "img": "mlp/wiki/Elders/granny-smith.png"
+        },
+        {
+            "name": "Ma Hooffield",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Hooffields_and_McColts\" title=\"The Hooffields and McColts\">The Hooffields and McColts</a> as the matriarch of the Hooffield family. Also appears in a photograph in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 3. Her cutie mark is a pumpkin. Voiced by Ellen Kennedy. She is a character in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Elders/ma-hooffield.png"
+        },
+        {
+            "name": "The Olden Pony",
+            "description": "Told of by <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Rainbow_Dash\" title=\"List of ponies\">Rainbow Dash</a> during <a href=\"https://mlp.fandom.com/wiki/Sleepless_in_Ponyville\" title=\"Sleepless in Ponyville\">Sleepless in Ponyville</a>, and subsequently appears in two of <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Scootaloo\" title=\"List of ponies\">Scootaloo</a>'s dreams, searching for her rusty horseshoe. Also appears in <i><a href=\"/wiki/Ponyville_Mysteries:_Riddle_of_the_Rusty_Horseshoe\" title=\"Ponyville Mysteries: Riddle of the Rusty Horseshoe\">Ponyville Mysteries: Riddle of the Rusty Horseshoe</a></i>. Voiced by <a href=\"https://mlp.fandom.com/wiki/Crew#Voice_performers\" title=\"Crew\">Tabitha St. Germain</a>. She is a character in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>, and serves as an enemy minion during the \"<a href=\"https://mlp.fandom.com/wiki/From_the_Shadows\" title=\"From the Shadows\">Nightmare Night at the Museum</a>\" event.",
+            "img": "mlp/wiki/Elders/the-olden-pony.png"
+        },
+        {
+            "name": "Randolph",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Randolph\" title=\"Randolph\">Randolph</a>.",
+            "img": "mlp/wiki/Elders/randolph.png"
+        },
+        {
+            "name": "Rusty Tenure",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Rock_Solid_Friendship\" title=\"Rock Solid Friendship\">Rock Solid Friendship</a> as a professor at the Equestrian Institute of Rockology. Shares his body type and eye color with <a href=\"#Sand_Trap\">Sand Trap</a>, \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, and <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a> and his body type with <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#Grand_Pear\">Grand Pear</a>, \"<a href=\"#Cortland\">Cortland</a>\", \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>. Voiced by Russell Roberts.",
+            "img": "mlp/wiki/Elders/rusty-tenure.png"
+        },
+        {
+            "name": "Apple Rose",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Apple_Rose\" title=\"Apple Rose\">Apple Rose</a>.",
+            "img": "mlp/wiki/Elders/apple-rose.png"
+        },
+        {
+            "name": "Apple Strudel",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Apple_Strudel\" title=\"Apple Strudel\">Apple Strudel</a>.",
+            "img": "mlp/wiki/Elders/apple-strudel.png"
+        },
+        {
+            "name": "Auntie Applesauce",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Auntie_Applesauce\" title=\"Auntie Applesauce\">Auntie Applesauce</a>.",
+            "img": "mlp/wiki/Elders/auntie-applesauce.png"
+        },
+        {
+            "name": "Booksmart",
+            "description": "The librarian of the Canterlot library who attends <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Moon_Dancer\" title=\"List of ponies\">Moon Dancer</a>'s party in <a href=\"https://mlp.fandom.com/wiki/Amending_Fences\" title=\"Amending Fences\">Amending Fences</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/The_Cutie_Re-Mark_-_Part_1\" title=\"The Cutie Re-Mark - Part 1\">The Cutie Re-Mark - Part 1</a>, <a href=\"https://mlp.fandom.com/wiki/Parental_Glideance\" title=\"Parental Glideance\">Parental Glideance</a>, <a href=\"https://mlp.fandom.com/wiki/Yakity-Sax\" title=\"Yakity-Sax\">Yakity-Sax</a>, and in <a href=\"https://mlp.fandom.com/wiki/The_Washouts\" title=\"The Washouts\">The Washouts</a>. Shares her body type with <a href=\"#Amethyst_Maresbury\">Amethyst Maresbury</a> and \"<a href=\"#Tough_Nut\">Tough Nut</a>\", and resembles <a href=\"https://mlp.fandom.com/wiki/Inkwell\" title=\"Inkwell\">Inkwell</a>. Her cutie mark is two books.",
+            "img": "mlp/wiki/Elders/booksmart.png"
+        },
+        {
+            "name": "Buzzard Hooffield",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Hooffields_and_McColts\" title=\"The Hooffields and McColts\">The Hooffields and McColts</a> as a member of the Hooffield family. Also appears in a photograph in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 3. His cutie mark switches from <a href=\"https://mlp.fandom.com/wiki/File:Hooffield_stallions_get_in_position_S5E23.png\" title=\"File:Hooffield stallions get in position S5E23.png\">being</a> a golf club and two golf balls, the same as that of <a href=\"#Sand_Trap\">Sand Trap</a>, <a href=\"https://mlp.fandom.com/wiki/File:Hooffields_and_McColts_released_from_magic_S5E23.png\" title=\"File:Hooffields and McColts released from magic S5E23.png\">to</a> <a href=\"https://mlp.fandom.com/wiki/File:McColt_stallion_helps_Hooffield_stallion_with_fruit_baskey_S5E23.png\" title=\"File:McColt stallion helps Hooffield stallion with fruit baskey S5E23.png\">being</a> a fork. Voiced by Peter Kelamis.",
+            "img": "mlp/wiki/Elders/buzzard-hooffield.png"
+        },
+        {
+            "name": "Chelsea Porcelain",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Chelsea_Porcelain\" title=\"Chelsea Porcelain\">Chelsea Porcelain</a>.",
+            "img": "mlp/wiki/Elders/chelsea-porcelain.png"
+        },
+        {
+            "name": "Commander Redfeather",
+            "description": "Appears with \"<a href=\"#Immemoria\">Immemoria</a>\" in <a href=\"https://mlp.fandom.com/wiki/Equestria_Games\" title=\"Equestria Games\">Equestria Games</a> and <a href=\"https://mlp.fandom.com/wiki/Twilight%27s_Kingdom_-_Part_1\" title=\"Twilight's Kingdom - Part 1\">Twilight's Kingdom - Part 1</a> and its recap at the beginning of <a href=\"https://mlp.fandom.com/wiki/Twilight%27s_Kingdom_-_Part_2\" title=\"Twilight's Kingdom - Part 2\">Twilight's Kingdom - Part 2</a> and on the <a href=\"https://mlp.fandom.com/wiki/File:Season_4_poster.jpg\" title=\"File:Season 4 poster.jpg\">season 4</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise#Posters\" title=\"Merchandise\">poster</a>. Shares his design and mane and eye colors with <a href=\"#Sand_Trap\">Sand Trap</a>, his design and eye color with <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, his body type and eye color with \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, and <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a>, and his body type with <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#Grand_Pear\">Grand Pear</a>, \"<a href=\"#Cortland\">Cortland</a>\", \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>.",
+            "img": "mlp/wiki/Elders/commander-redfeather.png"
+        },
+        {
+            "name": "Edler[sic] Stallion\nCortland",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Daring_Done%3F\" title=\"Daring Done?\">Daring Done?</a> as a resident of <a href=\"https://mlp.fandom.com/wiki/Locations#Somnambula\" title=\"Locations\">Somnambula</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/Road_to_Friendship\" title=\"Road to Friendship\">Road to Friendship</a> and <a href=\"https://mlp.fandom.com/wiki/The_Point_of_No_Return\" title=\"The Point of No Return\">The Point of No Return</a>. Shares his body type with <a href=\"#Sand_Trap\">Sand Trap</a>, \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", <a href=\"#Grand_Pear\">Grand Pear</a>, <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a>, and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>. His cutie mark is an apple and flower. Voiced by Jay Brazeau. He is a character called \"Somnambulan Storyteller\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Elders/edler-sic-stallion-cortland.png"
+        },
+        {
+            "name": "Dusty McColt",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Hooffields_and_McColts\" title=\"The Hooffields and McColts\">The Hooffields and McColts</a> as a member of the McColt family. His cutie mark is a dust cloud.",
+            "img": "mlp/wiki/Elders/dusty-mccolt.png"
+        },
+        {
+            "name": "Pest Control Pony\nEgon",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Apple_Bloom\" title=\"List of ponies\">Apple Bloom</a>'s first dream in <a href=\"https://mlp.fandom.com/wiki/Bloom_%26_Gloom\" title=\"Bloom &amp; Gloom\">Bloom &amp; Gloom</a> as a pest control pony. Voiced by Peter New. He is a playable character in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>, which gives him the description \"With brave green eyes, he works long into the night. Only Pest Control Pony stands between Equestria... and the pesty parasprites!\"",
+            "img": "mlp/wiki/Elders/pest-control-pony-egon.png"
+        },
+        {
+            "name": "Senior Deputy\nFetter Keys",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Appleloosa_deputies\" title=\"Appleloosa deputies\">Appleloosa deputies</a>.",
+            "img": "mlp/wiki/Elders/senior-deputy-fetter-keys.png"
+        },
+        {
+            "name": "Foggy Fleece",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Foggy_Fleece\" title=\"Foggy Fleece\">Foggy Fleece</a>.",
+            "img": "mlp/wiki/Elders/foggy-fleece.png"
+        },
+        {
+            "name": "Mr. Greenhooves",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Mr._Greenhooves\" title=\"Mr. Greenhooves\">Mr. Greenhooves</a>.",
+            "img": "mlp/wiki/Elders/mr-greenhooves.png"
+        },
+        {
+            "name": "Groucho Mark",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_One_Where_Pinkie_Pie_Knows\" title=\"The One Where Pinkie Pie Knows\">The One Where Pinkie Pie Knows</a>. Shares his coat and mane colors with <a href=\"https://mlp.fandom.com/wiki/List_of_ponies/Pegasus_ponies#Fluttershy\" title=\"List of ponies/Pegasus ponies\">Fluttershy</a>. His cutie mark is a pair of Groucho glasses.",
+            "img": "mlp/wiki/Elders/groucho-mark.png"
+        },
+        {
+            "name": "Haymaker",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Rainbow_Falls\" title=\"Rainbow Falls\">Rainbow Falls</a> as <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Spitfire\" title=\"List of ponies\">Spitfire</a>'s masseur and trainer. He appears to be a pony version of Burgess Meredith's character Mickey Goldmill from the 1976 film <i>Rocky</i>. His cutie mark is a wrestling/boxing bell. He is named on his Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> The Crystal Games expansion set card <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/File:CrystalGames_048.jpg\" class=\"extiw\" title=\"w:c:mlpccg:File:CrystalGames 048.jpg\">#48 R</a>, which lists the quote \"When I'm done with you, you're gonna eat lightning and you're gonna snort thunder!\" In the game's High Magic expansion set, card #57 C of <a href=\"https://mlp.fandom.com/wiki/Elizabeak\" title=\"Elizabeak\" class=\"mw-redirect\">Elizabeak</a> attributes to Haymaker the quote \"If you can catch this thing, you can catch greased lightning!\"",
+            "img": "mlp/wiki/Elders/haymaker.png"
+        },
+        {
+            "name": "Haymish",
+            "description": "A pink-maned elderly pony who appears during one shot in <a href=\"https://mlp.fandom.com/wiki/Too_Many_Pinkie_Pies\" title=\"Too Many Pinkie Pies\">Too Many Pinkie Pies</a>, wearing a shirt, vest, and hat. He does not have a beard, but a <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Pinkie_Pie\" title=\"List of ponies\">Pinkie Pie</a> duplicate resembles one while wrapped around him. A similar pony appears on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Micro-Series#Issue_.237\" title=\"My Little Pony Micro-Series\"><i>Micro-Series</i> Issue #7</a> page 18. Shares his body type with <a href=\"#Apple_Strudel\">Apple Strudel</a>. His cutie mark is a pitchfork with hay.",
+            "img": "mlp/wiki/Elders/haymish.png"
+        },
+        {
+            "name": "Hearty Brew",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Once_Upon_a_Zeppelin\" title=\"Once Upon a Zeppelin\">Once Upon a Zeppelin</a> as a passenger on <a href=\"https://mlp.fandom.com/wiki/Iron_Will\" title=\"Iron Will\">Iron Will</a>'s Cruise of the Princesses Experience. Also appears in <a href=\"https://mlp.fandom.com/wiki/Between_Dark_and_Dawn\" title=\"Between Dark and Dawn\">Between Dark and Dawn</a>. Shares her design with \"<a href=\"#Chelsea_Porcelain\">Chelsea Porcelain</a>\", \"<a href=\"#Wilma\">Wilma</a>\", \"<a href=\"#Soybean_Sorbet\">Soybean Sorbet</a>\", and <a href=\"#S09E05_UEM3\">S09E05 Unnamed Earth Mare #3</a> and her body type with <a href=\"#S04E08_UEM5\">S04E08 Unnamed Earth Mare #5</a> and <a href=\"#Dusty_Pages\">Dusty Pages</a>. Her cutie mark is a teacup.",
+            "img": "mlp/wiki/Elders/hearty-brew.png"
+        },
+        {
+            "name": "Immemoria",
+            "description": "Appears with \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\" in <a href=\"https://mlp.fandom.com/wiki/Equestria_Games\" title=\"Equestria Games\">Equestria Games</a> and <a href=\"https://mlp.fandom.com/wiki/Twilight%27s_Kingdom_-_Part_1\" title=\"Twilight's Kingdom - Part 1\">Twilight's Kingdom - Part 1</a> and its recap at the beginning of <a href=\"https://mlp.fandom.com/wiki/Twilight%27s_Kingdom_-_Part_2\" title=\"Twilight's Kingdom - Part 2\">Twilight's Kingdom - Part 2</a> and on the <a href=\"https://mlp.fandom.com/wiki/File:Season_4_poster.jpg\" title=\"File:Season 4 poster.jpg\">season 4</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise#Posters\" title=\"Merchandise\">poster</a>.",
+            "img": "mlp/wiki/Elders/immemoria.png"
+        },
+        {
+            "name": "Lemongrass",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/A_Royal_Problem\" title=\"A Royal Problem\">A Royal Problem</a> as one of three delegate ponies at Princess Luna's luncheon. Shares her body type with <a href=\"#Granny_Smith\">Granny Smith</a>, <a href=\"#Foggy_Fleece\">Foggy Fleece</a>, <a href=\"#Pearly_Stitch\">Pearly Stitch</a>, <a href=\"#S05E06_UEM18\">S05E06 Unnamed Earth Mare #18</a>, \"<a href=\"#Lotus_Petal\">Lotus Petal</a>\", elderly <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S04E20_UPM3\" title=\"List of ponies\">S04E20 Unnamed Pegasus Mare #3</a>, and <a href=\"#S09E22_UEM1\">S09E22 Unnamed Earth Mare #1</a>.",
+            "img": "mlp/wiki/Elders/lemongrass.png"
+        },
+        {
+            "name": "Unicorn Painter\nLeonardo da Brinci",
+            "description": "Paints <a href=\"https://mlp.fandom.com/wiki/Spike\" title=\"Spike\">Spike</a>'s portrait in <a href=\"https://mlp.fandom.com/wiki/Princess_Spike\" title=\"Princess Spike\">Princess Spike</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/On_Your_Marks\" title=\"On Your Marks\">On Your Marks</a>. His cutie mark depicts <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S05E10_UEM0\" title=\"List of ponies\">S05E10 Unnamed Earth Mare #0</a>. He is a character called \"Unicorn Painter\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Elders/unicorn-painter-leonardo-da-brinci.png"
+        },
+        {
+            "name": "Ticket Taker Pony\nLoose Tracks",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Sounds_of_Silence\" title=\"Sounds of Silence\">Sounds of Silence</a> as a deranged ticket-selling pony at the Peaks of Peril train station. Also appears in <a href=\"https://mlp.fandom.com/wiki/Growing_Up_is_Hard_to_Do\" title=\"Growing Up is Hard to Do\">Growing Up is Hard to Do</a>. Shares his body type with <a href=\"#Sand_Trap\">Sand Trap</a>, \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", <a href=\"#Grand_Pear\">Grand Pear</a>, \"<a href=\"#Cortland\">Cortland</a>\", <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a>, and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>. His cutie mark is two train tickets. Voiced by Ron Halder. He is a character called \"Stationmaster Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. \"He’s very lonely\" <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/1066375301955907584\">according to</a> <a href=\"https://mlp.fandom.com/wiki/Jim_Miller\" title=\"Jim Miller\">Jim Miller</a>.",
+            "img": "mlp/wiki/Elders/ticket-taker-pony-loose-tracks.png"
+        },
+        {
+            "name": "Old Gardener\nLotus Petal",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Shadow_Play_-_Part_1\" title=\"Shadow Play - Part 1\">Shadow Play - Part 1</a> as a descendant of the villagers in <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Mistmane\" title=\"List of ponies\">Mistmane</a>'s old home. Shares her body type with <a href=\"#Granny_Smith\">Granny Smith</a>, <a href=\"#Foggy_Fleece\">Foggy Fleece</a>, <a href=\"#Pearly_Stitch\">Pearly Stitch</a>, <a href=\"#S05E06_UEM18\">S05E06 Unnamed Earth Mare #18</a>, \"<a href=\"#Lemongrass\">Lemongrass</a>\", <a href=\"#S08E19_UPS1\">S08E19 Unnamed Pegasus Stallion #1</a>, elderly <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S04E20_UPM3\" title=\"List of ponies\">S04E20 Unnamed Pegasus Mare #3</a>, and <a href=\"#S09E22_UEM1\">S09E22 Unnamed Earth Mare #1</a>. Her cutie mark is a crystal rose. Voiced by Nicole Oliver. She is a character called \"Mistmane Family Gardener\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Elders/old-gardener-lotus-petal.png"
+        },
+        {
+            "name": "Ma Switchell",
+            "description": "An elderly mare who appears in <a href=\"https://mlp.fandom.com/wiki/Somepony_to_Watch_Over_Me\" title=\"Somepony to Watch Over Me\">Somepony to Watch Over Me</a>, in <a href=\"https://mlp.fandom.com/wiki/Fame_and_Misfortune\" title=\"Fame and Misfortune\">Fame and Misfortune</a>, and on the <a href=\"https://mlp.fandom.com/wiki/File:Season_4_poster.jpg\" title=\"File:Season 4 poster.jpg\">season 4</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise#Posters\" title=\"Merchandise\">poster</a>. Mother to \"<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Duce_Switchell\" title=\"List of ponies\">Duce Switchell</a>\".",
+            "img": "mlp/wiki/Elders/ma-switchell.png"
+        },
+        {
+            "name": "Ol' Salt",
+            "description": "Resembles a stereotypical old, drunk, wild-west miner. Gets himself <a href=\"https://mlp.fandom.com/wiki/File:Old_pony_thrown_out_Salt_Block_Appleloosa_S1E21.png\" title=\"File:Old pony thrown out Salt Block Appleloosa S1E21.png\">thrown out</a> of The Salt Block by \"<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Morton_Saltworthy\" title=\"List of ponies\">Morton Saltworthy</a>\" in <a href=\"https://mlp.fandom.com/wiki/Over_a_Barrel\" title=\"Over a Barrel\">Over a Barrel</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/Fame_and_Misfortune\" title=\"Fame and Misfortune\">Fame and Misfortune</a>. His cutie mark is a pickaxe. Voiced by <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/BrianDrummondVO/status/322984656062525440\">Ashleigh Ball</a>. He is named on his Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> card α #48 U, which gives him the description \"<i>With all the tall tales this pony spouts at the local watering hole, everything he says should be taken with a grain of salt.</i>\"",
+            "img": "mlp/wiki/Elders/ol-salt.png"
+        },
+        {
+            "name": "Pearly Stitch",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Pearly_Stitch\" title=\"Pearly Stitch\">Pearly Stitch</a>.",
+            "img": "mlp/wiki/Elders/pearly-stitch.png"
+        },
+        {
+            "name": "Peduncle Bloom",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/A_Royal_Problem\" title=\"A Royal Problem\">A Royal Problem</a> as a royal rose contest participant. Shares his body type and eye color with <a href=\"#Sand_Trap\">Sand Trap</a>, \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, and <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a> and his body type with <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#Grand_Pear\">Grand Pear</a>, \"<a href=\"#Cortland\">Cortland</a>\", \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>.",
+            "img": "mlp/wiki/Elders/peduncle-bloom.png"
+        },
+        {
+            "name": "Pipe Down",
+            "description": "Appears throughout crowds during <a href=\"https://mlp.fandom.com/wiki/A_Canterlot_Wedding_-_Part_2\" title=\"A Canterlot Wedding - Part 2\">A Canterlot Wedding - Part 2</a> and <a href=\"https://mlp.fandom.com/wiki/Magical_Mystery_Cure\" title=\"Magical Mystery Cure\">Magical Mystery Cure</a>. Has the same design as <a href=\"#Mr._Waddle\">Mr. Waddle</a>. His cutie mark is a pipe and he wears glasses, though initially his cutie mark is three pipes and his glasses are absent. <a href=\"https://mlp.fandom.com/wiki/File:First_wedding_promotional_image_S2E26.jpg\" title=\"File:First wedding promotional image S2E26.jpg\">Two</a> promotional <a href=\"https://mlp.fandom.com/wiki/File:Post_wedding_promotional_image_S2E26.jpg\" title=\"File:Post wedding promotional image S2E26.jpg\">images</a> from The Hub's Facebook page show him more clearly than the corresponding frames of the show do. Character designer Rebecca Dart stated in an <a rel=\"nofollow\" class=\"external text\" href=\"http://www.equestriadaily.com/2012/08/interview-with-rebecca-dart-queen.html\">interview</a> that she designed a bespectacled old male pony, and mentioned on <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/R_Dart/status/237668971535532033\">Twitter</a> that the pony in question was designed as \"Incidental Senior Pony #3\".",
+            "img": "mlp/wiki/Elders/pipe-down.png"
+        },
+        {
+            "name": "Sand Trap",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Sand_Trap\" title=\"Sand Trap\">Sand Trap</a>.",
+            "img": "mlp/wiki/Elders/sand-trap.png"
+        },
+        {
+            "name": "Savage Honeydew",
+            "description": "A bearded elderly stallion who appears wearing glasses in <a href=\"https://mlp.fandom.com/wiki/Somepony_to_Watch_Over_Me\" title=\"Somepony to Watch Over Me\">Somepony to Watch Over Me</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/Fame_and_Misfortune\" title=\"Fame and Misfortune\">Fame and Misfortune</a>, <a href=\"https://mlp.fandom.com/wiki/A_Rockhoof_and_a_Hard_Place\" title=\"A Rockhoof and a Hard Place\">A Rockhoof and a Hard Place</a>, and <a href=\"https://mlp.fandom.com/wiki/Growing_Up_is_Hard_to_Do\" title=\"Growing Up is Hard to Do\">Growing Up is Hard to Do</a>.",
+            "img": "mlp/wiki/Elders/savage-honeydew.png"
+        },
+        {
+            "name": "Soybean Sorbet",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Forever_Filly\" title=\"Forever Filly\">Forever Filly</a> as the formerly retired owner of a Ponyville ice cream shop. Also appears in <a href=\"https://mlp.fandom.com/wiki/Once_Upon_a_Zeppelin\" title=\"Once Upon a Zeppelin\">Once Upon a Zeppelin</a>. Shares her design and eye color with \"<a href=\"#Chelsea_Porcelain\">Chelsea Porcelain</a>\", her design with \"<a href=\"#Wilma\">Wilma</a>\", \"<a href=\"#Hearty_Brew\">Hearty Brew</a>\", and <a href=\"#S09E05_UEM3\">S09E05 Unnamed Earth Mare #3</a> and her body type with <a href=\"#S04E08_UEM5\">S04E08 Unnamed Earth Mare #5</a> and <a href=\"#Dusty_Pages\">Dusty Pages</a>. Her cutie mark is a swirled ice cream cone.",
+            "img": "mlp/wiki/Elders/soybean-sorbet.png"
+        },
+        {
+            "name": "Mr. Waddle",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Mr._Waddle\" title=\"Mr. Waddle\">Mr. Waddle</a>.",
+            "img": "mlp/wiki/Elders/mr-waddle.png"
+        },
+        {
+            "name": "Wilma",
+            "description": "Appears throughout crowds during <a href=\"https://mlp.fandom.com/wiki/A_Canterlot_Wedding_-_Part_2\" title=\"A Canterlot Wedding - Part 2\">A Canterlot Wedding - Part 2</a> and <a href=\"https://mlp.fandom.com/wiki/Magical_Mystery_Cure\" title=\"Magical Mystery Cure\">Magical Mystery Cure</a>. Has the same design as \"<a href=\"#Chelsea_Porcelain\">Chelsea Porcelain</a>\", \"<a href=\"#Soybean_Sorbet\">Soybean Sorbet</a>\", \"<a href=\"#Hearty_Brew\">Hearty Brew</a>\", and <a href=\"#S09E05_UEM3\">S09E05 Unnamed Earth Mare #3</a> and the same body type as <a href=\"#S04E08_UEM5\">S04E08 Unnamed Earth Mare #5</a> and <a href=\"#Dusty_Pages\">Dusty Pages</a>. <a href=\"https://mlp.fandom.com/wiki/File:First_wedding_promotional_image_S2E26.jpg\" title=\"File:First wedding promotional image S2E26.jpg\">Two</a> promotional <a href=\"https://mlp.fandom.com/wiki/File:Post_wedding_promotional_image_S2E26.jpg\" title=\"File:Post wedding promotional image S2E26.jpg\">images</a> from The Hub's Facebook page show her more clearly than the corresponding frames of the show do.",
+            "img": "mlp/wiki/Elders/wilma.png"
+        },
+        {
+            "name": "Librarian\nAmethyst Maresbury",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Amethyst_Maresbury\" title=\"Amethyst Maresbury\">Amethyst Maresbury</a>.",
+            "img": "mlp/wiki/Elders/librarian-amethyst-maresbury.png"
+        },
+        {
+            "name": "Stubborn Crystal Pony\nTough Nut",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Crystalling_-_Part_2\" title=\"The Crystalling - Part 2\">The Crystalling - Part 2</a> as a witness to Flurry Heart's Crystalling. Also appears in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 9. Shares her body type with <a href=\"#Amethyst_Maresbury\">Amethyst Maresbury</a> and \"<a href=\"#Booksmart\">Booksmart</a>\". Her cutie mark is a mule. Voiced by Andrea Libman. She is a character called \"Stubborn Crystal Pony\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Elders/stubborn-crystal-pony-tough-nut.png"
+        },
+        {
+            "name": "Snails",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Snails\" title=\"Snails\">Snails</a>.",
+            "img": "mlp/wiki/Elders/snails.png"
+        },
+        {
+            "name": "S04E20 Unnamed Pegasus Mare #3",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S04E20_UPM3\" title=\"List of ponies\">S04E20 Unnamed Pegasus Mare #3</a>.",
+            "img": "mlp/wiki/Elders/s04e20-unnamed-pegasus-mare-3.png"
+        },
+        {
+            "name": "S04E08 Unnamed Earth Mare #5",
+            "description": "An elderly mare who appears in <a href=\"https://mlp.fandom.com/wiki/Rarity_Takes_Manehattan\" title=\"Rarity Takes Manehattan\">Rarity Takes Manehattan</a>, <a href=\"https://mlp.fandom.com/wiki/Made_in_Manehattan\" title=\"Made in Manehattan\">Made in Manehattan</a>, <a href=\"https://mlp.fandom.com/wiki/The_Perfect_Pear\" title=\"The Perfect Pear\">The Perfect Pear</a>, <a href=\"https://mlp.fandom.com/wiki/Fame_and_Misfortune\" title=\"Fame and Misfortune\">Fame and Misfortune</a>, <a href=\"https://mlp.fandom.com/wiki/Grannies_Gone_Wild\" title=\"Grannies Gone Wild\">Grannies Gone Wild</a>, and <a href=\"https://mlp.fandom.com/wiki/The_Point_of_No_Return\" title=\"The Point of No Return\">The Point of No Return</a>. In Made in Manehattan, she yells \"Hey, I'm trotting here!\" to cabbie \"<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Caboose\" title=\"List of ponies\">Caboose</a>\" after he almost hits her. In The Perfect Pear, she appears as a young mare in multiple flashbacks. Shares her body type with \"<a href=\"#Chelsea_Porcelain\">Chelsea Porcelain</a>\", \"<a href=\"#Wilma\">Wilma</a>\", \"<a href=\"#Soybean_Sorbet\">Soybean Sorbet</a>\", \"<a href=\"#Hearty_Brew\">Hearty Brew</a>\", <a href=\"#Dusty_Pages\">Dusty Pages</a>, and <a href=\"#S09E05_UEM3\">S09E05 Unnamed Earth Mare #3</a>.",
+            "img": "mlp/wiki/Elders/s04e08-unnamed-earth-mare-5.png"
+        },
+        {
+            "name": "S05E06 Unnamed Earth Mare #18",
+            "description": "Appears as a rodeo school judge in <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Trouble_Shoes\" title=\"List of ponies\">Trouble Shoes</a>' flashback and in the present in <a href=\"https://mlp.fandom.com/wiki/Appleoosa%27s_Most_Wanted\" title=\"Appleoosa's Most Wanted\">Appleoosa's Most Wanted</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/Growing_Up_is_Hard_to_Do\" title=\"Growing Up is Hard to Do\">Growing Up is Hard to Do</a>. Shares her body type and eye color with <a href=\"#Pearly_Stitch\">Pearly Stitch</a> and <a href=\"#S09E22_UEM1\">S09E22 Unnamed Earth Mare #1</a>, her body type and sometimes eye color with <a href=\"#Foggy_Fleece\">Foggy Fleece</a>, and her body type with <a href=\"#Granny_Smith\">Granny Smith</a>, \"<a href=\"#Lemongrass\">Lemongrass</a>\", \"<a href=\"#Lotus_Petal\">Lotus Petal</a>\", <a href=\"#S08E19_UPS1\">S08E19 Unnamed Pegasus Stallion #1</a>, and elderly <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S04E20_UPM3\" title=\"List of ponies\">S04E20 Unnamed Pegasus Mare #3</a>.",
+            "img": "mlp/wiki/Elders/s05e06-unnamed-earth-mare-18.png"
+        },
+        {
+            "name": "S05E06 Unnamed Earth Stallion #20",
+            "description": "Appears as a rodeo school judge in <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Trouble_Shoes\" title=\"List of ponies\">Trouble Shoes</a>' flashback and in the present in <a href=\"https://mlp.fandom.com/wiki/Appleoosa%27s_Most_Wanted\" title=\"Appleoosa's Most Wanted\">Appleoosa's Most Wanted</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/Growing_Up_is_Hard_to_Do\" title=\"Growing Up is Hard to Do\">Growing Up is Hard to Do</a>. Shares his body type with <a href=\"#Sand_Trap\">Sand Trap</a>, \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", <a href=\"#Grand_Pear\">Grand Pear</a>, \"<a href=\"#Cortland\">Cortland</a>\", <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a>, and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>.",
+            "img": "mlp/wiki/Elders/s05e06-unnamed-earth-stallion-20.png"
+        },
+        {
+            "name": "S05E17 Unnamed Earth Mare #2",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Brotherhooves_Social\" title=\"Brotherhooves Social\">Brotherhooves Social</a> as one of the Sisterhooves Social judges. Her cutie mark is three doilies.",
+            "img": "mlp/wiki/Elders/s05e17-unnamed-earth-mare-2.png"
+        },
+        {
+            "name": "S05E17 Unnamed Earth Stallion #1",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Brotherhooves_Social\" title=\"Brotherhooves Social\">Brotherhooves Social</a> as one of the Sisterhooves Social judges. His cutie mark is a bolo tie.",
+            "img": "mlp/wiki/Elders/s05e17-unnamed-earth-stallion-1.png"
+        },
+        {
+            "name": "S06E08 Unnamed Earth Stallion #8",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/A_Hearth%27s_Warming_Tail\" title=\"A Hearth's Warming Tail\">A Hearth's Warming Tail</a> receiving a sweater from the Spirit of Hearth's Warming Presents. Shares his design and eye color with <a href=\"#Sand_Trap\">Sand Trap</a> and \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", his body type and eye color with \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, and <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a>, and his body type with <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#Grand_Pear\">Grand Pear</a>, \"<a href=\"#Cortland\">Cortland</a>\", \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>. His cutie mark is flan.",
+            "img": "mlp/wiki/Elders/s06e08-unnamed-earth-stallion-8.png"
+        },
+        {
+            "name": "S07E18 Unnamed Earth Mare #4",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Daring_Done%3F\" title=\"Daring Done?\">Daring Done?</a> as a poor villager in <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Somnambula\" title=\"List of ponies\">Somnambula</a>'s legend.",
+            "img": "mlp/wiki/Elders/s07e18-unnamed-earth-mare-4.png"
+        },
+        {
+            "name": "S07E26 Unnamed Earth Stallion #5",
+            "description": "Appears in flashback in <a href=\"https://mlp.fandom.com/wiki/Shadow_Play_-_Part_2\" title=\"Shadow Play - Part 2\">Shadow Play - Part 2</a> during the Sirens' attack on a village in the Hollow Shades. Shares his body type and eye color with <a href=\"#Sand_Trap\">Sand Trap</a>, \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", and <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a> and his body type with <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, <a href=\"#Grand_Pear\">Grand Pear</a>, <a href=\"#S07E18_UES2\">S07E18 Unnamed Earth Stallion #2</a>, \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>.",
+            "img": "mlp/wiki/Elders/s07e26-unnamed-earth-stallion-5.png"
+        },
+        {
+            "name": "Short Pony\nS08E19 Unnamed Pegasus Stallion #1",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Road_to_Friendship\" title=\"Road to Friendship\">Road to Friendship</a> as an innkeeper in <a href=\"https://mlp.fandom.com/wiki/Locations#Somnambula\" title=\"Locations\">Somnambula</a>. Shares his body type and eye color with <a href=\"#Granny_Smith\">Granny Smith</a> and his body type with <a href=\"#Foggy_Fleece\">Foggy Fleece</a>, <a href=\"#Pearly_Stitch\">Pearly Stitch</a>, <a href=\"#S05E06_UEM18\">S05E06 Unnamed Earth Mare #18</a>, \"<a href=\"#Lemongrass\">Lemongrass</a>\", \"<a href=\"#Lotus_Petal\">Lotus Petal</a>\", elderly <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S04E20_UPM3\" title=\"List of ponies\">S04E20 Unnamed Pegasus Mare #3</a>, and <a href=\"#S09E22_UEM1\">S09E22 Unnamed Earth Mare #1</a>. He is a character named \"Elderly Innkeeper\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. His bio states, \"This Somnambulan has seen many Glowpaz Festivals come and go...and many potential patrons get priced out of his luxurious junior suite.\" Voiced by Tariq Leslie.",
+            "img": "mlp/wiki/Elders/short-pony-s08e19-unnamed-pegasus-stallion-1.png"
+        },
+        {
+            "name": "S09E05 Unnamed Earth Mare #1",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Point_of_No_Return\" title=\"The Point of No Return\">The Point of No Return</a> as a resident of the Silver Stable Retirement Community. Shares her design with <a href=\"#Goldie_Delicious\">Goldie Delicious</a>. Her cutie mark is three cupcakes.",
+            "img": "mlp/wiki/Elders/s09e05-unnamed-earth-mare-1.png"
+        },
+        {
+            "name": "S09E05 Unnamed Earth Mare #2",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Point_of_No_Return\" title=\"The Point of No Return\">The Point of No Return</a> as a resident of the Silver Stable Retirement Community. Shares her design with <a href=\"#Auntie_Applesauce\">Auntie Applesauce</a>. Her cutie mark is a pie.",
+            "img": "mlp/wiki/Elders/s09e05-unnamed-earth-mare-2.png"
+        },
+        {
+            "name": "S09E05 Unnamed Earth Mare #3",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Point_of_No_Return\" title=\"The Point of No Return\">The Point of No Return</a> as a resident of the Silver Stable Retirement Community. Shares her design with \"<a href=\"#Chelsea_Porcelain\">Chelsea Porcelain</a>\", \"<a href=\"#Wilma\">Wilma</a>\", \"<a href=\"#Soybean_Sorbet\">Soybean Sorbet</a>\", and \"<a href=\"#Hearty_Brew\">Hearty Brew</a>\" and her body type with <a href=\"#S04E08_UEM5\">S04E08 Unnamed Earth Mare #5</a> and <a href=\"#Dusty_Pages\">Dusty Pages</a>.",
+            "img": "mlp/wiki/Elders/s09e05-unnamed-earth-mare-3.png"
+        },
+        {
+            "name": "Old Stallion\nS09E05 Unnamed Earth Stallion #3",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Point_of_No_Return\" title=\"The Point of No Return\">The Point of No Return</a> as a resident of the Silver Stable Retirement Community. Shares his body type with <a href=\"#Sand_Trap\">Sand Trap</a>, \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", <a href=\"#Grand_Pear\">Grand Pear</a>, \"<a href=\"#Cortland\">Cortland</a>\", <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", and <a href=\"#S09E05_UES4\">S09E05 Unnamed Earth Stallion #4</a>. His cutie mark is a sailboat. Voiced by Paul Dobson. Pictured for <a href=\"https://mlp.fandom.com/wiki/Gillian_M._Berrow\" title=\"Gillian M. Berrow\">Gillian M. Berrow</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/gmberrow/status/1122179351749857280\">April 27, 2019</a> \"Fun Ep. 905 fact: Silver Stables was inspired by my husband JM's grandpa, Bob. He lives in a retirement community in New Hampshire and is always busy-- especially with woodworking and art! Very impressive.\"",
+            "img": "mlp/wiki/Elders/old-stallion-s09e05-unnamed-earth-stallion-3.png"
+        },
+        {
+            "name": "S09E05 Unnamed Earth Stallion #4",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/The_Point_of_No_Return\" title=\"The Point of No Return\">The Point of No Return</a> as a resident of the Silver Stable Retirement Community. Shares his design with <a href=\"#Grand_Pear\">Grand Pear</a> and his body type with <a href=\"#Sand_Trap\">Sand Trap</a>, \"<a href=\"#Commander_Redfeather\">Commander Redfeather</a>\", \"<a href=\"#Fetter_Keys\">Fetter Keys</a>\", <a href=\"#S05E06_UES20\">S05E06 Unnamed Earth Stallion #20</a>, <a href=\"#S06E08_UES8\">S06E08 Unnamed Earth Stallion #8</a>, <a href=\"#Rusty_Tenure\">Rusty Tenure</a>, \"<a href=\"#Peduncle_Bloom\">Peduncle Bloom</a>\", \"<a href=\"#Cortland\">Cortland</a>\", <a href=\"#S07E26_UES5\">S07E26 Unnamed Earth Stallion #5</a>, \"<a href=\"#Loose_Tracks\">Loose Tracks</a>\", and <a href=\"#S09E05_UES3\">S09E05 Unnamed Earth Stallion #3</a>. His cutie mark is four green candies.",
+            "img": "mlp/wiki/Elders/s09e05-unnamed-earth-stallion-4.png"
+        },
+        {
+            "name": "S09E22 Unnamed Earth Mare #1",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Growing_Up_is_Hard_to_Do\" title=\"Growing Up is Hard to Do\">Growing Up is Hard to Do</a> during <a href=\"https://mlp.fandom.com/wiki/Being_Big_is_All_It_Takes\" title=\"Being Big is All It Takes\">Being Big is All It Takes</a>. Shares her body type with <a href=\"#Granny_Smith\">Granny Smith</a>, <a href=\"#Foggy_Fleece\">Foggy Fleece</a>, <a href=\"#Pearly_Stitch\">Pearly Stitch</a>, <a href=\"#S05E06_UEM18\">S05E06 Unnamed Earth Mare #18</a>, \"<a href=\"#Lotus_Petal\">Lotus Petal</a>\", \"<a href=\"#Lemongrass\">Lemongrass</a>\", <a href=\"#S08E19_UPS1\">S08E19 Unnamed Pegasus Stallion #1</a>, and elderly <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#S04E20_UPM3\" title=\"List of ponies\">S04E20 Unnamed Pegasus Mare #3</a>.",
+            "img": "mlp/wiki/Elders/s09e22-unnamed-earth-mare-1.png"
+        }
+    ]
+}
