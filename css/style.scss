@@ -6,6 +6,7 @@
 
 html, body {
     overflow-x: hidden;
+    width: 100%;
 }
 
 .page {
@@ -34,7 +35,7 @@ body {
 
     background: #36a;
     background: url("/img/trianglify-bg.svg") no-repeat fixed center;
-    background: radial-gradient(rgba(0, 0, 255, 0.1), rgba(0, 0, 100, 0.5) 120%) no-repeat fixed center, url("/img/trianglify-bg.svg") no-repeat fixed center;
+    background: radial-gradient(rgba(0, 0, 255, 0.1), rgba(0, 0, 100, 0.5) 120%) no-repeat fixed center, url("/img/trianglify-bg.svg") no-repeat fixed center, #222;
     background-size: cover;
 }
 .page > div {
