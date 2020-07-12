@@ -26,9 +26,14 @@ export default {
   opacity: 1;
   color: #fff;
   transition: opacity 0.1s ease-in-out;
+  display: flex;
+  align-items: center;
   &.hidden {
     opacity: 0;
     pointer-events: none;
+  }
+  > p {
+    margin: 0 auto;
   }
 }
 </style>
