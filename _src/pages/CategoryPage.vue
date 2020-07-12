@@ -2,7 +2,10 @@
   <h1>Prompts</h1>
   <h2 v-if="$root.setup.categories[$root.current_category]">{{$root.setup.categories[$root.current_category].name}}</h2>
 
-  <button class="button smol" v-on:click="moveToCategoriesPage()">Go Back</button>
+  <div class="buttonList">
+    <button class="button smol" v-on:click="moveToCategoriesPage()">Go Back</button>
+    <button class="button smol" v-on:click="moveToResultsPage()">Generate</button>
+  </div>
 
   <label for="characters"><h3>Characters</h3></label>
   <div class="number-display-line">
@@ -15,8 +18,6 @@
   <input id="locations" v-model="$root.generate_location" type="checkbox">
   <label for="locations">Generate Location</label>
   </div>
-
-  <button class="button" v-on:click="moveToResultsPage()">Generate</button>
 
 </div></div></template>
 

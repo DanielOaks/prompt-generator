@@ -2,17 +2,18 @@
   <h1>Prompts</h1>
   <h2 v-if="$root.setup.categories[$root.current_category]">{{$root.setup.categories[$root.current_category].name}}</h2>
 
-  <button class="button smol" v-on:click="moveToCategoriesPage()">Go Back</button>
+  <div class="buttonList">
+    <button class="button smol" v-on:click="moveToCategoriesPage()">Go Back</button>
+    <button class="button smol" v-on:click="generateResults()">Regenerate</button>
+  </div>
 
   <div v-for="(char, id) in $root.$data.charsToDisplay" v-bind:key="id">
     <h3>{{ char.name }}</h3>
     <div class="descLine" v-if="char.description || char.img">
-      <div class="img" v-if="char.img"><img :src="'/img/chars/' + char.img"/></div>
+      <div class="img"><img v-if="char.img" :src="'/img/chars/' + char.img"/></div>
       <div class="desc"><p v-if="char.description" v-html="char.description"></p></div>
     </div>
   </div>
-
-  <button class="button regen" v-on:click="generateResults()">Regenerate</button>
 
 <p class="footer">Includes content from <a href="https://mlp.fandom.com/">mlp.fandom.com</a> used under CC-BY-SA</p>
 
@@ -132,8 +133,5 @@ h3 {
   font-size: 2.25rem;
   text-align: center;
   padding: 1em 0 0;
-}
-.regen {
-  margin-top: 2.5em;
 }
 </style>
