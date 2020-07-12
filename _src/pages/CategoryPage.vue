@@ -14,10 +14,10 @@
   <button class="button" v-on:click="adjustchars(+1)">+</button>
   </div>
 
-  <div class="checkbox-line">
+  <!-- <div class="checkbox-line">
   <input id="locations" v-model="$root.generate_location" type="checkbox">
   <label for="locations">Generate Location</label>
-  </div>
+  </div> -->
 
   <div class="checkbox-line">
   <input id="char-images-required" v-model="$root.character_images_required" type="checkbox">
