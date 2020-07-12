@@ -1,0 +1,972 @@
+{
+    "name": "Other (fandom wiki)",
+    "characters": [
+        {
+            "name": "Adagio Dazzle",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Adagio_Dazzle\" title=\"Adagio Dazzle\">Adagio Dazzle</a>.",
+            "img": "mlp/wiki/Other/adagio-dazzle.png"
+        },
+        {
+            "name": "Ahuizotl",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Ahuizotl\" title=\"Ahuizotl\">Ahuizotl</a>.",
+            "img": "mlp/wiki/Other/ahuizotl.png"
+        },
+        {
+            "name": "Allie",
+            "description": "An alligator who grew up together with <a href=\"https://mlp.fandom.com/wiki/Mage_Meadowbrook\" title=\"Mage Meadowbrook\">Mage Meadowbrook</a> and learned how to speak from her in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Legends_of_Magic#Issue_.238\" title=\"My Little Pony: Legends of Magic\"><i>My Little Pony: Legends of Magic</i> Issue #8</a>."
+        },
+        {
+            "name": "Aria Blaze",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Aria_Blaze\" title=\"Aria Blaze\">Aria Blaze</a>.",
+            "img": "mlp/wiki/Other/aria-blaze.png"
+        },
+        {
+            "name": "Arimaspi",
+            "description": "A monster who stole the Idol of Boreas and fell into <a href=\"https://mlp.fandom.com/wiki/Locations#Griffonstone\" title=\"Locations\">Griffonstone</a>'s Abysmal Abyss, directly leading to Griffonstone's decline. His skull appears in <a href=\"https://mlp.fandom.com/wiki/Fundamentals_of_Magic\" title=\"Fundamentals of Magic\">Fundamentals of Magic</a> episode 4.",
+            "img": "mlp/wiki/Other/arimaspi.png"
+        },
+        {
+            "name": "Big Boy",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Big_Boy_and_Runt\" title=\"Big Boy and Runt\">Big Boy and Runt</a>.",
+            "img": "mlp/wiki/Other/big-boy.png"
+        },
+        {
+            "name": "Braze",
+            "description": "A zebra who serves as the antagonist of the <a href=\"https://mlp.fandom.com/wiki/Chapter_books\" title=\"Chapter books\">chapter book</a> <i>Rainbow Dash and the Daring Do Double Dare</i>. His name is an anagram of \"zebra\"."
+        },
+        {
+            "name": "Buttercream Sunday",
+            "description": "Appears in a rabbit hole on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.2316\" title=\"My Little Pony: Friends Forever\"><i>Friends Forever</i> Issue #16</a> page 10.",
+            "img": "mlp/wiki/Other/buttercream-sunday.png"
+        },
+        {
+            "name": "Cactus Rose",
+            "description": "An abada who appears in the \"Season 10\" comics."
+        },
+        {
+            "name": "Cassie",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Creatures#Issue_.2323\" title=\"Creatures\">kelpie</a> who appears in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2323\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #23</a> and <a href=\"https://mlp.fandom.com/wiki/Afflictions_and_illnesses#Hypnosis.2Fmind_control\" title=\"Afflictions and illnesses\">hypnotizes</a> the ponies of Ponyville into breaking the Ponyville dam.",
+            "img": "mlp/wiki/Other/cassie.png"
+        },
+        {
+            "name": "Cletus",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Animals#Mule\" title=\"Animals\">Mule</a>.",
+            "img": "mlp/wiki/Other/cletus.png"
+        },
+        {
+            "name": "Cosmos",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2375\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #75</a>-<a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2378\" title=\"My Little Pony: Friendship is Magic (comics)\">Issue #78</a> villain, a chaos-causing being infatuated with Discord. <i><a href=\"/wiki/The_Art_of_My_Little_Pony:_The_Movie\" title=\"The Art of My Little Pony: The Movie\">The Art of My Little Pony: The Movie</a></i> pages 46, 47, and 155 and Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Trading_cards\" title=\"Merchandise\">trading card</a> <i>The Movie</i> #67 feature <a href=\"https://mlp.fandom.com/wiki/Tempest_Shadow\" title=\"Tempest Shadow\">Tempest Shadow</a> concepts of Cosmos as <a href=\"https://mlp.fandom.com/wiki/Princess_Celestia\" title=\"Princess Celestia\">Celestia</a>'s <a href=\"https://mlp.fandom.com/wiki/Lauren_Faust\" title=\"Lauren Faust\">previously</a>-<a rel=\"nofollow\" class=\"external text\" href=\"https://comments.deviantart.com/4/1603670/1932962564\">unplanned</a> <a href=\"https://mlp.fandom.com/wiki/Family_and_relatives\" title=\"Family and relatives\">brother</a>.",
+            "img": "mlp/wiki/Other/cosmos.jpg"
+        },
+        {
+            "name": "Cranky Doodle Donkey",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Cranky_Doodle_Donkey\" title=\"Cranky Doodle Donkey\">Cranky Doodle Donkey</a>.",
+            "img": "mlp/wiki/Other/cranky-doodle-donkey.png"
+        },
+        {
+            "name": "Cranky Doodle Ryan",
+            "description": "A representation of Katie Cook's husband Ryan Wilcox. Appears on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.231\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #1</a> pages 17 and 19/<a href=\"http://en.wikipedia.org/wiki/Hot_Topic\" class=\"extiw\" title=\"wikipedia:Hot Topic\">Hot Topic</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise#Apparel\" title=\"Merchandise\">T-shirt</a>, <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Micro-Series#Issue_.2310\" title=\"My Little Pony Micro-Series\"><i>Micro-Series</i> Issue #10</a> page 19, <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2341\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #41</a> page 13, and <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2350\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #50</a> page 20.",
+            "img": "mlp/wiki/Other/cranky-doodle-ryan.png"
+        },
+        {
+            "name": "Crystal",
+            "description": "A kelpie who appears in the \"Season 10\" comics."
+        },
+        {
+            "name": "Discord",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Discord\" title=\"Discord\">Discord</a>.",
+            "img": "mlp/wiki/Other/discord.png"
+        },
+        {
+            "name": "Sir Discord",
+            "description": "An alternate universe counterpart of Discord, who uses the superhero identity \"Captain Goodguy.\" Stated by the alternate King Sombra in Issue #19 to be looking after the Equestrian northlands.",
+            "img": "mlp/wiki/Other/sir-discord.png"
+        },
+        {
+            "name": "Doran",
+            "description": "A troublesome Nyx who befriends Nightmare Moon and is later turned into one of the Nightmare forces.",
+            "img": "mlp/wiki/Other/doran.png"
+        },
+        {
+            "name": "Dust Devil",
+            "description": "An abada who appears in the \"Season 10\" comics."
+        },
+        {
+            "name": "Princess Eris",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Nightmare_Knights\" title=\"My Little Pony: Nightmare Knights\"><i>My Little Pony: Nightmare Knights</i></a> as a casino owner, Goddess of Luck, and the Lord of Chaos in <a href=\"https://mlp.fandom.com/wiki/Locations#Other_dimensions\" title=\"Locations\">an alternate Equestria</a>. Stated to be <a href=\"#Discord\">Discord</a>'s cousin. Princess Eris is a character in Gameloft's mobile game, and serves as a boss during the Nightmare Knights and \"Reflections of Harmony\" events. Her in-game bio states \"An alternate-universe Lord of Chaos who keeps Daybreaker on a leash....Yeah, it's a long story.\"",
+            "img": "mlp/wiki/Other/princess-eris.png"
+        },
+        {
+            "name": "Flap",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">The Festival of Lights</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Flip",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">The Festival of Lights</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Gaea Everfree",
+            "description": "A vengeful forest spirit who is mentioned throughout and briefly featured in <i><a href=\"/wiki/My_Little_Pony_Equestria_Girls:_Legend_of_Everfree\" title=\"My Little Pony Equestria Girls: Legend of Everfree\">My Little Pony Equestria Girls: Legend of Everfree</a></i>. <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/ishiH3Art/status/799696473101201408\">According to</a> <a href=\"https://mlp.fandom.com/wiki/Ishi_Rudell\" title=\"Ishi Rudell\">Ishi Rudell</a>, \"Gaea was a spooky story made up by Timber to cover for his sister who was using magic around camp.\"",
+            "img": "mlp/wiki/Other/gaea-everfree.png"
+        },
+        {
+            "name": "Gaiman",
+            "description": "One of the Nyx responsible for giving ponies good dreams. He is later turned into one of the Nightmare Forces by Nightmare Moon.",
+            "img": "mlp/wiki/Other/gaiman.png"
+        },
+        {
+            "name": "Gram-Gram",
+            "description": "<a href=\"#Lord_Tirek\">Lord Tirek</a>'s grandmother, mentioned in <a href=\"https://mlp.fandom.com/wiki/Frenemies\" title=\"Frenemies\">Frenemies</a>."
+        },
+        {
+            "name": "Grogar",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Grogar\" title=\"Grogar\">Grogar</a>.",
+            "img": "mlp/wiki/Other/grogar.png"
+        },
+        {
+            "name": "Grubber",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Grubber\" title=\"Grubber\">Grubber</a>.",
+            "img": "mlp/wiki/Other/grubber.png"
+        },
+        {
+            "name": "Queen Haydon",
+            "description": "<a href=\"#Lord_Tirek\">Tirek</a> and <a href=\"#Scorpan\">Scorpan</a>'s mother and the queen of a kingdom far from Equestria.",
+            "img": "mlp/wiki/Other/queen-haydon.png"
+        },
+        {
+            "name": "Hubert",
+            "description": "A Butterdragon and friend of <a href=\"#Discord\">Discord</a>'s who lives in prehistoric Equestrian times. Named the same as <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Avery\" title=\"List of non-pony characters\">Avery</a>'s <a href=\"https://mlp.fandom.com/wiki/Locations#Human_world\" title=\"Locations\">human world</a> <a href=\"https://mlp.fandom.com/wiki/List_of_Equestria_Girls_characters#Hubert\" title=\"List of Equestria Girls characters\">version</a> and as <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Eloise_and_Hubert\" title=\"List of non-pony characters\">a swan</a>.",
+            "img": "mlp/wiki/Other/hubert.png"
+        },
+        {
+            "name": "Iggy",
+            "description": "One of three rock lobsters that take <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Spike\" title=\"List of non-pony characters\">Spike</a> and <a href=\"https://mlp.fandom.com/wiki/Princess_Celestia\" title=\"Princess Celestia\">Princess Celestia</a> prisoner in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.233\" title=\"My Little Pony: Friends Forever\"><i>Friends Forever</i> Issue #3</a>. Named the same as a nickname for <a href=\"https://mlp.fandom.com/wiki/Igneous_Rock_Pie\" title=\"Igneous Rock Pie\" class=\"mw-redirect\">Igneous Rock Pie</a>.",
+            "img": "mlp/wiki/Other/iggy.png"
+        },
+        {
+            "name": "Imp",
+            "description": "A greater Equestrian mimicker that the <a href=\"https://mlp.fandom.com/wiki/Cutie_Mark_Crusaders\" title=\"Cutie Mark Crusaders\">Cutie Mark Crusaders</a> befriend in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Micro-Series#Issue_.237\" title=\"My Little Pony Micro-Series\"><i>Micro-Series</i> Issue #7</a>. Also appears on the <a href=\"https://mlp.fandom.com/wiki/File:Ponyville_Mysteries_issue_1_Tidewater_Comicon_cover_RE.jpg\" title=\"File:Ponyville Mysteries issue 1 Tidewater Comicon cover RE.jpg\">Tidewater Comicon 2018 exclusive cover</a> of <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Ponyville_Mysteries#Issue_.231\" title=\"My Little Pony: Ponyville Mysteries\"><i>My Little Pony: Ponyville Mysteries</i> Issue #1</a>.",
+            "img": "mlp/wiki/Other/imp.png"
+        },
+        {
+            "name": "The Spider Queen\nInsidira",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">The Festival of Lights</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Ira",
+            "description": "One of the <a href=\"https://mlp.fandom.com/wiki/Ponies#Shadow_ponies\" title=\"Ponies\">umbrum</a> and <a href=\"#Rabia\">Rabia</a>'s daughter in <a href=\"https://mlp.fandom.com/wiki/Siege_of_the_Crystal_Empire\" title=\"Siege of the Crystal Empire\">Siege of the Crystal Empire</a>.",
+            "img": "mlp/wiki/Other/ira.png"
+        },
+        {
+            "name": "Iron Will",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Iron_Will\" title=\"Iron Will\">Iron Will</a>.",
+            "img": "mlp/wiki/Other/iron-will.png"
+        },
+        {
+            "name": "Jerome",
+            "description": "<a href=\"#Larry\">Larry</a>'s bumbling subordinate. Also appears in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_FIENDship_is_Magic#Issue_.234\" title=\"My Little Pony: FIENDship is Magic\"><i>FIENDship is Magic</i> Issue #4</a>. A squirrel of the same name is mentioned in <a href=\"https://mlp.fandom.com/wiki/The_Mean_6\" title=\"The Mean 6\">The Mean 6</a>.",
+            "img": "mlp/wiki/Other/jerome.png"
+        },
+        {
+            "name": "Jim",
+            "description": "A large troll living in a cave in the Appaloosan Mountains. A collector of assorted, crudely-made memorabilia. <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://twitter.com/Fyre_flye/status/714148411784626177\">[1]</a><sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup> Also appears on a poster in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2361\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #61</a>.",
+            "img": "mlp/wiki/Other/jim.png"
+        },
+        {
+            "name": "Larry",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Larry\" title=\"Larry\">Larry</a>.",
+            "img": "mlp/wiki/Other/larry.png"
+        },
+        {
+            "name": "King Leo",
+            "description": "He appears in the story book <i>Under the Sparkling Sea</i>. He is the ruler of Aquastria and a cousin of Princess Celestia. Similar to <a href=\"https://mlp.fandom.com/wiki/List_of_prose_ponies#L.C3.A9on\" title=\"List of prose ponies\">Léon</a> in name and Celestia-cousinship. <a href=\"https://mlp.fandom.com/wiki/Locations#Human_world\" title=\"Locations\">Human world</a> <a href=\"https://mlp.fandom.com/wiki/List_of_Equestria_Girls_characters#Leo\" title=\"List of Equestria Girls characters\">Leo</a> appears in <i><a href=\"/wiki/Wondercolts_Forever:_The_Diary_of_Celestia_and_Luna\" title=\"Wondercolts Forever: The Diary of Celestia and Luna\">Wondercolts Forever: The Diary of Celestia and Luna</a></i>.",
+            "img": "mlp/wiki/Other/king-leo.png"
+        },
+        {
+            "name": "Marini",
+            "description": "A zebra who appears in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2389\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #89</a>."
+        },
+        {
+            "name": "Matilda",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Matilda\" title=\"Matilda\">Matilda</a>.",
+            "img": "mlp/wiki/Other/matilda.png"
+        },
+        {
+            "name": "Medley Brook",
+            "description": "A kelpie who appears in the \"Season 10\" comics."
+        },
+        {
+            "name": "Metty",
+            "description": "One of three rock lobsters that take <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Spike\" title=\"List of non-pony characters\">Spike</a> and <a href=\"https://mlp.fandom.com/wiki/Princess_Celestia\" title=\"Princess Celestia\">Princess Celestia</a> prisoner in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.233\" title=\"My Little Pony: Friends Forever\"><i>Friends Forever</i> Issue #3</a>.",
+            "img": "mlp/wiki/Other/metty.png"
+        },
+        {
+            "name": "Mulia Mild",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Mulia_Mild\" title=\"Mulia Mild\">Mulia Mild</a>.",
+            "img": "mlp/wiki/Other/mulia-mild.png"
+        },
+        {
+            "name": "Nar Wally",
+            "description": "He appears in the story book <i>Under the Sparkling Sea</i>. He helps <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Arrow\" title=\"List of non-pony characters\">Arrow</a> get out of a sinkhole and teaches Rainbow Dash for the contest.",
+            "img": "mlp/wiki/Other/nar-wally.jpg"
+        },
+        {
+            "name": "Nutso",
+            "description": "A friend of Angel's who appears in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.235\" title=\"My Little Pony: Friends Forever\"><i>Friends Forever</i> Issue #5</a>.",
+            "img": "mlp/wiki/Other/nutso.jpg"
+        },
+        {
+            "name": "Pepper Clark",
+            "description": "Appears depicted in a drawing on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.2316\" title=\"My Little Pony: Friends Forever\"><i>Friends Forever</i> Issue #16</a> page 2.",
+            "img": "mlp/wiki/Other/pepper-clark.png"
+        },
+        {
+            "name": "Pink Bunny",
+            "description": "A friend of Angel's mentioned in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.235\" title=\"My Little Pony: Friends Forever\"><i>Friends Forever</i> Issue #5</a>."
+        },
+        {
+            "name": "Queen of the Hippos",
+            "description": "Mentioned in and appears during the animated closing credits of <i><a href=\"/wiki/My_Little_Pony_The_Movie\" title=\"My Little Pony The Movie\">My Little Pony The Movie</a></i>.",
+            "img": "mlp/wiki/Other/queen-of-the-hippos.png"
+        },
+        {
+            "name": "Rabia",
+            "description": "One of the <a href=\"https://mlp.fandom.com/wiki/Ponies#Shadow_ponies\" title=\"Ponies\">umbrum</a> in <a href=\"https://mlp.fandom.com/wiki/Siege_of_the_Crystal_Empire\" title=\"Siege of the Crystal Empire\">Siege of the Crystal Empire</a>. She is a character called \"True Umbrum\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>, and serves as a boss during the Siege of the Crystal Empire and \"Reflections of Harmony\" events. Her in-game description states, \"The closest thing Equestria has to a brain-melting, transdimensional nightmare. Paging H. Pony Lovecart!\"",
+            "img": "mlp/wiki/Other/rabia.png"
+        },
+        {
+            "name": "Ralph",
+            "description": "One of <a href=\"#The_Storm_King\">the Storm King</a>'s troops in <i><a href=\"/wiki/My_Little_Pony:_The_Movie_Prequel\" title=\"My Little Pony: The Movie Prequel\">My Little Pony: The Movie Prequel</a></i> Issue #2. Shares his name with <a href=\"https://mlp.fandom.com/wiki/List_of_comic_ponies#Ralph\" title=\"List of comic ponies\">one</a> of <a href=\"https://mlp.fandom.com/wiki/Princess_Luna\" title=\"Princess Luna\">Princess Luna</a>'s <a href=\"https://mlp.fandom.com/wiki/Royal_guards\" title=\"Royal guards\">royal guards</a>.",
+            "img": "mlp/wiki/Other/ralph.png"
+        },
+        {
+            "name": "Runt",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Big_Boy_and_Runt\" title=\"Big Boy and Runt\">Big Boy and Runt</a>.",
+            "img": "mlp/wiki/Other/runt.png"
+        },
+        {
+            "name": "Sable",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">The Festival of Lights</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Sam",
+            "description": "One of <a href=\"#The_Storm_King\">the Storm King</a>'s troops in <i><a href=\"/wiki/My_Little_Pony:_The_Movie_Prequel\" title=\"My Little Pony: The Movie Prequel\">My Little Pony: The Movie Prequel</a></i> Issue #2. Shares his name with <a href=\"https://mlp.fandom.com/wiki/List_of_comic_ponies#Sam\" title=\"List of comic ponies\">one</a> of <a href=\"https://mlp.fandom.com/wiki/Princess_Celestia\" title=\"Princess Celestia\">Princess Celestia</a>'s <a href=\"https://mlp.fandom.com/wiki/Royal_guards\" title=\"Royal guards\">royal guards</a> and a <a href=\"https://mlp.fandom.com/wiki/Animals#Cat\" title=\"Animals\">cat</a>.",
+            "img": "mlp/wiki/Other/sam.png"
+        },
+        {
+            "name": "Saturn",
+            "description": "A talking planet that appears in Pinkie Pie's fantasy sequence in <a href=\"https://mlp.fandom.com/wiki/Sparkle%27s_Seven\" title=\"Sparkle's Seven\">Sparkle's Seven</a>. Voiced by Brian Drummond.",
+            "img": "mlp/wiki/Other/saturn.png"
+        },
+        {
+            "name": "Scorpan",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Scorpan\" title=\"Scorpan\">Scorpan</a>.",
+            "img": "mlp/wiki/Other/scorpan.png"
+        },
+        {
+            "name": "Seddy",
+            "description": "One of three rock lobsters that take <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Spike\" title=\"List of non-pony characters\">Spike</a> and <a href=\"https://mlp.fandom.com/wiki/Princess_Celestia\" title=\"Princess Celestia\">Princess Celestia</a> prisoner in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.233\" title=\"My Little Pony: Friends Forever\"><i>Friends Forever</i> Issue #3</a>.",
+            "img": "mlp/wiki/Other/seddy.png"
+        },
+        {
+            "name": "Sendak the Elder",
+            "description": "A centaur hermit who teaches <a href=\"#Lord_Tirek\">Tirek</a> in the ways of magic.",
+            "img": "mlp/wiki/Other/sendak-the-elder.png"
+        },
+        {
+            "name": "Senior Huevos",
+            "description": "A sock puppet that appears in <a href=\"https://mlp.fandom.com/wiki/Make_New_Friends_but_Keep_Discord\" title=\"Make New Friends but Keep Discord\">Make New Friends but Keep Discord</a>, in an alternate <a href=\"https://mlp.fandom.com/wiki/Locations\" title=\"Locations\">dimension</a> that <a href=\"#Discord\">Discord</a> rips open a path to at the <a href=\"https://mlp.fandom.com/wiki/Grand_Galloping_Gala\" title=\"Grand Galloping Gala\">Grand Galloping Gala</a>. <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/599604613499740161\">Built, performed</a>, and <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/goldenrusset/status/599607212797890560\">named</a> by <a href=\"https://mlp.fandom.com/wiki/Jayson_Thiessen\" title=\"Jayson Thiessen\">Jayson Thiessen</a>.",
+            "img": "mlp/wiki/Other/senior-huevos.png"
+        },
+        {
+            "name": "Skellinore",
+            "description": "A Level 18 Bone Warrior in <a href=\"#Squizard\">Squizard</a>'s mage army in <i>Ogres &amp; Oubliettes</i> in <a href=\"https://mlp.fandom.com/wiki/The_Break_Up_Break_Down\" title=\"The Break Up Break Down\">The Break Up Break Down</a>.",
+            "img": "mlp/wiki/Other/skellinore.png"
+        },
+        {
+            "name": "The Smooze",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/The_Smooze\" title=\"The Smooze\">The Smooze</a>.",
+            "img": "mlp/wiki/Other/the-smooze.png"
+        },
+        {
+            "name": "Sonata Dusk",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Sonata_Dusk\" title=\"Sonata Dusk\">Sonata Dusk</a>.",
+            "img": "mlp/wiki/Other/sonata-dusk.png"
+        },
+        {
+            "name": "Spirit of Hearth's Warming Past",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/A_Hearth%27s_Warming_Tail\" title=\"A Hearth's Warming Tail\">A Hearth's Warming Tail</a> as a character in the story \"A Hearth's Warming Tale\". Shares her depiction with <a href=\"https://mlp.fandom.com/wiki/Applejack\" title=\"Applejack\">Applejack</a>. She is a character in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Other/spirit-of-hearth-s-warming-past.png"
+        },
+        {
+            "name": "Spirit of Hearth's Warming Presents",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/A_Hearth%27s_Warming_Tail\" title=\"A Hearth's Warming Tail\">A Hearth's Warming Tail</a> as a character in the story \"A Hearth's Warming Tale\". Shares her depiction with <a href=\"https://mlp.fandom.com/wiki/Pinkie_Pie\" title=\"Pinkie Pie\">Pinkie Pie</a>. She is a character in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. She also appears in <a href=\"https://mlp.fandom.com/wiki/Baby_Flurry_Heart%27s_Heartfelt_Scrapbook\" title=\"Baby Flurry Heart's Heartfelt Scrapbook\">Baby Flurry Heart's Heartfelt Scrapbook</a> episode 7.",
+            "img": "mlp/wiki/Other/spirit-of-hearth-s-warming-presents.png"
+        },
+        {
+            "name": "Spirit of Hearth's Warming Yet to Come",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/A_Hearth%27s_Warming_Tail\" title=\"A Hearth's Warming Tail\">A Hearth's Warming Tail</a> as a character in the story \"A Hearth's Warming Tale\". Depicted as <a href=\"https://mlp.fandom.com/wiki/Princess_Luna\" title=\"Princess Luna\">Princess Luna</a> in <a href=\"https://mlp.fandom.com/wiki/Twilight_Sparkle\" title=\"Twilight Sparkle\">Twilight Sparkle</a>'s imagining of the story. Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> Defenders of Equestria expansion set card #35 SR of Princess Luna <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/MLP_CCG/status/851567034336980994\">a</a><a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/MLP_CCG/status/851567365036834816\">s</a> the Spirit of Hearth's Warming Yet to Come gives her the description \"<i>The Spirit of Hearth's Warming Yet to Come had good reason to be so harsh on Snowfall Frost—if the unicorn's plans had come to fruition, the Spirit would have ceased to exist!</i>\"",
+            "img": "mlp/wiki/Other/spirit-of-hearth-s-warming-yet-to-come.png"
+        },
+        {
+            "name": "Spryyg",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">The Festival of Lights</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Squizard",
+            "description": "An evil wizard in the role-playing game <i>Ogres &amp; Oubliettes</i> in <a href=\"https://mlp.fandom.com/wiki/Dungeons_%26_Discords\" title=\"Dungeons &amp; Discords\">Dungeons &amp; Discords</a>. Voiced by Peter New.",
+            "img": "mlp/wiki/Other/squizard.png"
+        },
+        {
+            "name": "Steven Magnet",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Steven_Magnet\" title=\"Steven Magnet\">Steven Magnet</a>.",
+            "img": "mlp/wiki/Other/steven-magnet.png"
+        },
+        {
+            "name": "The Storm King",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/The_Storm_King\" title=\"The Storm King\">The Storm King</a>.",
+            "img": "mlp/wiki/Other/the-storm-king.png"
+        },
+        {
+            "name": "Strife",
+            "description": "<a href=\"#The_Storm_King\">The Storm King</a>'s original second-in-command in <i><a href=\"/wiki/My_Little_Pony:_The_Movie_Prequel\" title=\"My Little Pony: The Movie Prequel\">My Little Pony: The Movie Prequel</a></i> Issues #1 and #2.",
+            "img": "mlp/wiki/Other/strife.png"
+        },
+        {
+            "name": "Lord Tirek",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Lord_Tirek\" title=\"Lord Tirek\">Lord Tirek</a>.",
+            "img": "mlp/wiki/Other/lord-tirek.png"
+        },
+        {
+            "name": "Tree of Harmony",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Tree_of_Harmony\" title=\"Tree of Harmony\">Tree of Harmony</a>.",
+            "img": "mlp/wiki/Other/tree-of-harmony.png"
+        },
+        {
+            "name": "King Vorak",
+            "description": "<a href=\"#Lord_Tirek\">Tirek</a> and <a href=\"#Scorpan\">Scorpan</a>'s father and the king of a kingdom far from Equestria. He is mentioned by name in <a href=\"https://mlp.fandom.com/wiki/The_Ending_of_the_End_-_Part_2\" title=\"The Ending of the End - Part 2\">The Ending of the End - Part 2</a>.",
+            "img": "mlp/wiki/Other/king-vorak.png"
+        },
+        {
+            "name": "Webfather",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">The Festival of Lights</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Well-to-Do",
+            "description": "The owner of the Mighty Minotaur Construction company who seeks to build an amusement park on Everfree Forest land in <a href=\"https://mlp.fandom.com/wiki/The_Root_of_the_Problem\" title=\"The Root of the Problem\">The Root of the Problem</a>. Also listed on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2334\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #34</a> <a href=\"https://mlp.fandom.com/wiki/File:Comic_issue_34_page_3.jpg\" title=\"File:Comic issue 34 page 3.jpg\">page 3</a> and appears on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Nightmare_Knights#Issue_.231\" title=\"My Little Pony: Nightmare Knights\"><i>My Little Pony: Nightmare Knights</i> Issue #1</a> page 14. He is a character named \"Well-To-Do\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>, and serves as an enemy minion during the \"Reflections of Harmony\" event.",
+            "img": "mlp/wiki/Other/well-to-do.png"
+        },
+        {
+            "name": "Windy",
+            "description": "The subject of a legend made up by Flim and Flam in the <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Holiday_Special_2017\" title=\"My Little Pony Holiday Special 2017\">My Little Pony Holiday Special 2017</a> comic. A <a href=\"https://mlp.fandom.com/wiki/Windigo\" title=\"Windigo\" class=\"mw-redirect\">windigo</a> said to bring snow to Equestria every year when shown kindness.",
+            "img": "mlp/wiki/Other/windy.png"
+        },
+        {
+            "name": "Zecora",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Zecora\" title=\"Zecora\">Zecora</a>.",
+            "img": "mlp/wiki/Other/zecora.png"
+        },
+        {
+            "name": "Angel",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Angel\" title=\"Angel\">Angel</a>.",
+            "img": "mlp/wiki/Other/angel.png"
+        },
+        {
+            "name": "Angel",
+            "description": "An alternate universe version of <a href=\"https://mlp.fandom.com/wiki/Angel\" title=\"Angel\">Angel</a> that appears in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2320\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #20</a>.",
+            "img": "mlp/wiki/Other/angel.png"
+        },
+        {
+            "name": "Bloofy",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Biscuit\" title=\"List of ponies\">Biscuit</a> and <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Spur\" title=\"List of ponies\">Spur</a>'s pet <a href=\"https://mlp.fandom.com/wiki/Creatures#Whirling_Mungtooth\" title=\"Creatures\">Whirling Mungtooth</a> in <a href=\"https://mlp.fandom.com/wiki/Growing_Up_is_Hard_to_Do\" title=\"Growing Up is Hard to Do\">Growing Up is Hard to Do</a>.",
+            "img": "mlp/wiki/Other/bloofy.png"
+        },
+        {
+            "name": "Blue Carbunkle",
+            "description": "One of the competing tortoises in the Great Northern Tortoise Races in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2383\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #83</a>."
+        },
+        {
+            "name": "Calvin & Theo",
+            "description": "One of multiple character designs in \"007_c04_baby_chipmunks\" under \"Critters\" <a rel=\"nofollow\" class=\"external text\" href=\"https://www.reddit.com/r/mylittlepony/comments/3mce6e/you_know_that_show_bible_leak_from_a_couple_days/\">from</a> \"AssetsLicensor\". Appears in <a href=\"https://mlp.fandom.com/wiki/Dragonshy\" title=\"Dragonshy\">Dragonshy</a>, in <a href=\"https://mlp.fandom.com/wiki/Stare_Master\" title=\"Stare Master\">Stare Master</a>, <a href=\"http://mylittlewiki.org/wiki/File:LuluLuckChipmunks.jpg\" class=\"extiw\" title=\"mlw:File:LuluLuckChipmunks.jpg\">as</a> <a href=\"https://mlp.fandom.com/wiki/Playful_Ponies\" title=\"Playful Ponies\">Playful Ponies</a> <a href=\"http://mylittlewiki.org/wiki/Lulu_Luck\" class=\"extiw\" title=\"mlw:Lulu Luck\">Lulu Luck</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"http://web.archive.org/web/20110927010559/http://www.hasbro.com/mylittlepony/en_US/shop/details.cfm?guid=2F983261-5056-900B-10EF-A0C664F3B9A8&amp;product_id=28277&amp;src=endeca\">pets</a>, <a href=\"http://mylittlewiki.org/wiki/File:Train_Sticker_Sheet.jpg\" class=\"extiw\" title=\"mlw:File:Train Sticker Sheet.jpg\">on</a> <a href=\"https://mlp.fandom.com/wiki/Friendship_Express\" title=\"Friendship Express\">Friendship Express</a> <a href=\"https://mlp.fandom.com/wiki/List_of_transportation_forms#Rail\" title=\"List of transportation forms\">Train track</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise\" title=\"Merchandise\">stickers</a>, in <a href=\"https://mlp.fandom.com/wiki/Too_Many_Pinkie_Pies\" title=\"Too Many Pinkie Pies\">Too Many Pinkie Pies</a>, in <a href=\"https://mlp.fandom.com/wiki/Magical_Mystery_Cure\" title=\"Magical Mystery Cure\">Magical Mystery Cure</a>, in <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/mylittlepony/photos/a.134316363252476.23944.118429394841173/728946893789417/\">a</a> promotional image, in <a href=\"https://mlp.fandom.com/wiki/Filli_Vanilli\" title=\"Filli Vanilli\">Filli Vanilli</a>, in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2323\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #23</a>, in <a href=\"https://mlp.fandom.com/wiki/Castle_Sweet_Castle\" title=\"Castle Sweet Castle\">Castle Sweet Castle</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://derpibooru.org/884284\">on</a> a <a href=\"https://mlp.fandom.com/wiki/Merchandise#Signature\" title=\"Merchandise\">Signature <i>My Little Pony</i> magazine</a> issue 41 sticker, <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/Calvin_%26_Theo,_Aw,_Nuts\" class=\"extiw\" title=\"w:c:mlpccg:Calvin &amp; Theo, Aw, Nuts\">on</a> Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> Equestrian Odysseys expansion set card <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/File:EquestrianOdysseys_079.jpg\" class=\"extiw\" title=\"w:c:mlpccg:File:EquestrianOdysseys 079.jpg\">#79 U</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.dzieciaki-testuja.pl/2016/09/kucykowe-ksiazeczki-czyli-jeszcze-o-my.html\">in</a> a <a href=\"https://mlp.fandom.com/wiki/List_of_storybooks\" title=\"List of storybooks\">storybook</a> whose Polish title is <i>Nieszczęścia chodzą parami</i>, in <a href=\"https://mlp.fandom.com/wiki/The_Hooffields_and_McColts\" title=\"The Hooffields and McColts\">The Hooffields and McColts</a>, <a href=\"https://mlp.fandom.com/wiki/List_of_Equestria_Girls_characters#Calvin_.26_Theo\" title=\"List of Equestria Girls characters\">in</a> <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Equestria_Girls:_Friendship_Games/Deleted_scenes#Bloopers\" title=\"My Little Pony Equestria Girls: Friendship Games/Deleted scenes\">MLPEG Friendship Games _Bloopers_</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://derpibooru.org/1363578\">in</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://media.merlin.pl/media/original/000/015/207/57d758acd5e2e.jpg\">a</a> storybook whose Polish title is <i>Co w puszczy piszczy</i>, in <a href=\"https://mlp.fandom.com/wiki/Fluttershy_Leans_In\" title=\"Fluttershy Leans In\">Fluttershy Leans In</a>, in <a href=\"https://mlp.fandom.com/wiki/A_Health_of_Information\" title=\"A Health of Information\">A Health of Information</a>, <a rel=\"nofollow\" class=\"external text\" href=\"https://www.equestriadaily.com/2018/02/toy-fair-2018-my-little-pony-random.html\">in</a> <i><a href=\"/wiki/Merchandise#Reference_books\" title=\"Merchandise\">Atlas świata My Little Pony</a></i>, in the seventh version of the remastered <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_theme_song\" title=\"My Little Pony theme song\">opening sequence</a>, in <a href=\"https://mlp.fandom.com/wiki/Fake_It_%27Til_You_Make_It\" title=\"Fake It 'Til You Make It\">Fake It 'Til You Make It</a>, in <a href=\"https://mlp.fandom.com/wiki/Yakity-Sax\" title=\"Yakity-Sax\">Yakity-Sax</a>, and in <a href=\"https://mlp.fandom.com/wiki/Teacher_of_the_Month\" title=\"Teacher of the Month\" class=\"mw-redirect\">Teacher of the Month</a>. Calvin is named the same as <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Calvin\" title=\"List of non-pony characters\">a bird</a>.",
+            "img": "mlp/wiki/Other/calvin-theo.png"
+        },
+        {
+            "name": "Conan Boil",
+            "description": "One of the competing tortoises in the Great Northern Tortoise Races in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2383\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #83</a>."
+        },
+        {
+            "name": "Copper Beech",
+            "description": "One of the competing tortoises in the Great Northern Tortoise Races in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2383\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #83</a>."
+        },
+        {
+            "name": "Fluffy Bun",
+            "description": "An unnamed filly's pet bunny who goes missing in <i>Daring Do and the Marked Thief of Marapore</i>."
+        },
+        {
+            "name": "Foo Foo",
+            "description": "One of <a href=\"https://mlp.fandom.com/wiki/Flim_and_Flam\" title=\"Flim and Flam\">Flim and Flam</a>'s performing rabbits in <i><a href=\"/wiki/Fluttershy_and_the_Fine_Furry_Friends_Fair\" title=\"Fluttershy and the Fine Furry Friends Fair\">Fluttershy and the Fine Furry Friends Fair</a>.</i>"
+        },
+        {
+            "name": "Gummy",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Gummy\" title=\"Gummy\">Gummy</a>.",
+            "img": "mlp/wiki/Other/gummy.png"
+        },
+        {
+            "name": "Harry",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Harry\" title=\"Harry\">Harry</a>.",
+            "img": "mlp/wiki/Other/harry.png"
+        },
+        {
+            "name": "Jim",
+            "description": "Princess Celestia and Luna's pet turtle, mentioned in <i>The Journal of the Two Sisters</i>. <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://twitter.com/Fyre_flye/status/714148411784626177\">[2]</a><sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Mr. Prickly",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/Fluttershy\" title=\"Fluttershy\">Fluttershy</a>'s pet spider in <i><a href=\"/wiki/My_Little_Pony:_The_Manga_-_A_Day_in_the_Life_of_Equestria_Vol._1\" title=\"My Little Pony: The Manga - A Day in the Life of Equestria Vol. 1\">My Little Pony: The Manga - A Day in the Life of Equestria Vol. 1</a></i>."
+        },
+        {
+            "name": "Puddles",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/List_of_comic_ponies#Cuppa_Joe\" title=\"List of comic ponies\">Cuppa Joe</a>'s pet fish in the <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Holiday_Special\" title=\"My Little Pony Holiday Special\">My Little Pony Holiday Special</a> 2015 comic. Named like G1 <a href=\"http://mylittlewiki.org/wiki/Puddles\" class=\"extiw\" title=\"mlw:Puddles\">Puddles</a>."
+        },
+        {
+            "name": "Quincy",
+            "description": "<a href=\"#Discord\">Discord</a>'s pet clownfish in <i><a href=\"/wiki/Discord_and_the_Ponyville_Players_Dramarama\" title=\"Discord and the Ponyville Players Dramarama\">Discord and the Ponyville Players Dramarama</a></i>. Named the same as <a href=\"https://mlp.fandom.com/wiki/List_of_Equestria_Girls_characters#Quincy\" title=\"List of Equestria Girls characters\">a human world sea turtle</a>."
+        },
+        {
+            "name": "Rupert",
+            "description": "One of <a href=\"https://mlp.fandom.com/wiki/Fluttershy\" title=\"Fluttershy\">Fluttershy</a>'s animal companions. Appears in <a href=\"https://mlp.fandom.com/wiki/Winter_Wrap_Up\" title=\"Winter Wrap Up\">Winter Wrap Up</a>, in <a href=\"https://mlp.fandom.com/wiki/Party_Pooped\" title=\"Party Pooped\">Party Pooped</a>, <a href=\"https://mlp.fandom.com/wiki/List_of_Equestria_Girls_characters#Rupert\" title=\"List of Equestria Girls characters\">in</a> <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Equestria_Girls:_Friendship_Games/Deleted_scenes#Bloopers\" title=\"My Little Pony Equestria Girls: Friendship Games/Deleted scenes\">MLPEG Friendship Games _Bloopers_</a>, on Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> Marks in Time expansion set card #50 R, in <a href=\"https://mlp.fandom.com/wiki/Fluttershy_Leans_In\" title=\"Fluttershy Leans In\">Fluttershy Leans In</a>, in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2354\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #54</a>, and <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/MyLittlePonyTheGame/photos/a.482213671819303.111230.479772008730136/1812626722111318/\">i</a><a rel=\"nofollow\" class=\"external text\" href=\"https://www.instagram.com/p/BV95RTcFdmC/\">n</a> Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Other/rupert.png"
+        },
+        {
+            "name": "Scarlet Study",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/List_of_comic_ponies#Alder_Brown\" title=\"List of comic ponies\">Alder Brown</a>'s pet tortoise in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2383\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #83</a>."
+        },
+        {
+            "name": "Silver Blaze",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/List_of_comic_ponies#Downey_Burn\" title=\"List of comic ponies\">Downey Burn</a>'s pet tortoise in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2383\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #83</a>.",
+            "img": "mlp/wiki/Other/silver-blaze.png"
+        },
+        {
+            "name": "Stingy-McScorpion",
+            "description": "One of <a href=\"#Doc_Holstein\">Doc Holstein</a>'s pets in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2325\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #25</a>."
+        },
+        {
+            "name": "Tank",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Tank\" title=\"Tank\">Tank</a>.",
+            "img": "mlp/wiki/Other/tank.png"
+        },
+        {
+            "name": "Tank",
+            "description": "An alternate universe version of Tank who appears in the mini-comic included with <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2320\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #20</a>.",
+            "img": "mlp/wiki/Other/tank.jpg"
+        },
+        {
+            "name": "Tiberius",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/Princess_Luna\" title=\"Princess Luna\">Princess Luna's</a> pet opossum in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Micro-Series#Issue_.2310\" title=\"My Little Pony Micro-Series\"><i>My Little Pony Micro-Series</i> Issue #10</a>. Also appears in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2317\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #17</a>, <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2320\" title=\"My Little Pony: Friendship is Magic (comics)\">Issue #20</a>, and <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2365\" title=\"My Little Pony: Friendship is Magic (comics)\">Issue #65</a>, <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.237\" title=\"My Little Pony: Friends Forever\"><i>My Little Pony: Friends Forever</i> Issue #7</a> and <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.2338\" title=\"My Little Pony: Friends Forever\">Issue #38</a>, and <i><a href=\"/wiki/Princess_Luna_and_the_Festival_of_the_Winter_Moon\" title=\"Princess Luna and the Festival of the Winter Moon\">Princess Luna and the Festival of the Winter Moon</a></i>.",
+            "img": "mlp/wiki/Other/tiberius.png"
+        },
+        {
+            "name": "Tiberius",
+            "description": "An alternate universe counterpart of <a href=\"#Tiberius\">Tiberius</a> who appears in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2319\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #19</a>.",
+            "img": "mlp/wiki/Other/tiberius.png"
+        },
+        {
+            "name": "Toby",
+            "description": "Fluttershy's pet fruit bat who appears in the chapter book <i>Twilight Sparkle and the Crystal Heart Spell</i>."
+        },
+        {
+            "name": "William Wormsworth",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/Fluttershy\" title=\"Fluttershy\">Fluttershy</a>'s pet inchworm, whom she describes as a \"bookworm.\" Accompanies her to the Golden Oak Library Society's first meeting in <i><a href=\"/wiki/Rainbow_Dash_and_the_Daring_Do_Double_Dare\" title=\"Rainbow Dash and the Daring Do Double Dare\">Rainbow Dash and the Daring Do Double Dare</a>.</i>"
+        },
+        {
+            "name": "Antoine",
+            "description": "One of the animals at Fluttershy's Sweet Feather Sanctuary. Named in <a href=\"https://mlp.fandom.com/wiki/She_Talks_to_Angel\" title=\"She Talks to Angel\">She Talks to Angel</a>.",
+            "img": "mlp/wiki/Other/antoine.png"
+        },
+        {
+            "name": "Mr. Beaverton Beaverteeth",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Animals#Beaver\" title=\"Animals\">Beaver</a>.",
+            "img": "mlp/wiki/Other/mr-beaverton-beaverteeth.png"
+        },
+        {
+            "name": "Bernard Rabbit",
+            "description": "A bunny rabbit featured in <a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Trapeze_Star\" title=\"List of ponies\">Trapeze Star</a>'s magic acrobatic act in <i>Ponet Fantastique</i> in <a href=\"https://mlp.fandom.com/wiki/Viva_Las_Pegasus\" title=\"Viva Las Pegasus\">Viva Las Pegasus</a>. He also appears in <a href=\"https://mlp.fandom.com/wiki/Rarity%27s_Peek_Behind_the_Boutique#Fashion_Do.27s_and_Don.27ts\" title=\"Rarity's Peek Behind the Boutique\">Rarity's Peek Behind the Boutique Ep. 1 Fashion Do's and Don'ts</a>. Shares his design with <a href=\"#Angel\">Angel</a>. Voiced by Andrea Libman.",
+            "img": "mlp/wiki/Other/bernard-rabbit.png"
+        },
+        {
+            "name": "Bertha",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Animals#Goat\" title=\"Animals\">Goat</a>.",
+            "img": "mlp/wiki/Other/bertha.jpg"
+        },
+        {
+            "name": "Mr. Bouncy",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Animals#Rabbit\" title=\"Animals\">Rabbit</a>.",
+            "img": "mlp/wiki/Other/mr-bouncy.png"
+        },
+        {
+            "name": "Bruce the Shark",
+            "description": "The Amazing Sea Show featuree on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Micro-Series#Issue_.2310\" title=\"My Little Pony Micro-Series\"><i>My Little Pony Micro-Series</i> Issue #10</a> page 19; one of Fluttershy's sanctuary animals on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2364\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #64</a> page 16. Named after the animatronic shark used in the 1975 film <i>Jaws</i>.",
+            "img": "mlp/wiki/Other/bruce-the-shark.png"
+        },
+        {
+            "name": "Brunella",
+            "description": "A hippo in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.231\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #1</a> with the same mane style and bow as <a href=\"https://mlp.fandom.com/wiki/Apple_Bloom\" title=\"Apple Bloom\">Apple Bloom</a>.",
+            "img": "mlp/wiki/Other/brunella.png"
+        },
+        {
+            "name": "Carol",
+            "description": "A blue crab living on the outskirts of Seaquestria in <i><a href=\"/wiki/Beyond_Equestria:_Fluttershy_Balances_the_Scales\" title=\"Beyond Equestria: Fluttershy Balances the Scales\">Beyond Equestria: Fluttershy Balances the Scales</a></i>."
+        },
+        {
+            "name": "Clarissa",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Animals#Pig\" title=\"Animals\">Pig</a>."
+        },
+        {
+            "name": "Clementine",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Animals#Miscellaneous\" title=\"Animals\">giraffe</a> who appears in <a href=\"https://mlp.fandom.com/wiki/Fluttershy_Leans_In\" title=\"Fluttershy Leans In\">Fluttershy Leans In</a>, the seventh version of the remastered <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_theme_song\" title=\"My Little Pony theme song\">opening sequence</a>, <a href=\"https://mlp.fandom.com/wiki/Yakity-Sax\" title=\"Yakity-Sax\">Yakity-Sax</a>, <a href=\"https://mlp.fandom.com/wiki/She_Talks_to_Angel\" title=\"She Talks to Angel\">She Talks to Angel</a>, <a href=\"https://mlp.fandom.com/wiki/Teacher_of_the_Month\" title=\"Teacher of the Month\" class=\"mw-redirect\">Teacher of the Month</a>, <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2370\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #70</a>, and <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2373\" title=\"My Little Pony: Friendship is Magic (comics)\">Issue #73</a>. Called <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/gmberrow/status/861372628841275392\">\"Clementine\"</a> by <a href=\"https://mlp.fandom.com/wiki/Gillian_M._Berrow\" title=\"Gillian M. Berrow\">Gillian M. Berrow</a>, who wanted to name her <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/gmberrow/status/861369993975390208\">\"Creamsicle\"</a>—after G1 <a href=\"http://mylittlewiki.org/wiki/Creamsicle\" class=\"extiw\" title=\"mlw:Creamsicle\">Creamsicle</a>—which didn't clear. Officially named in She Talks to Angel.",
+            "img": "mlp/wiki/Other/clementine.png"
+        },
+        {
+            "name": "Dolores",
+            "description": "A giant rhino mentioned by <a href=\"#Discord\">Discord</a> in <a href=\"https://mlp.fandom.com/wiki/The_Big_Mac_Question\" title=\"The Big Mac Question\">The Big Mac Question</a>."
+        },
+        {
+            "name": "F'wuffy",
+            "description": "A giant tarantula that attacks the Mane 6 as they're traveling through a cave in the Appaloosan mountains. He is defeated when <a href=\"#Troll_Jim\">Jim</a> \"adopts\" and names him after Pinkie Pie claims he's a teddy bear. Named like <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Fluffy\" title=\"List of non-pony characters\">Fluffy</a> and <a href=\"https://mlp.fandom.com/wiki/List_of_non-pony_characters#Mr._Fluffy\" title=\"List of non-pony characters\">Mr. Fluffy</a>.",
+            "img": "mlp/wiki/Other/f-wuffy.jpg"
+        },
+        {
+            "name": "Fuzzy Legs",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/Animals#Spider\" title=\"Animals\">Spider</a> design used in <a href=\"https://mlp.fandom.com/wiki/Maud_Pie_(episode)\" title=\"Maud Pie (episode)\">Maud Pie</a>, Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> The Crystal Games <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/File:CrystalGames_152.jpg\" class=\"extiw\" title=\"w:c:mlpccg:File:CrystalGames 152.jpg\">#152 U</a> <a href=\"https://mlp.fandom.com//mlpccg.fandom.com/wiki/Stone_Cold\" class=\"extiw\" title=\"w:c:mlpccg:Stone Cold\">Stone Cold</a>, and <a href=\"https://mlp.fandom.com/wiki/Scare_Master\" title=\"Scare Master\">Scare Master</a> (named).",
+            "img": "mlp/wiki/Other/fuzzy-legs.png"
+        },
+        {
+            "name": "Gil",
+            "description": "A fish that <a href=\"https://mlp.fandom.com/wiki/Fluttershy\" title=\"Fluttershy\">Fluttershy</a> nurses back to health in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pirate:_Friendship_Ahoy\" title=\"My Little Pirate: Friendship Ahoy\">My Little Pirate: Friendship Ahoy</a>.",
+            "img": "mlp/wiki/Other/gil.png"
+        },
+        {
+            "name": "Mr. Gossamer",
+            "description": "One of <a href=\"https://mlp.fandom.com/wiki/Fluttershy\" title=\"Fluttershy\">Fluttershy</a>'s butterfly friends in <a href=\"https://mlp.fandom.com/wiki/Ponies_of_Dark_Water\" title=\"Ponies of Dark Water\">Ponies of Dark Water</a>. Named like G3 dragonfly Gossamer.",
+            "img": "mlp/wiki/Other/mr-gossamer.png"
+        },
+        {
+            "name": "Harry",
+            "description": "A rainbow starfish living on the outskirts of Seaquestria in <i><a href=\"/wiki/Beyond_Equestria:_Fluttershy_Balances_the_Scales\" title=\"Beyond Equestria: Fluttershy Balances the Scales\">Beyond Equestria: Fluttershy Balances the Scales</a></i>. Shares his names with <a href=\"#Harry\">Harry</a> the <a href=\"https://mlp.fandom.com/wiki/Animals#Bear\" title=\"Animals\">bear</a>."
+        },
+        {
+            "name": "Jamal",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Animals#Miscellaneous\" title=\"Animals\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/jamal.png"
+        },
+        {
+            "name": "June",
+            "description": "A blue crab living on the outskirts of Seaquestria in <i><a href=\"/wiki/Beyond_Equestria:_Fluttershy_Balances_the_Scales\" title=\"Beyond Equestria: Fluttershy Balances the Scales\">Beyond Equestria: Fluttershy Balances the Scales</a></i>. Earlier addressed by <a href=\"#Discord\">Discord</a> via intercom in <a href=\"https://mlp.fandom.com/wiki/Dungeons_%26_Discords\" title=\"Dungeons &amp; Discords\">Dungeons &amp; Discords</a>; tweeted about <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/769559738111582209\">by</a> <a href=\"https://mlp.fandom.com/wiki/Jim_Miller\" title=\"Jim Miller\">Jim Miller</a> between then and <i>Fluttershy Balances the Scales</i>."
+        },
+        {
+            "name": "Lola",
+            "description": "One of <a href=\"https://mlp.fandom.com/wiki/Dr._Fauna\" title=\"Dr. Fauna\">Dr. Fauna</a>'s animal patients in <a href=\"https://mlp.fandom.com/wiki/Fluttershy_Leans_In\" title=\"Fluttershy Leans In\">Fluttershy Leans In</a> who originates from Western Equestria.",
+            "img": "mlp/wiki/Other/lola.png"
+        },
+        {
+            "name": "Mr. Mousey",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Animals#Mouse\" title=\"Animals\">Mouse</a>.",
+            "img": "mlp/wiki/Other/mr-mousey.png"
+        },
+        {
+            "name": "Muriel",
+            "description": "One of the animals at Fluttershy's Sweet Feather Sanctuary in <a href=\"https://mlp.fandom.com/wiki/She_Talks_to_Angel\" title=\"She Talks to Angel\">She Talks to Angel</a>.",
+            "img": "mlp/wiki/Other/muriel.png"
+        },
+        {
+            "name": "Piggington",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Animals#Pig\" title=\"Animals\">Pig</a>.",
+            "img": "mlp/wiki/Other/piggington.png"
+        },
+        {
+            "name": "Scout",
+            "description": "One of the animals at Fluttershy's Sweet Feather Sanctuary. Named in <a href=\"https://mlp.fandom.com/wiki/She_Talks_to_Angel\" title=\"She Talks to Angel\">She Talks to Angel</a>."
+        },
+        {
+            "name": "Smoky",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Smoky%27s_family\" title=\"Smoky's family\">Smoky's family</a>.",
+            "img": "mlp/wiki/Other/smoky.png"
+        },
+        {
+            "name": "Smoky Jr.",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Smoky%27s_family\" title=\"Smoky's family\">Smoky's family</a>.",
+            "img": "mlp/wiki/Other/smoky-jr.png"
+        },
+        {
+            "name": "Softpad",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Smoky%27s_family\" title=\"Smoky's family\">Smoky's family</a>.",
+            "img": "mlp/wiki/Other/softpad.png"
+        },
+        {
+            "name": "Spindle",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/Animals#Spider\" title=\"Animals\">Spider</a> design used in <a href=\"https://mlp.fandom.com/wiki/Read_It_and_Weep\" title=\"Read It and Weep\">Read It and Weep</a> (multiple; one voiced via \"<a href=\"https://mlp.fandom.com/wiki/List_of_ponies#Fuzzy_Slippers\" title=\"List of ponies\">Fuzzy Slippers</a>\" <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/BrianDrummondVO/status/313355398759464961\">by</a> <a href=\"https://mlp.fandom.com/wiki/Brian_Drummond\" title=\"Brian Drummond\">Brian Drummond</a>), <a rel=\"nofollow\" class=\"external text\" href=\"https://derpibooru.org/78422\">an</a> Enterplay <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=GaI91RLwv90\">trading</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=GxZqagxBe-c\">card</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise\" title=\"Merchandise\">binder</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://imgur.com/zVgXA6E\">back</a>, <a href=\"https://mlp.fandom.com/wiki/School_Daze_-_Part_1\" title=\"School Daze - Part 1\">School Daze - Part 1</a>, and <a href=\"https://mlp.fandom.com/wiki/What_Lies_Beneath\" title=\"What Lies Beneath\">What Lies Beneath</a> (multiple; one named).",
+            "img": "mlp/wiki/Other/spindle.png"
+        },
+        {
+            "name": "B​[​specify​]​",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">Judge Not by the Cover</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Bad Apple",
+            "description": "An apple given life due to remnants of Nightmare Moon's magic and the main antagonist of <a href=\"https://mlp.fandom.com/wiki/Night_of_the_Living_Apples\" title=\"Night of the Living Apples\">Night of the Living Apples</a>. Also appears on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Nightmare_Knights#Issue_.231\" title=\"My Little Pony: Nightmare Knights\"><i>My Little Pony: Nightmare Knights</i> Issue #1</a> page 13 and <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Nightmare_Knights#Issue_.233\" title=\"My Little Pony: Nightmare Knights\">Issue #3</a> <a href=\"https://mlp.fandom.com/wiki/File:Nightmare_Knights_issue_3_page_2.jpg\" title=\"File:Nightmare Knights issue 3 page 2.jpg\">page 2</a>. He is a character in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Other/bad-apple.png"
+        },
+        {
+            "name": "Miss Buffy",
+            "description": "A Nyx that <a href=\"https://mlp.fandom.com/wiki/Fluttershy\" title=\"Fluttershy\">Fluttershy</a> adopts and names in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.237\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #7</a>. Appears to resemble a rabbit. Named like <a href=\"#Buffy\">Buffy</a>.",
+            "img": "mlp/wiki/Other/miss-buffy.png"
+        },
+        {
+            "name": "Cyclops-clops",
+            "description": "A fictional monster from the Homare <a href=\"https://mlp.fandom.com/wiki/Literature\" title=\"Literature\">book</a> <i>The Ponyssey</i> brought to life by <a href=\"https://mlp.fandom.com/wiki/List_of_comic_ponies#Shadow_Lock\" title=\"List of comic ponies\">Shadow Lock</a> in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2352\" title=\"My Little Pony: Friendship is Magic (comics)\">Issue #52</a>. Has a similar body shape and color scheme to <a href=\"https://mlp.fandom.com/wiki/Bulk_Biceps\" title=\"Bulk Biceps\">Bulk Biceps</a>. Its cutie mark is an eyeball. He is a character named \"Cyclops-Clops\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>, and serves as a boss with a story role during the \"<a href=\"https://mlp.fandom.com/wiki/From_the_Shadows\" title=\"From the Shadows\">Nightmare Night at the Museum</a>\" event. His bio states, \"'Hear me, o Sirens who swim in the seas, bright-maned! If truly I am your kin, grant that Ponysseus of Maretonia may never reach her home again!'\"",
+            "img": "mlp/wiki/Other/cyclops-clops.png"
+        },
+        {
+            "name": "Dea",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">Judge Not by the Cover</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Edith",
+            "description": "A <a href=\"https://mlp.fandom.com/wiki/Creatures#Cockatrice\" title=\"Creatures\">cockatrice</a> that helps Silverstream with her research project in <a href=\"https://mlp.fandom.com/wiki/Student_Counsel\" title=\"Student Counsel\">Student Counsel</a>.",
+            "img": "mlp/wiki/Other/edith.png"
+        },
+        {
+            "name": "Frankenstag's monster",
+            "description": "A fictional monster from the Marey Spelley <a href=\"https://mlp.fandom.com/wiki/Literature\" title=\"Literature\">book</a> <i>Frakenstag</i> first mentioned in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2351\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #51</a> and brought to life by <a href=\"https://mlp.fandom.com/wiki/List_of_comic_ponies#Shadow_Lock\" title=\"List of comic ponies\">Shadow Lock</a> in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2352\" title=\"My Little Pony: Friendship is Magic (comics)\">Issue #52</a>. He is a character named \"Frankenstag's Monster\" in Gameloft's mobile game, and serves as a boss battle helper during the \"<a href=\"https://mlp.fandom.com/wiki/From_the_Shadows\" title=\"From the Shadows\">Nightmare Night at the Museum</a>\" event. His bio states \"'The fallen Nyx becomes a malignant Nightmare. Yet even those enemies of Celestia and ponykind have friends and associates in their desolation. I am alone.'\"",
+            "img": "mlp/wiki/Other/frankenstag-s-monster.png"
+        },
+        {
+            "name": "Good Apple",
+            "description": "An apple given life due to remnants of Nightmare Moon's magic who offers to help the Mane Six save Ponyville from the evil apples in <a href=\"https://mlp.fandom.com/wiki/Night_of_the_Living_Apples\" title=\"Night of the Living Apples\">Night of the Living Apples</a>. He is a character in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>; his bio states, \"Most green apples are tarter than the red variety -- but this apple is a LOT sweeter! Also, he has glasses for some reason.\"",
+            "img": "mlp/wiki/Other/good-apple.png"
+        },
+        {
+            "name": "Housey",
+            "description": "A house made <a href=\"https://mlp.fandom.com/wiki/Magic\" title=\"Magic\">magical</a> by <a href=\"https://mlp.fandom.com/wiki/List_of_comic_ponies#Miasmo\" title=\"List of comic ponies\">Miasmo</a> in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.2334\" title=\"My Little Pony: Friends Forever\"><i>My Little Pony: Friends Forever</i> Issue #34</a>.",
+            "img": "mlp/wiki/Other/housey.jpg"
+        },
+        {
+            "name": "Mr. Jackalope",
+            "description": "Appears together with <a href=\"#Well-to-Do\">Well-to-Do</a> in the stomach of a <a href=\"https://mlp.fandom.com/wiki/Creatures#Hydra\" title=\"Creatures\">hydra</a> in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2328\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #28</a>.",
+            "img": "mlp/wiki/Other/mr-jackalope.png"
+        },
+        {
+            "name": "Manny Roar",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Creatures#Manticore\" title=\"Creatures\">Manticore</a>.",
+            "img": "mlp/wiki/Other/manny-roar.png"
+        },
+        {
+            "name": "Melvin",
+            "description": "A manticore who appears in <i>The Journal of the Two Sisters</i>. He attacks the princesses, but after he is defeated, he becomes a friend and helps in the construction of the Castle of the Royal Pony Sisters. Also mentioned in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.2335\" title=\"My Little Pony: Friends Forever\"><i>My Little Pony: Friends Forever</i> Issue #35</a>.",
+            "img": "mlp/wiki/Other/melvin.png"
+        },
+        {
+            "name": "Smartyhoof",
+            "description": "A peryton that Sweetie Belle first encounters and names in <i><a href=\"/wiki/Ponyville_Mysteries:_Peryton_Panic\" title=\"Ponyville Mysteries: Peryton Panic\">Ponyville Mysteries: Peryton Panic</a></i>. Also featured in <i><a href=\"/wiki/Ponyville_Mysteries:_Journey_to_the_Livewood\" title=\"Ponyville Mysteries: Journey to the Livewood\">Ponyville Mysteries: Journey to the Livewood</a></i>.",
+            "img": "mlp/wiki/Other/smartyhoof.jpg"
+        },
+        {
+            "name": "Snowbutt McTwinkles",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Party_Pooped\" title=\"Party Pooped\">Party Pooped</a>. <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/614824466611314689\">Designed</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/kkosicka/status/614962099987554304\">and named</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/614933887937081344\">by</a> <a href=\"https://mlp.fandom.com/wiki/Crew#Artists_and_other_crew\" title=\"Crew\">Kora Kosicka</a>.",
+            "img": "mlp/wiki/Other/snowbutt-mctwinkles.png"
+        },
+        {
+            "name": "Sporedust Butterfly",
+            "description": "In <i><a href=\"/wiki/Merchandise#Tabletop_RPG\" title=\"Merchandise\">The Festival of Lights</a></i>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Mr. Tortoise-Snap",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Between_Dark_and_Dawn\" title=\"Between Dark and Dawn\">Between Dark and Dawn</a>. <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/1142950858830667777\">\"We pull from mythology a lot and there’s many giant turtles there.\"</a><sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>",
+            "img": "mlp/wiki/Other/mr-tortoise-snap.png"
+        },
+        {
+            "name": "Bloomberg",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Bloomberg\" title=\"Inanimate objects\">Bloomberg</a>.",
+            "img": "mlp/wiki/Other/bloomberg.png"
+        },
+        {
+            "name": "Boneless",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Boneless\" title=\"Inanimate objects\">Boneless</a>.",
+            "img": "mlp/wiki/Other/boneless.png"
+        },
+        {
+            "name": "Boulder",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Boulder\" title=\"Inanimate objects\">Boulder</a>.",
+            "img": "mlp/wiki/Other/boulder.png"
+        },
+        {
+            "name": "Big Jim",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>."
+        },
+        {
+            "name": "Blue-Blue",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>."
+        },
+        {
+            "name": "Brian",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/brian.png"
+        },
+        {
+            "name": "Brutus Force",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Brutus_Force\" title=\"Inanimate objects\">Brutus Force</a>.",
+            "img": "mlp/wiki/Other/brutus-force.png"
+        },
+        {
+            "name": "Chocolate Moose",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/chocolate-moose.png"
+        },
+        {
+            "name": "Fernando",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/fernando.png"
+        },
+        {
+            "name": "Gladys",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/gladys.png"
+        },
+        {
+            "name": "Holder's Boulder",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Holder.27s_Boulder\" title=\"Inanimate objects\">Holder's Boulder</a>.",
+            "img": "mlp/wiki/Other/holder-s-boulder.png"
+        },
+        {
+            "name": "Louise",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/louise.png"
+        },
+        {
+            "name": "Madame le Flour",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Pinkie_Pie.27s_imaginary_friends\" title=\"Inanimate objects\">Pinkie Pie's imaginary friends</a>.",
+            "img": "mlp/wiki/Other/madame-le-flour.png"
+        },
+        {
+            "name": "Sir Lintsalot",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Pinkie_Pie.27s_imaginary_friends\" title=\"Inanimate objects\">Pinkie Pie's imaginary friends</a>.",
+            "img": "mlp/wiki/Other/sir-lintsalot.png"
+        },
+        {
+            "name": "Phyllis",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/phyllis.png"
+        },
+        {
+            "name": "​[​specify​]​",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Forum:Regarding_leaked_information\" title=\"Forum:Regarding leaked information\">Forum:Regarding leaked information</a>.",
+            "img": "mlp/wiki/Other/specify.png"
+        },
+        {
+            "name": "Rockie",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Pinkie_Pie.27s_imaginary_friends\" title=\"Inanimate objects\">Pinkie Pie's imaginary friends</a>."
+        },
+        {
+            "name": "Rocky",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Pinkie_Pie.27s_imaginary_friends\" title=\"Inanimate objects\">Pinkie Pie's imaginary friends</a>.",
+            "img": "mlp/wiki/Other/rocky.png"
+        },
+        {
+            "name": "Shelby",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects\" title=\"Inanimate objects\">Inanimate objects</a>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Sheldon",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Shelly_and_Sheldon\" title=\"Inanimate objects\">Shelly and Sheldon</a>.",
+            "img": "mlp/wiki/Other/sheldon.png"
+        },
+        {
+            "name": "Shellanda",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects\" title=\"Inanimate objects\">Inanimate objects</a>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Shellbert",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects\" title=\"Inanimate objects\">Inanimate objects</a>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Shelly",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Shelly_and_Sheldon\" title=\"Inanimate objects\">Shelly and Sheldon</a>.",
+            "img": "mlp/wiki/Other/shelly.png"
+        },
+        {
+            "name": "Shelton",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects\" title=\"Inanimate objects\">Inanimate objects</a>.<sup><span style=\"white-space:nowrap;\">​[​<span title=\"The preceding statement is very general; it should be more specific and refer to examples.\" class=\"htitlenodot\">specify</span>​]​</span></sup>"
+        },
+        {
+            "name": "Silhouette Gloom of the Sundown Lands",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/Autumn_Blaze\" title=\"Autumn Blaze\">Autumn Blaze</a>'s shadow in <a href=\"https://mlp.fandom.com/wiki/Sounds_of_Silence\" title=\"Sounds of Silence\">Sounds of Silence</a>.",
+            "img": "mlp/wiki/Other/silhouette-gloom-of-the-sundown-lands.png"
+        },
+        {
+            "name": "Smarty Pants",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Smarty_Pants\" title=\"Inanimate objects\">Smarty Pants</a>.",
+            "img": "mlp/wiki/Other/smarty-pants.png"
+        },
+        {
+            "name": "Steffan",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>."
+        },
+        {
+            "name": "Tallulah",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/tallulah.png"
+        },
+        {
+            "name": "Tom",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Tom\" title=\"Inanimate objects\">Tom</a>.",
+            "img": "mlp/wiki/Other/tom.png"
+        },
+        {
+            "name": "Mr. Turnip",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Pinkie_Pie.27s_imaginary_friends\" title=\"Inanimate objects\">Pinkie Pie's imaginary friends</a>.",
+            "img": "mlp/wiki/Other/mr-turnip.png"
+        },
+        {
+            "name": "Twiggy",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Twiggy\" title=\"Inanimate objects\">Twiggy</a>.",
+            "img": "mlp/wiki/Other/twiggy.png"
+        },
+        {
+            "name": "Unless",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>."
+        },
+        {
+            "name": "Wigford",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>.",
+            "img": "mlp/wiki/Other/wigford.png"
+        },
+        {
+            "name": "Yeehaw",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Inanimate_objects#Miscellaneous\" title=\"Inanimate objects\">Miscellaneous</a>."
+        },
+        {
+            "name": "S01E01 Unnamed Sun",
+            "description": "<a href=\"https://mlp.fandom.com/wiki/Locations#The_sun_and_moon\" title=\"Locations\">The sun</a> managed by <a href=\"https://mlp.fandom.com/wiki/Princess_Celestia\" title=\"Princess Celestia\">Princess Celestia</a>. Its face, usually unshown, is visible on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2341\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>Friendship is Magic</i> Issue #41</a> <a href=\"https://mlp.fandom.com/wiki/File:Comic_issue_41_cover_RI.jpg\" title=\"File:Comic issue 41 cover RI.jpg\">cover RI</a> and is depicted via <a href=\"https://mlp.fandom.com/wiki/File:Apple_Bloom_%22what_do_we_do_until_then%3F%22_S6E4.png\" title='File:Apple Bloom \"what do we do until then?\" S6E4.png'>map</a>, <a href=\"https://mlp.fandom.com/wiki/File:Apple_Bloom_looking_sad_S6E4.png\" title=\"File:Apple Bloom looking sad S6E4.png\">portrait</a>, and <a href=\"https://mlp.fandom.com/wiki/File:Scootaloo_switching_the_stage_backdrops_S6E4.png\" title=\"File:Scootaloo switching the stage backdrops S6E4.png\">stage</a> <a href=\"https://mlp.fandom.com/wiki/File:Apple_Bloom_does_a_simple_tap_S6E4.png\" title=\"File:Apple Bloom does a simple tap S6E4.png\">backdrop</a> drawings in <a href=\"https://mlp.fandom.com/wiki/On_Your_Marks\" title=\"On Your Marks\">On Your Marks</a>.",
+            "img": "mlp/wiki/Other/s01e01-unnamed-sun.jpg"
+        },
+        {
+            "name": "S01E06 Unnamed Ursa Major",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Creatures#Ursa\" title=\"Creatures\">Ursa</a>.",
+            "img": "mlp/wiki/Other/s01e06-unnamed-ursa-major.png"
+        },
+        {
+            "name": "S01E06 Unnamed Ursa Minor",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Creatures#Ursa\" title=\"Creatures\">Ursa</a>.",
+            "img": "mlp/wiki/Other/s01e06-unnamed-ursa-minor.png"
+        },
+        {
+            "name": "S01E15 Unnamed Hydra",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Creatures#Hydra\" title=\"Creatures\">Hydra</a>.",
+            "img": "mlp/wiki/Other/s01e15-unnamed-hydra.png"
+        },
+        {
+            "name": "S01E17 Unnamed Cockatrice",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Creatures#Cockatrice\" title=\"Creatures\">Cockatrice</a>.",
+            "img": "mlp/wiki/Other/s01e17-unnamed-cockatrice.png"
+        },
+        {
+            "name": "S02E07 Unnamed Ladybug",
+            "description": "Ladybug design used in <a href=\"https://mlp.fandom.com/wiki/May_the_Best_Pet_Win!\" title=\"May the Best Pet Win!\">May the Best Pet Win!</a>, <a href=\"https://mlp.fandom.com/wiki/Ponyville_Confidential\" title=\"Ponyville Confidential\">Ponyville Confidential</a>, <i><a href=\"/wiki/My_Little_Pony_Equestria_Girls\" title=\"My Little Pony Equestria Girls\">My Little Pony Equestria Girls</a></i>, <a href=\"https://mlp.fandom.com/wiki/It_Ain%27t_Easy_Being_Breezies\" title=\"It Ain't Easy Being Breezies\">It Ain't Easy Being Breezies</a>, <i><a href=\"/wiki/My_Little_Pony_Equestria_Girls:_Rainbow_Rocks\" title=\"My Little Pony Equestria Girls: Rainbow Rocks\">My Little Pony Equestria Girls: Rainbow Rocks</a></i>, <a href=\"https://mlp.fandom.com/wiki/Bloom_%26_Gloom\" title=\"Bloom &amp; Gloom\">Bloom &amp; Gloom</a>, <i><a href=\"/wiki/My_Little_Pony_Equestria_Girls:_Friendship_Games\" title=\"My Little Pony Equestria Girls: Friendship Games\">My Little Pony Equestria Girls: Friendship Games</a></i>, and <a href=\"https://mlp.fandom.com/wiki/Starlight_the_Hypnotist\" title=\"Starlight the Hypnotist\" class=\"mw-redirect\">Starlight the Hypnotist</a>. A mostly-recolored version <a rel=\"nofollow\" class=\"external text\" href=\"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTn01jmtgfb4hkbLkpJeKlWbhI6qPa5pi2hbgXhEDOVAfA9u0Dtjg\">is</a> <a href=\"https://mlp.fandom.com/wiki/Applejack\" title=\"Applejack\">Applejack</a>'<a href=\"http://mylittlewiki.org/wiki/G4_Applejack#Traveling_Applejack\" class=\"extiw\" title=\"mlw:G4 Applejack\">s</a> <a href=\"https://mlp.fandom.com/wiki/File:Applejack_DVD.jpg\" title=\"File:Applejack DVD.jpg\">ladybug</a> <a href=\"http://mylittlewiki.org/wiki/G4_Animal_Friends\" class=\"extiw\" title=\"mlw:G4 Animal Friends\">friend</a> <a href=\"https://mlp.fandom.com/wiki/File:Fluttershy_%26_Starlight_Glimmer_Pet_Care_Class_set.jpg\" title=\"File:Fluttershy &amp; Starlight Glimmer Pet Care Class set.jpg\">in</a> <a href=\"https://mlp.fandom.com/wiki/Fluttershy\" title=\"Fluttershy\">Fluttershy</a> <a href=\"https://mlp.fandom.com/wiki/File:Fluttershy_%26_Starlight_Glimmer_Pet_Care_Class_packaging.jpg\" title=\"File:Fluttershy &amp; Starlight Glimmer Pet Care Class packaging.jpg\">&amp;</a> <a href=\"https://mlp.fandom.com/wiki/Starlight_Glimmer\" title=\"Starlight Glimmer\">Starlight Glimmer</a> <a href=\"https://mlp.fandom.com/wiki/School_of_Friendship\" title=\"School of Friendship\">Pet Care Class</a> <a href=\"https://mlp.fandom.com/wiki/Toys\" title=\"Toys\">toys</a>.",
+            "img": "mlp/wiki/Other/s02e07-unnamed-ladybug.png"
+        },
+        {
+            "name": "Willful Lighting Tech\nS02E19 Unnamed Goat #1",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Putting_Your_Hoof_Down\" title=\"Putting Your Hoof Down\">Putting Your Hoof Down</a> on <a href=\"#Iron_Will\">Iron Will</a>'s team, appears on the <a href=\"https://mlp.fandom.com/wiki/File:Season_2_cast_poster.jpg\" title=\"File:Season 2 cast poster.jpg\">Season 2</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise#Posters\" title=\"Merchandise\">poster</a> behind Iron Will, is indirectly mentioned on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2334\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #34</a> <a href=\"https://mlp.fandom.com/wiki/File:Comic_issue_34_page_3.jpg\" title=\"File:Comic issue 34 page 3.jpg\">page 3</a> as having left Iron Will, appears in <a href=\"https://mlp.fandom.com/wiki/Once_Upon_a_Zeppelin\" title=\"Once Upon a Zeppelin\">Once Upon a Zeppelin</a> back on Iron Will's team, and is a character called \"Willful Lighting Tech\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>.",
+            "img": "mlp/wiki/Other/willful-lighting-tech-s02e19-unnamed-goat-1.png"
+        },
+        {
+            "name": "Willful Stage Manager\nS02E19 Unnamed Goat #2",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Putting_Your_Hoof_Down\" title=\"Putting Your Hoof Down\">Putting Your Hoof Down</a> on <a href=\"#Iron_Will\">Iron Will</a>'s team, appears on the <a href=\"https://mlp.fandom.com/wiki/File:Season_2_cast_poster.jpg\" title=\"File:Season 2 cast poster.jpg\">Season 2</a> <a href=\"https://mlp.fandom.com/wiki/Merchandise#Posters\" title=\"Merchandise\">poster</a> behind Iron Will, is indirectly mentioned on <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friendship_is_Magic_(comics)#Issue_.2334\" title=\"My Little Pony: Friendship is Magic (comics)\"><i>My Little Pony: Friendship is Magic</i> Issue #34</a> <a href=\"https://mlp.fandom.com/wiki/File:Comic_issue_34_page_3.jpg\" title=\"File:Comic issue 34 page 3.jpg\">page 3</a> as having left Iron Will, appears in <a href=\"https://mlp.fandom.com/wiki/Once_Upon_a_Zeppelin\" title=\"Once Upon a Zeppelin\">Once Upon a Zeppelin</a> back on Iron Will's team, is a character called \"Willful Stage Manager\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>, and appears in <a href=\"https://mlp.fandom.com/wiki/Between_Dark_and_Dawn\" title=\"Between Dark and Dawn\">Between Dark and Dawn</a>. Shares his design with <a href=\"https://mlp.fandom.com/wiki/File:Goat_skiing_S4E11.png\" title=\"File:Goat skiing S4E11.png\">S04E11 Unnamed Goat</a> and <a href=\"https://mlp.fandom.com/wiki/File:Iron_Will_and_brown_goat_lounging_with_drinks_S7E22.png\" title=\"File:Iron Will and brown goat lounging with drinks S7E22.png\">S07E22 Unnamed Goat</a>.",
+            "img": "mlp/wiki/Other/willful-stage-manager-s02e19-unnamed-goat-2.png"
+        },
+        {
+            "name": "S03E04 Unnamed Movie Character #1",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/One_Bad_Apple\" title=\"One Bad Apple\">One Bad Apple</a> and on Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> Absolute Discord expansion set card #156 R.",
+            "img": "mlp/wiki/Other/s03e04-unnamed-movie-character-1.png"
+        },
+        {
+            "name": "S03E04 Unnamed Movie Character #2",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/One_Bad_Apple\" title=\"One Bad Apple\">One Bad Apple</a>.",
+            "img": "mlp/wiki/Other/s03e04-unnamed-movie-character-2.png"
+        },
+        {
+            "name": "S03E04 Unnamed Movie Character #3",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/One_Bad_Apple\" title=\"One Bad Apple\">One Bad Apple</a> and on Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> Absolute Discord expansion set card #156 R.",
+            "img": "mlp/wiki/Other/s03e04-unnamed-movie-character-3.png"
+        },
+        {
+            "name": "S03E04 Unnamed Movie Character #4",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/One_Bad_Apple\" title=\"One Bad Apple\">One Bad Apple</a> and on Enterplay <a href=\"https://mlp.fandom.com/wiki/Merchandise#Collectible_card_game\" title=\"Merchandise\">collectible card game</a> Absolute Discord expansion set card #156 R.",
+            "img": "mlp/wiki/Other/s03e04-unnamed-movie-character-4.png"
+        },
+        {
+            "name": "S04E17 Unnamed Chimera",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Creatures#Chimera\" title=\"Creatures\">Chimera</a>.",
+            "img": "mlp/wiki/Other/s04e17-unnamed-chimera.png"
+        },
+        {
+            "name": "Tim Packford",
+            "description": "Appears <a href=\"https://mlp.fandom.com/wiki/File:Crew_members_in_horse_masks_hidden_frame_S5E9.png\" title=\"File:Crew members in horse masks hidden frame S5E9.png\">during an extremely brief shot</a> in <a href=\"https://mlp.fandom.com/wiki/Slice_of_Life\" title=\"Slice of Life\">Slice of Life</a>. Tweeted by <a href=\"https://mlp.fandom.com/wiki/Jim_Miller\" title=\"Jim Miller\">Jim Miller</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/609921911087366144\">in</a> mid-June 2015. Played by <a href=\"https://mlp.fandom.com/wiki/Crew#Artists_and_other_crew\" title=\"Crew\">Timothy Packford</a>.",
+            "img": "mlp/wiki/Other/tim-packford.jpg"
+        },
+        {
+            "name": "Jim",
+            "description": "Appears <a href=\"https://mlp.fandom.com/wiki/File:Crew_members_in_horse_masks_hidden_frame_S5E9.png\" title=\"File:Crew members in horse masks hidden frame S5E9.png\">during an extremely brief shot</a> in <a href=\"https://mlp.fandom.com/wiki/Slice_of_Life\" title=\"Slice of Life\">Slice of Life</a>. Tweeted by <a href=\"https://mlp.fandom.com/wiki/Sabrina_Alberghetti\" title=\"Sabrina Alberghetti\">Sabrina Alberghetti</a>, <a href=\"https://mlp.fandom.com/wiki/Ishi_Rudell\" title=\"Ishi Rudell\">Ishi Rudell</a>, and <a href=\"https://mlp.fandom.com/wiki/Jim_Miller\" title=\"Jim Miller\">Jim Miller</a> respectively <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheRealSibsy/status/339121070365880320\">on</a> May 27, 2013, <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/ishiH3Art/status/451807315985854465\">on</a> April 3, 2014, and <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/609921911087366144\">in</a> mid-June 2015. Played by <a href=\"https://mlp.fandom.com/wiki/Jim_Miller\" title=\"Jim Miller\">Jim Miller</a>.",
+            "img": "mlp/wiki/Other/jim.jpg"
+        },
+        {
+            "name": "Lunchie",
+            "description": "Appears <a href=\"https://mlp.fandom.com/wiki/File:Crew_members_in_horse_masks_hidden_frame_S5E9.png\" title=\"File:Crew members in horse masks hidden frame S5E9.png\">during an extremely brief shot</a> in <a href=\"https://mlp.fandom.com/wiki/Slice_of_Life\" title=\"Slice of Life\">Slice of Life</a>. Tweeted by <a href=\"https://mlp.fandom.com/wiki/Crew#Artists_and_other_crew\" title=\"Crew\">Katrina Hadley and Jim Miller</a> respectively <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/isitlunchyet_t/status/515236565472120832\">on</a> September 25, 2014 and <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/609921911087366144\">in</a> mid-June 2015. Played by Katrina Hadley.",
+            "img": "mlp/wiki/Other/lunchie.jpg"
+        },
+        {
+            "name": "Jayson",
+            "description": "Appears <a href=\"https://mlp.fandom.com/wiki/File:Crew_members_in_horse_masks_hidden_frame_S5E9.png\" title=\"File:Crew members in horse masks hidden frame S5E9.png\">during an extremely brief shot</a> in <a href=\"https://mlp.fandom.com/wiki/Slice_of_Life\" title=\"Slice of Life\">Slice of Life</a>. Tweeted by <a href=\"https://mlp.fandom.com/wiki/Sabrina_Alberghetti\" title=\"Sabrina Alberghetti\">Sabrina Alberghetti</a>, <a href=\"https://mlp.fandom.com/wiki/Ishi_Rudell\" title=\"Ishi Rudell\">Ishi Rudell</a>, and <a href=\"https://mlp.fandom.com/wiki/Jim_Miller\" title=\"Jim Miller\">Jim Miller</a> respectively <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheRealSibsy/status/339121070365880320\">on</a> May 27, 2013, <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/ishiH3Art/status/451807315985854465\">on</a> April 3, 2014, and <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/609921911087366144\">in</a> mid-June 2015. Played by <a href=\"https://mlp.fandom.com/wiki/Jayson_Thiessen\" title=\"Jayson Thiessen\">Jayson Thiessen</a>.",
+            "img": "mlp/wiki/Other/jayson.jpg"
+        },
+        {
+            "name": "Ishi",
+            "description": "Appears <a href=\"https://mlp.fandom.com/wiki/File:Crew_members_in_horse_masks_hidden_frame_S5E9.png\" title=\"File:Crew members in horse masks hidden frame S5E9.png\">during an extremely brief shot</a> in <a href=\"https://mlp.fandom.com/wiki/Slice_of_Life\" title=\"Slice of Life\">Slice of Life</a>. Tweeted by <a href=\"https://mlp.fandom.com/wiki/Ishi_Rudell\" title=\"Ishi Rudell\">Ishi Rudell</a> and <a href=\"https://mlp.fandom.com/wiki/Jim_Miller\" title=\"Jim Miller\">Jim Miller</a> respectively <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/ishiH3Art/status/451807315985854465\">on</a> April 3, 2014 and <a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/TheBiggestJim/status/609921911087366144\">in</a> mid-June 2015. Played by <a href=\"https://mlp.fandom.com/wiki/Ishi_Rudell\" title=\"Ishi Rudell\">Ishi Rudell</a>.",
+            "img": "mlp/wiki/Other/ishi.jpg"
+        },
+        {
+            "name": "S06E05 Unnamed Slingtail",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Gauntlet_of_Fire\" title=\"Gauntlet of Fire\">Gauntlet of Fire</a> several times as an obstacle in the Gauntlet of Fire.",
+            "img": "mlp/wiki/Other/s06e05-unnamed-slingtail.png"
+        },
+        {
+            "name": "Sphinx\nS07E18 Unnamed Sphinx",
+            "description": "Appears in <a href=\"https://mlp.fandom.com/wiki/Daring_Done%3F\" title=\"Daring Done?\">Daring Done?</a> and is a character called \"Sphinx\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. The game's description of her states, \"Hobbies include riddles, long walks inside her pyramid, and menacing Southern Equestria.\" She has a story role and serves as a boss in the \"Wonderbolt for a Day\" event.",
+            "img": "mlp/wiki/Other/sphinx-s07e18-unnamed-sphinx.png"
+        },
+        {
+            "name": "Micro 06 Unnamed Sass Squash",
+            "description": "See <a href=\"https://mlp.fandom.com/wiki/Creatures#Issue_.236\" title=\"Creatures\">Sass Squash</a>.",
+            "img": "mlp/wiki/Other/micro-06-unnamed-sass-squash.png"
+        },
+        {
+            "name": "Micro 07 Unnamed Greater Equestrian Mimicker - Imp's Mother",
+            "description": "Appears at the end of <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_Micro-Series#Issue_.237\" title=\"My Little Pony Micro-Series\"><i>My Little Pony Micro-Series</i> Issue #7</a>.",
+            "img": "mlp/wiki/Other/micro-07-unnamed-greater-equestrian-mimicker-imp-s-mother.jpg"
+        },
+        {
+            "name": "Friends Forever 04 Unnamed Crystal Bard",
+            "description": "A crystal bard that is mistaken for a crystal ghost in <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony:_Friends_Forever#Issue_.234\" title=\"My Little Pony: Friends Forever\"><i>Friends Forever</i> Issue #4</a>.",
+            "img": "mlp/wiki/Other/friends-forever-04-unnamed-crystal-bard.png"
+        },
+        {
+            "name": "Storm Creature General\n​[​specify​]​",
+            "description": "A character called \"Storm Creature General\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. Serves as commander of the Storm Creatures occupying Ponyville during the \"Resistance Rising\" event."
+        },
+        {
+            "name": "Reformed Windigo\n​[​specify​]​",
+            "description": "A character called \"Reformed Windigo\" in Gameloft's <a href=\"https://mlp.fandom.com/wiki/My_Little_Pony_(mobile_game)\" title=\"My Little Pony (mobile game)\">mobile game</a>. The game's description of Reformed Windigo states, \"These fierce legendary beasts were indirectly responsible for Hearth's Warming Eve! This one, though, runs on the power of friendship instead of resentment, and is 99% guaranteed to not cause a time paradox.\"",
+            "img": "mlp/wiki/Other/reformed-windigo-specify.png"
+        }
+    ]
+}

@@ -21,8 +21,34 @@ from slugify import slugify
 # pony_descriptor = 'Kirin'
 # url = 'https://mlp.fandom.com/wiki/List_of_ponies/Elders'
 # pony_descriptor = 'Elders'
-url = 'https://mlp.fandom.com/wiki/List_of_ponies/Foals'
-pony_descriptor = 'Foals'
+# url = 'https://mlp.fandom.com/wiki/List_of_ponies/Foals'
+# pony_descriptor = 'Foals'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Dragons'
+# pony_descriptor = 'Dragons'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Griffons'
+# pony_descriptor = 'Griffons'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Felines'
+# pony_descriptor = 'Felines'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Changelings'
+# pony_descriptor = 'Changelings'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Deer'
+# pony_descriptor = 'Deer'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Avians'
+# pony_descriptor = 'Avians'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Breezies'
+# pony_descriptor = 'Breezies'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Bovines'
+# pony_descriptor = 'Bovines'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Canines'
+# pony_descriptor = 'Canines'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Klugetowners'
+# pony_descriptor = 'Klugetowners'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Seaponies_and_mermares'
+# pony_descriptor = 'Seaponies_and_mermares'
+# url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Hippogriffs'
+# pony_descriptor = 'Hippogriffs'
+url = 'https://mlp.fandom.com/wiki/List_of_non-pony_characters/Other'
+pony_descriptor = 'Other'
 
 ponylist = []
 
@@ -74,7 +100,10 @@ for row in e:
 
         src = img.get('data-src') or img.get('src')
         try:
-            extension = img.get('data-image-name').split('.')[-1]
+            image_name = img.get('data-image-name')
+            if image_name == 'My Little Pony G4 logo.svg':
+                continue
+            extension = image_name.split('.')[-1]
         except AttributeError:
             extension = 'png'
         filename = 'mlp/wiki/{}/{}.{}'.format(pony_descriptor, slug, extension)

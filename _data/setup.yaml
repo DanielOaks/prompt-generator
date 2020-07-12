@@ -1,15 +1,30 @@
 categories:
   mlp:
     name: "MLP:FiM"
+    disclaimer: 'Includes content from <a href="https://mlp.fandom.com/">mlp.fandom.com</a> used under CC-BY-SA'
+    character_images_required: true
     characters:
       # - mlp/characters/mane-cast
       - mlp/characters/mlp-fandom-wiki/Alicorn_ponies
+      - mlp/characters/mlp-fandom-wiki/Avians
+      - mlp/characters/mlp-fandom-wiki/Bovines
+      - mlp/characters/mlp-fandom-wiki/Breezies
+      - mlp/characters/mlp-fandom-wiki/Canines
+      - mlp/characters/mlp-fandom-wiki/Changelings
       - mlp/characters/mlp-fandom-wiki/Crystal_ponies
+      - mlp/characters/mlp-fandom-wiki/Deer
+      - mlp/characters/mlp-fandom-wiki/Dragons
       - mlp/characters/mlp-fandom-wiki/Earth_ponies
       - mlp/characters/mlp-fandom-wiki/Elders
+      - mlp/characters/mlp-fandom-wiki/Felines
       - mlp/characters/mlp-fandom-wiki/Foals
+      - mlp/characters/mlp-fandom-wiki/Griffons
+      - mlp/characters/mlp-fandom-wiki/Hippogriffs
       - mlp/characters/mlp-fandom-wiki/Kirin
+      - mlp/characters/mlp-fandom-wiki/Klugetowners
+      - mlp/characters/mlp-fandom-wiki/Other
       - mlp/characters/mlp-fandom-wiki/Pegasus_ponies
+      - mlp/characters/mlp-fandom-wiki/Seasponies_and_mermares
       - mlp/characters/mlp-fandom-wiki/Unicorn_ponies
     locations:
       - common/locations/village
