@@ -30,13 +30,18 @@ html, body {
 }
 
 body {
-    background: #36a;
     font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+
+    background: #36a;
+    background: url("/img/trianglify-bg.svg") no-repeat fixed center;
+    background: radial-gradient(rgba(0, 0, 255, 0.1), rgba(0, 0, 100, 0.5) 120%) no-repeat fixed center, url("/img/trianglify-bg.svg") no-repeat fixed center;
+    background-size: cover;
 }
 .page > div {
     width: 40em;
     max-width: calc(100% - 2em);
     margin: 0 auto;
+    padding: 1em 0 .5em;
 }
 
 .buttonList {
@@ -72,6 +77,7 @@ body {
     margin-top: .8em;
     border-radius: .5em;
     overflow: hidden;
+    backdrop-filter: blur(.7rem);
     > div.img {
         width: 150px;
         display: flex;
