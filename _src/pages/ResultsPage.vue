@@ -4,9 +4,17 @@
 
   <button class="button smol" v-on:click="moveToCategoriesPage()">Go Back</button>
 
-  <h3 v-for="(char, id) in $root.$data.charsToDisplay" v-bind:key="id">{{ char.name }}</h3>
+  <div v-for="(char, id) in $root.$data.charsToDisplay" v-bind:key="id">
+    <h3>{{ char.name }}</h3>
+    <div class="descLine" v-if="char.description || char.img">
+      <div class="img" v-if="char.img"><img :src="'/img/chars/' + char.img"/></div>
+      <div class="desc"><p v-if="char.description" v-html="char.description"></p></div>
+    </div>
+  </div>
 
   <button class="button regen" v-on:click="generateResults()">Regenerate</button>
+
+<p class="footer">Includes content from <a href="https://mlp.fandom.com/">mlp.fandom.com</a> used under CC-BY-SA</p>
 
 </div></div></template>
 
@@ -64,7 +72,7 @@ export default {
 
             charList.push(character)
             uniqueChars += 1;
-            randomCharWeightUpperLimit += character.weight;
+            randomCharWeightUpperLimit += character.weight || 1;
           }
         }
       }
@@ -84,7 +92,7 @@ export default {
         var regenerateChar = false;
         var weightToGo = Math.random() * randomCharWeightUpperLimit;
         for (const char of charList) {
-          if (weightToGo <= char.weight) {
+          if (weightToGo <= (char.weight || 1)) {
             if (this.$root.$data.charsToDisplay.includes(char)) {
               regenerateChar = true;
               break;
@@ -94,7 +102,7 @@ export default {
             break;
           }
 
-          weightToGo -= char.weight;
+          weightToGo -= char.weight || 1;
         }
         if (regenerateChar) {
           i -= 1;

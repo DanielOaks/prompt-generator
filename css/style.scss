@@ -23,9 +23,11 @@ html, body {
     }
     &.passed {
         left: -100vw;
+        left: calc(-100vw);
     }
     &.todo {
         left: 100vw;
+        left: calc(100vw);
     }
 }
 
@@ -50,11 +52,57 @@ body {
     border-radius: .4em;
     cursor: pointer;
     touch-action: manipulation; // disable double-tap-to-zoom on phones/tablets
+    user-select: none;
     &:hover {
         background: rgba(241, 241, 241, .14);
     }
     &.smol {
         font-size: 1em;
         padding: .4em .5em;
+    }
+}
+
+.descLine {
+    display: flex;
+    background: rgba(240, 248, 255, .12);
+    margin-top: .8em;
+    border-radius: .5em;
+    overflow: hidden;
+    > div.img {
+        width: 150px;
+        display: flex;
+        flex: none;
+        align-items: center;
+        justify-content: center;
+        padding: 0.7em 0;
+        background: rgba(13, 40, 64, .32);
+        img {
+            max-height: 150px;
+            max-width: 150px;
+        }
+    }
+    > div.desc {
+        width: 100%;
+        color: #eef;
+        line-height: 1.2;
+        padding: .5em .7em;
+        a {
+            text-decoration: none;
+            font-style: italic;
+            color: #bcdff1;
+        }
+    }
+}
+
+p.footer {
+    display: block;
+    text-align: center;
+    padding-top: 1.2em;
+    font-size: 0.9em;
+    color: #eef;
+    a {
+        text-decoration: none;
+        font-style: italic;
+        color: #bcdff1;
     }
 }
