@@ -1,0 +1,1 @@
+These files are under CC-BY-SA, and come from the [character lists](https://mlp.fandom.com/wiki/List_of_ponies/) on the [MLP Fandom Wiki](https://mlp.fandom.com/)
