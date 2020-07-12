@@ -41,5 +41,11 @@ new Vue({
 
         this.$refs.loadingSpinner.hide();
       });
+    
+    // we do this here because these two css rules break for no good reason,
+    //  but only do so intermittently (and toggling these rules on/off in the
+    //  dev view fixes it). browsers. please.
+    document.styleSheets[0].insertRule(".page.todo { margin-left: 100vw; }", 0)
+    document.styleSheets[0].insertRule(".page.passed { margin-left: -100vw; }", 0)
   },
 })

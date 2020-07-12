@@ -6,11 +6,11 @@
 
 html, body, #app {
     overflow-x: hidden;
-    width: 100%;
+    width: 100vw;
 }
 
 .page {
-    width: 100%;
+    width: 100vw;
     height: 100%;
     position: absolute;
     overflow-x: hidden;
@@ -23,12 +23,14 @@ html, body, #app {
         // opacity: 0;
         pointer-events: none;
     }
-    &.passed {
-        margin-left: -100%;
-    }
-    &.todo {
-        margin-left: 100%;
-    }
+    // why the hell do these rules intermittently break?
+    // browsers what are you doing.
+    // &.passed {
+    //     margin-left: -100%;
+    // }
+    // &.todo {
+    //     margin-left: 100%;
+    // }
 }
 
 body {
