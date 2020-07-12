@@ -28,6 +28,7 @@ new Vue({
     characterCache: {},
     locationCache: {},
     charsToDisplay: [],
+    character_images_required: false,
   },
   mounted: function() {
     this.$refs.categoriesPage.show();

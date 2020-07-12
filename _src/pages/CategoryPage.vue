@@ -19,6 +19,11 @@
   <label for="locations">Generate Location</label>
   </div>
 
+  <div class="checkbox-line">
+  <input id="char-images-required" v-model="$root.character_images_required" type="checkbox">
+  <label for="char-images-required">Character images required</label>
+  </div>
+
 </div></div></template>
 
 <script>
@@ -35,6 +40,9 @@ export default {
       cp.classList.add('passed');
 
       this.$el.classList.remove('todo', 'passed');
+
+      const cat = this.$parent.$data.current_category;
+      this.$parent.$data.character_images_required = this.$parent.$data.setup.categories[cat].character_images_required;
     },
     adjustchars: function(num) {
       this.$root.$data.generate_characters = Math.max(0, this.$root.$data.generate_characters + num);

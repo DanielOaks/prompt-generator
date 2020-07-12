@@ -15,7 +15,7 @@
     </div>
   </div>
 
-<p class="footer">Includes content from <a href="https://mlp.fandom.com/">mlp.fandom.com</a> used under CC-BY-SA</p>
+<p class="footer" v-if="$root.setup.categories[$root.current_category].disclaimer" v-html="$root.setup.categories[$root.current_category].disclaimer"></p>
 
 </div></div></template>
 
@@ -53,6 +53,7 @@ export default {
       }
 
       // characters first
+      const imagesRequired = this.$parent.$data.character_images_required;
       var paths = this.$parent.$data.setup.categories[cat].characters;
 
       uniqueChars = 0;
@@ -75,6 +76,10 @@ export default {
                 weight: 1,
                 description: '',
               };
+            }
+
+            if (imagesRequired && !character.img) {
+              continue;
             }
 
             charList.push(character)
