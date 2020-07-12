@@ -8,7 +8,7 @@
   </div>
 
   <div v-for="(char, id) in $root.$data.charsToDisplay" v-bind:key="id">
-    <h3>{{ char.name }}</h3>
+    <h3 v-html="escapeHtml(char.name).replace('\n', '<br>')"></h3>
     <div class="descLine" v-if="char.description || char.img">
       <div class="img"><img v-if="char.img" :src="'/img/chars/' + char.img"/></div>
       <div class="desc"><p v-if="char.description" v-html="char.description"></p></div>
@@ -27,6 +27,12 @@ var charList = [];
 export default {
   name: 'ResultsPage',
   methods: {
+    escapeHtml: function(html) {
+      var text = document.createTextNode(html);
+      var p = document.createElement('p');
+      p.appendChild(text);
+      return p.innerHTML;
+    },
     show: function(e) {
       for (const p of document.getElementsByClassName('page')) {
         p.classList.remove('todo');
@@ -133,5 +139,6 @@ h3 {
   font-size: 2.25rem;
   text-align: center;
   padding: 1em 0 0;
+  line-height: 1.2;
 }
 </style>
