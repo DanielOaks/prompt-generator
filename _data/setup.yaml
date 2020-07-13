@@ -35,8 +35,10 @@ categories:
 
   su:
     name: Steven Universe
+    disclaimer: 'Includes content from <a href="https://steven-universe.fandom.com/">steven-universe.fandom.com</a> used under CC-BY-SA'
+    character_images_required: true
     characters:
-      - su/characters/main-cast
+      - su/characters/su-fandom-wiki/main-cast
     locations:
       - common/locations/earth
       - common/locations/beach
