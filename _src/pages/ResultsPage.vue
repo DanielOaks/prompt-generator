@@ -7,11 +7,19 @@
     <button class="button smol" v-on:click="generateResults()">Regenerate</button>
   </div>
 
-  <div v-for="(char, id) in $root.$data.charsToDisplay" v-bind:key="id">
+  <div v-for="(char, charId) in $root.$data.charsToDisplay" v-bind:key="charId">
     <h3 v-html="escapeHtml(char.name).replace('\n', '<br>')"></h3>
     <div class="descLine" v-if="char.description || char.img">
       <div class="img"><img v-if="char.img" :src="'/img/chars/' + char.img"/></div>
       <div class="desc"><p v-if="char.description" v-html="char.description"></p></div>
+    </div>
+  </div>
+
+  <div v-for="(location, locId) in $root.$data.locationsToDisplay" v-bind:key="locId">
+    <h3 v-html="escapeHtml(location.name).replace('\n', '<br>')"></h3>
+    <div class="descLine" v-if="location.description || location.img">
+      <div class="img"><img v-if="location.img" :src="'/img/locations/' + location.img"/></div>
+      <div class="desc"><p v-if="location.description" v-html="location.description"></p></div>
     </div>
   </div>
 
@@ -20,6 +28,10 @@
 </div></div></template>
 
 <script>
+var uniqueLocations = 0;
+var randomLocationsWeightUpperLimit = 0;
+var locationList = [];
+
 var uniqueChars = 0;
 var randomCharWeightUpperLimit = 0;
 var charList = [];
@@ -44,6 +56,46 @@ export default {
     moveToCategoriesPage: function() {
       this.$parent.$refs.categoryPage.show();
     },
+    parseRandomList: function(typeOfItem, paths, imagesRequired) {
+      var uniqueItems = 0;
+      var randomItemWeightUpperLimit = 0;
+      var itemList = [];
+
+      for (const path of paths) {
+        if (!this.$jsonPointer.has(this.$parent.$data.data, '/' + path)) {
+          continue;
+        }
+
+        const set = this.$jsonPointer.get(this.$parent.$data.data, '/' + path);
+        if (set && set[typeOfItem]) {
+          console.log('loading', typeOfItem, 'in set', set.name);
+
+          for (var item of set[typeOfItem]) {
+            if (typeof item === 'string') {
+              item = {
+                name: item,
+                weight: 1,
+                description: '',
+              };
+            }
+
+            if (imagesRequired && !item.img) {
+              continue;
+            }
+
+            itemList.push(item)
+            uniqueItems += 1;
+            randomItemWeightUpperLimit += item.weight || 1;
+          }
+        }
+      }
+
+      return {
+        'uniqueItems': uniqueItems,
+        'randomItemWeightUpperLimit': randomItemWeightUpperLimit,
+        'itemList': itemList,
+      }
+    },
     generateCaches: function() {
       console.log('generating caches \o/');
 
@@ -52,51 +104,48 @@ export default {
         return
       }
 
-      // characters first
-      const imagesRequired = this.$parent.$data.character_images_required;
-      var paths = this.$parent.$data.setup.categories[cat].characters;
+      // locations
+      var paths = this.$parent.$data.setup.categories[cat].locations;
+      var imagesRequired = false;
 
-      uniqueChars = 0;
-      randomCharWeightUpperLimit = 0;
-      charList = [];
+      var info = this.parseRandomList('locations', paths, imagesRequired);
+      uniqueLocations = info.uniqueItems
+      randomLocationsWeightUpperLimit = info.randomItemWeightUpperLimit
+      locationList = info.itemList
 
-      for (const path of paths) {
-        if (!this.$jsonPointer.has(this.$parent.$data.data, '/' + path)) {
-          continue;
-        }
+      console.log('generated locations:', uniqueLocations, randomLocationsWeightUpperLimit, locationList);
 
-        const set = this.$jsonPointer.get(this.$parent.$data.data, '/' + path);
-        if (set && set.characters) {
-          console.log('loading characters in set', set.name);
+      // characters
+      paths = this.$parent.$data.setup.categories[cat].characters;
+      imagesRequired = this.$parent.$data.character_images_required;
 
-          for (var character of set.characters) {
-            if (typeof character === 'string') {
-              character = {
-                name: character,
-                weight: 1,
-                description: '',
-              };
-            }
+      info = this.parseRandomList('characters', paths, imagesRequired);
+      uniqueChars = info.uniqueItems
+      randomCharWeightUpperLimit = info.randomItemWeightUpperLimit
+      charList = info.itemList
 
-            if (imagesRequired && !character.img) {
-              continue;
-            }
+      console.log('generated characters:', uniqueChars, randomCharWeightUpperLimit, charList);
+    },
+    generateResults: function() {
+      // location
+      this.$root.$data.locationsToDisplay = [];
 
-            charList.push(character)
-            uniqueChars += 1;
-            randomCharWeightUpperLimit += character.weight || 1;
+      if (this.$root.$data.generate_location) {
+        var weightToGo = Math.random() * randomLocationsWeightUpperLimit;
+        for (const location of locationList) {
+          if (weightToGo <= (location.weight || 1)) {
+            //TODO(dan): I don't understand why this line is giving me a 'Duplicate keys detected'
+            // error. maybe Vue's doing some weird caching stuff the below code avoids by simply
+            // waiting longer before starting to push new things into there?
+            this.$root.$data.locationsToDisplay.push(location);
+            break;
           }
+
+          weightToGo -= location.weight || 1;
         }
       }
 
-      console.log('generated characters:', uniqueChars, randomCharWeightUpperLimit, charList);
-      
-
-      console.log(this.$parent.$data.setup.categories[cat].locations);
-
-      console.log('building happens here!');
-    },
-    generateResults: function() {
+      // characters
       this.$root.$data.charsToDisplay = [];
 
       const charsToGenerate = Math.min(uniqueChars, this.$root.$data.generate_characters);

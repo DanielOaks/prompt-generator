@@ -28,6 +28,7 @@ new Vue({
     characterCache: {},
     locationCache: {},
     charsToDisplay: [],
+    locationsToDisplay: [],
     character_images_required: false,
   },
   mounted: function() {
