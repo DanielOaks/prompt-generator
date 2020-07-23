@@ -43,6 +43,7 @@ export default {
 
       const cat = this.$parent.$data.current_category;
       this.$parent.$data.character_images_required = this.$parent.$data.setup.categories[cat].character_images_required;
+      this.$parent.$data.generate_location = this.$parent.$data.setup.categories[cat].generate_location;
     },
     adjustchars: function(num) {
       this.$root.$data.generate_characters = Math.max(0, this.$root.$data.generate_characters + num);

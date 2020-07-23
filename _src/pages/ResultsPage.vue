@@ -7,7 +7,7 @@
     <button class="button smol" v-on:click="generateResults()">Regenerate</button>
   </div>
 
-  <div v-for="(char, charId) in $root.$data.charsToDisplay" v-bind:key="charId">
+  <div v-for="(char, id) in $root.$data.charsToDisplay" v-bind:key="'c'+id">
     <h3 v-html="escapeHtml(char.name).replace('\n', '<br>')"></h3>
     <div class="descLine" v-if="char.description || char.img">
       <div class="img"><img v-if="char.img" :src="'/img/chars/' + char.img"/></div>
@@ -15,8 +15,9 @@
     </div>
   </div>
 
-  <div v-for="(location, locId) in $root.$data.locationsToDisplay" v-bind:key="locId">
+  <div v-for="(location, id) in $root.$data.locationsToDisplay" v-bind:key="'l'+id">
     <h3 v-html="escapeHtml(location.name).replace('\n', '<br>')"></h3>
+    <div class="categoryName" v-if="location.categoryName" v-html="escapeHtml(location.categoryName).replace('\n', '<br>')"></div>
     <div class="descLine" v-if="location.description || location.img">
       <div class="img"><img v-if="location.img" :src="'/img/locations/' + location.img"/></div>
       <div class="desc"><p v-if="location.description" v-html="location.description"></p></div>
@@ -70,6 +71,8 @@ export default {
         if (set && set[typeOfItem]) {
           console.log('loading', typeOfItem, 'in set', set.name);
 
+          const categoryName = set['displayed-name'];
+
           for (var item of set[typeOfItem]) {
             if (typeof item === 'string') {
               item = {
@@ -81,6 +84,10 @@ export default {
 
             if (imagesRequired && !item.img) {
               continue;
+            }
+
+            if (categoryName) {
+              item['categoryName'] = categoryName;
             }
 
             itemList.push(item)
@@ -134,9 +141,6 @@ export default {
         var weightToGo = Math.random() * randomLocationsWeightUpperLimit;
         for (const location of locationList) {
           if (weightToGo <= (location.weight || 1)) {
-            //TODO(dan): I don't understand why this line is giving me a 'Duplicate keys detected'
-            // error. maybe Vue's doing some weird caching stuff the below code avoids by simply
-            // waiting longer before starting to push new things into there?
             this.$root.$data.locationsToDisplay.push(location);
             break;
           }
@@ -194,5 +198,10 @@ h3 {
   text-align: center;
   padding: 1em 0 0;
   line-height: 1.2;
+}
+.categoryName {
+  color: #cad6e0;
+  text-align: center;
+  padding-top: .2em;
 }
 </style>
