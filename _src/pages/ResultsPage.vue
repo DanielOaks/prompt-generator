@@ -7,7 +7,7 @@
     <button class="button smol" v-on:click="generateResults()">Regenerate</button>
   </div>
 
-  <div v-for="(char, id) in $root.$data.charsToDisplay" v-bind:key="'c'+id">
+  <div class="character" v-for="(char, id) in $root.$data.charsToDisplay" v-bind:key="'c'+id">
     <h3 v-html="escapeHtml(char.name).replace('\n', '<br>')"></h3>
     <div class="descLine" v-if="char.description || char.img">
       <div class="img"><img v-if="char.img" :src="'/img/chars/' + char.img"/></div>
@@ -15,7 +15,7 @@
     </div>
   </div>
 
-  <div v-for="(location, id) in $root.$data.locationsToDisplay" v-bind:key="'l'+id">
+  <div class="location" v-for="(location, id) in $root.$data.locationsToDisplay" v-bind:key="'l'+id">
     <h3 v-html="escapeHtml(location.name).replace('\n', '<br>')"></h3>
     <div class="categoryName" v-if="location.categoryName" v-html="escapeHtml(location.categoryName).replace('\n', '<br>')"></div>
     <div class="descLine" v-if="location.description || location.img">
@@ -198,6 +198,10 @@ h3 {
   text-align: center;
   padding: 1em 0 0;
   line-height: 1.2;
+}
+div.location h3 {
+  font-size: 1.8em;
+  font-weight: 500;
 }
 .categoryName {
   color: #cad6e0;
