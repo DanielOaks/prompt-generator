@@ -24,6 +24,8 @@
   <label for="char-images-required">Character images required</label>
   </div>
 
+  <div class="footer"><p><a href="https://github.com/DanielOaks/prompt-generator">github repo</a></p></div>
+
 </div></div></template>
 
 <script>

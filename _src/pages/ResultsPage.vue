@@ -24,7 +24,9 @@
     </div>
   </div>
 
-<div v-if="$root.setup.categories[$root.current_category]"><p class="footer" v-if="$root.setup.categories[$root.current_category].disclaimer" v-html="$root.setup.categories[$root.current_category].disclaimer"></p></div>
+  <div class="footer" v-if="$root.setup.categories[$root.current_category]"><p v-if="$root.setup.categories[$root.current_category].disclaimer" v-html="$root.setup.categories[$root.current_category].disclaimer"></p></div>
+
+  <div class="footer"><p><a href="https://github.com/DanielOaks/prompt-generator">github repo</a></p></div>
 
 </div></div></template>
 

@@ -3,6 +3,8 @@
 
   <button class="button" v-on:click="moveToCategoryPage(id)" v-for="(info, id) in $root.setup.categories" v-bind:key="id">{{ info.name }}</button>
 
+  <div class="footer"><p><a href="https://github.com/DanielOaks/prompt-generator">github repo</a></p></div>
+
 </div></div></template>
 
 <script>

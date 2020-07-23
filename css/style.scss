@@ -110,16 +110,21 @@ body {
     }
 }
 
-p.footer {
-    display: block;
+div.footer {
     text-align: center;
     padding-top: 2.3em;
-    font-size: 0.9em;
+    font-size: 0.95em;
     color: #edf2f9;
     opacity: .9;
+    p {
+        display: block;
+    }
     a {
         text-decoration: none;
         font-style: italic;
         color: #bcdff1;
+    }
+    + div.footer {
+        padding-top: .5em;
     }
 }
