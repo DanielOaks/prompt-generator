@@ -26,8 +26,15 @@ categories:
       - mlp/characters/mlp-fandom-wiki/Pegasus_ponies
       - mlp/characters/mlp-fandom-wiki/Seasponies_and_mermares
       - mlp/characters/mlp-fandom-wiki/Unicorn_ponies
+    generate_location: true
     locations:
-      - common/locations/village
+      - mlp/locations/caterlot
+      - mlp/locations/cloudsdale
+      - mlp/locations/equestria
+      - mlp/locations/everfree-forest
+      - mlp/locations/manehattan
+      - mlp/locations/old-west-equestria
+      - mlp/locations/outside-equestria
       - mlp/locations/ponyville
     scenes:
       - common/small-town
